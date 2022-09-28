@@ -18,9 +18,8 @@ menu:
 social:
 - {icon: 'github',     link: 'https://www.github.com/romaintilhac'}
 - {icon: 'twitter',    link: 'https://twitter.com/romaintilhac'}
-- {icon: 'linkedin',   link: ''}
-- {icon: 'envelope',   link: 'mailto:romain.tilhac@gmail.com'}
-- {icon: 'rss-square', link: '/feed.xml'}
+- {icon: 'instagram',    link: 'https://www.instagram.com/romaintilhac'}
+- {icon: 'envelope',   link: 'mailto:romain.tilhac@csic.es'}
 # - {icon: 'rss-square', link: '/rss-feed.xml'}
 
 # Customize site text
