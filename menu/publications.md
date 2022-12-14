@@ -7,9 +7,9 @@ All available on [Google Scholar](https://scholar.google.com/citations?user=CwjY
 
 ## Peer-reviewed articles
 
-19.	**Tilhac, R.**, Begg, G.C., O’Reilly, S.Y., Griffin W.L. A global review of Hf-Nd isotopes: new perspectives on the chicken-and-egg problem of ancient mantle signatures. 2022. *Chemical Geology*, **609**, 121039. [DOI](https://doi.org/doi.org/10.1016/j.chemgeo.2022.121039)
-
-18.	Ceuleneer, G., Rospabé, M., Chatelin, T., Henry, H., **Tilhac, R.**, Kaczmarek, M.-A., le Sueur, E. 2022. A Rosetta stone linking melt trajectories in the mantle to the stress field and lithological heterogeneities (Trinity ophiolite, California). *Geology*, **50 (10)**, 1192–1196. [DOI](https://doi.org/10.1130/G50083.1)
+19.	**Tilhac, R.**, Begg, G.C., O’Reilly, S.Y., Griffin W.L. A global review of Hf-Nd isotopes: new perspectives on the chicken-and-egg problem of ancient mantle signatures. 2022. *Chemical Geology*, **609**, 121039. [DOI](https://doi.org/10.1016/j.chemgeo.2022.121039)
+20.	
+21.	Ceuleneer, G., Rospabé, M., Chatelin, T., Henry, H., **Tilhac, R.**, Kaczmarek, M.-A., le Sueur, E. 2022. A Rosetta stone linking melt trajectories in the mantle to the stress field and lithological heterogeneities (Trinity ophiolite, California). *Geology*, **50 (10)**, 1192–1196. [DOI](https://doi.org/10.1130/G50083.1)
 
 17.	Jonnalagadda, M.K., Benoit, M., Harshe, S., **Tilhac, R.**, Duraiswami, A., Grégoire, M., Karmalkar, N.R. 2022. Multi-stage evolution of the Tethyan lithosphere as recorded in the Spontang Ophiolite, South Ladakh ophiolites (NW Himalaya, India). *Geoscience Frontiers*, **13**, 101297. [DOI](https://doi.org/10.1016/j.gsf.2021.101297)
 
