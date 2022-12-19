@@ -1,5 +1,5 @@
 # Romain Tilhac's personal webpage
 
-Hosted on [Github Pages](https://pages.github.com/), created with the Jekyll theme [Lagrange](https://lenpaul.github.io/Lagrange/)
+Created with the Jekyll theme [Lagrange](https://lenpaul.github.io/Lagrange/), hosted on [Github Pages](https://pages.github.com/), 
 
 Updated on 
