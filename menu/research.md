@@ -8,14 +8,14 @@ My research relates to the compositional evolution of the Earth’s mantle throu
 
 Check out my [ResearchGate](https://www.researchgate.net/profile/Romain-Tilhac) profile.
 
-# Current projects
+## Current projects
 
 - Source, melting and lithospheric processes during basalt genesis
 - Petrological and geochemical modelling of mantle magmatism
 - Deep differentiation of arc magmas
 - High-temperature radiogenic isotope geochemistry
 
-# Previous projects
+## Previous projects
 
 - Cabo Ortegal Complex pyroxenites
 - Trinity ophiolite
