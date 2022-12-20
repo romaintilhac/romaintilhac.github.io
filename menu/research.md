@@ -28,6 +28,8 @@ Characterizing the nature and composition of magmatic products (and their metamo
 
 Analytical applications and modelling of radiogenic isotope systems (mainly Hf-Nd but also Sr, Pb, Os) to tracing and dating in high-temperature geochemical problems.
 
+<img src="{{ site.github.url }}/assets/img/labo.jpg" style="height: 200px; width:200px;"/>
+
 ## Previous projects
 
 ### Cabo Ortegal Complex pyroxenites
