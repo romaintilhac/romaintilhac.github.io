@@ -8,6 +8,8 @@ My research relates to the compositional evolution of the Earth’s mantle throu
 
 Check out my [ResearchGate](https://www.researchgate.net/profile/Romain-Tilhac) profile.
 
+<img src="{{ site.github.url }}/assets/img/terrain.jpg" style="width:100%;"/>
+
 ## Current projects
 
 ### Source, melting and lithospheric processes during basalt genesis
@@ -28,7 +30,7 @@ Characterizing the nature and composition of magmatic products (and their metamo
 
 Analytical applications and modelling of radiogenic isotope systems (mainly Hf-Nd but also Sr, Pb, Os) to tracing and dating in high-temperature geochemical problems.
 
-<img src="{{ site.github.url }}/assets/img/labo.jpg" style="height: 200px; width:200px;"/>
+<img src="{{ site.github.url }}/assets/img/labo.jpg" style="width:100%;"/>
 
 ## Previous projects
 
