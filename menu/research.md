@@ -20,7 +20,9 @@ Collaborative development and use of various numerical modelling tools: diffusio
 
 ### Deep differentiation of arc magmas
 
-Characterizing the nature and composition of magmatic products (and their metamorphic and metasomatic overprints) in the sub-arc mantle and lower crust to constrain (1) the impact of fluid-melt-rock interaction on the evolution of arc magmas and (2) the impact of their potential recycling on the dynamics and magmatism of the convective mantle.
+Characterizing the nature and composition of magmatic products (and their metamorphic and metasomatic overprints) in the sub-arc mantle and lower crust to constrain:
+- the impact of fluid-melt-rock interaction on the evolution of arc magmas;
+- the impact of their potential recycling on the dynamics and magmatism of the convective mantle.
 
 ### High-temperature radiogenic isotope geochemistry
 
@@ -31,12 +33,12 @@ Analytical applications and modelling of radiogenic isotope systems (mainly Hf-N
 ### Cabo Ortegal Complex pyroxenites
 
 This project aimed to contribute to the understanding of the:
-- (1) petrogenesis of pyroxenites in the sub-arc mantle;
-- (2) overprint of subduction-related metasomatism and metamorphism;
-- (3) the variability of source and timing of pyroxenite formation;
-- (4) deformation of pyroxenites in layered mantle domains;
-- (5) seismic properties of pyroxenite-rich mantle via numerical modelling;
-- (6) associated tectonic and geodynamic processes.
+- petrogenesis of pyroxenites in the sub-arc mantle;
+- overprint of subduction-related metasomatism and metamorphism;
+- the variability of source and timing of pyroxenite formation;
+- deformation of pyroxenites in layered mantle domains;
+- seismic properties of pyroxenite-rich mantle via numerical modelling;
+- associated tectonic and geodynamic processes.
 
 ### Trinity ophiolite
 
