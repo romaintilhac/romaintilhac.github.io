@@ -11,7 +11,7 @@ menu:
 - {name: 'Research',   url: 'research.html'}
 - {name: 'Publications',   url: 'publications.html'}
 - {name: 'Resources',   url: 'resources.html'}
-- {name: 'CV',   link: 'https://romaintilhac.github.io/autoCV/cv.pdf'}
+- {name: 'CV',   url: 'autoCV/cv.pdf'}
 
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
 social:
