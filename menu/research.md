@@ -24,7 +24,7 @@ Constraining the impact of melting and lithospheric melt-rock interaction proces
 Collaborative development and use of various numerical modelling tools: diffusion, percolation-diffusion, open-system melting, mixed-source melting, reactive transport models.
 
 <img
-  src="{{ site.github.url }}/assets/img/Oliveira2020_Fig8.pdf"
+  src="{{ site.github.url }}/assets/img/Oliveira2020_Fig8.jpgf"
   style="width: 600px; height: 400px; object-fit: cover;"
 />
 *Reactive transport melting model of a heterogeneous pyroxenite-bearing source.*
