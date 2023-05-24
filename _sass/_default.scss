@@ -20,6 +20,22 @@
   }
 }
 
+/*RT custom image container=========*/
+
+.image-container {
+  width: 600px;
+  height: 400px;
+  object-fit: cover;
+}
+
+@media (max-width: 480px) {
+  .image-container {
+    width: 100%;
+    height: auto;
+    object-fit: contain;
+  }
+}
+/*down to ================*/
 /*
   Header
 */
