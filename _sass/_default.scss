@@ -23,24 +23,16 @@
 /*RT custom image container=========*/
 
 .image-container {
-  max-width: 100%;
-  height: auto;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  overflow: hidden;
-}
-
-.image-container img {
-  max-width: 100%;
-  max-height: 100%;
+  width: 600px;
+  height: 400px;
   object-fit: cover;
 }
 
-@media (max-width: 600px) {
+@media (max-width: 480px) {
   .image-container {
-    width: 100vw;
-    height: calc(100vw * 2/3);
+    width: 100%;
+    height: auto;
+    object-fit: contain;
   }
 }
 /*down to ================*/
