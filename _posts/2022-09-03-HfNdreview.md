@@ -17,7 +17,9 @@ The idea behind this work is to propose a global review in the context of all pu
 
 We have compiled all published Sm-Nd and Lu-Hf isotope data on abyssal, ophiolitic and orogenic peridotites massifs as well as basalt- and kimberlite-borne xenoliths (see the maps of localities included; **Fig. 2**) This database is described in order to provide an updated view on the origin and significance of the ancient isotopic signatures identified in oceanic lavas and abyssal peridotites.
 
+<div class="image-container">
 <iframe src="https://www.google.com/maps/d/u/0/embed?mid=1QyR-8Zde8cuykNrvBTWxRI1z72l8Q3Q2&ehbc=2E312F" width="600" height="300"></iframe>
+</div>
 ***Fig. 2.** Maps of localities included in this review.*
 
 The final version came out as an invited review to *Chemical Geology* and it's open access, so I hope it will be of much help to many!
