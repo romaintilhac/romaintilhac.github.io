@@ -44,6 +44,17 @@
   object-fit: cover;
 }
 
+@media (max-width: 600px) {
+  .image-container {
+    width: 100%;
+    height: auto;
+  }
+
+  .image-container:before {
+    padding-top: 150%; /* 2:3 aspect ratio (3/2 * 100%) */
+  }
+}
+
 /*down to ================*/
 /*
   Header
