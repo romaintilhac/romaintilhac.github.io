@@ -12,7 +12,9 @@ MATLAB code to compute the diffusional re-equilibration of REE in a solid matrix
 Available [here](https://github.com/romaintilhac/percolation-diffusion.git) and on [Zenodo](https://doi.org/10.5281/zenodo.8475).
 
 <img
-  src="{{ site.github.url }}/assets/img/diffusion.png"
+  src="{{ site.github.url }}/assets/img/kinetic3D.png"
+  style="width: 600px; height: 300px; object-fit: contain;"
 />
-***Fig. 1** Europium anomalies and progressive LREE enrichment in measured and modelled clinopyroxene crystals ([Tilhac et al., 2023](https://www.nature.com/articles/s41467-023-36753-0)).*
+*Model of kinetic Eu anomaly developed in clinopyroxene by diffusion.*
+
 
