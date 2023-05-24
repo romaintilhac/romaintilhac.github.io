@@ -29,16 +29,7 @@
   overflow: hidden;
 }
 
-.image-container:before {
-  content: "";
-  display: block;
-  padding-top: 66.6667%; /* 4:6 aspect ratio (4/6 * 100%) */
-}
-
 .image-container img {
-  position: absolute;
-  top: 0;
-  left: 0;
   width: 100%;
   height: 100%;
   object-fit: cover;
@@ -48,11 +39,7 @@
   .image-container {
     width: 100%;
     height: auto;
-    padding-top: 0; /* Reset padding-top to 0 */
-  }
-
-  .image-container:before {
-    display: none; /* Hide the pseudo-element on mobile */
+    padding-top: 150%; /* 2:3 aspect ratio (3/2 * 100%) */
   }
 }
 /*down to ================*/
