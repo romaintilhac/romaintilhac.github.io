@@ -8,7 +8,10 @@ My research relates to the compositional evolution of the Earth’s mantle throu
 
 Check out my [ResearchGate](https://www.researchgate.net/profile/Romain-Tilhac) profile.
 
-<img src="{{ site.github.url }}/assets/img/terrain.jpg"/>
+<img
+  src="{{ site.github.url }}/assets/img/terrain.jpg"
+  style="width: 600px; height: 400px; object-fit: cover;"
+/>
 
 ## Current projects
 
@@ -30,13 +33,17 @@ Characterizing the nature and composition of magmatic products (and their metamo
 
 Analytical applications and modelling of radiogenic isotope systems (mainly Hf-Nd but also Sr, Pb, Os) to tracing and dating in high-temperature geochemical problems.
 
-<img src="{{ site.github.url }}/assets/img/labo.jpg"/>
+<img
+  src="{{ site.github.url }}/assets/img/labo.jpg"
+  style="width: 600px; height: 400px; object-fit: cover;"
+/>
+*Chromatographic separation for Sr-Nd-Hf isotopes at Macquarie University.*
 
 ## Previous projects
 
 ### Cabo Ortegal Complex pyroxenites
 
-This project aimed to contribute to the understanding of the:
+This was my PhD research project, which aimed to contribute to the understanding of the:
 - petrogenesis of pyroxenites in the sub-arc mantle;
 - overprint of subduction-related metasomatism and metamorphism;
 - the variability of source and timing of pyroxenite formation;
@@ -44,9 +51,21 @@ This project aimed to contribute to the understanding of the:
 - seismic properties of pyroxenite-rich mantle via numerical modelling;
 - associated tectonic and geodynamic processes.
 
+<img
+  src="{{ site.github.url }}/assets/img/CO-pyroxenites.jpg"
+  style="width: 600px; height: 400px; object-fit: cover;"
+/>
+*Dunite-pyroxenite layering in the Herbeira cliffs of the Cabo Ortegal Complex.*
+
 ### Trinity ophiolite
 
 Characterization of melt-peridotite interaction features and mantle-crust relationships in the Trinity ophiolite, California.
+
+<img
+  src="{{ site.github.url }}/assets/img/mount-shasta.jpg"
+  style="width: 600px; height: 400px; object-fit: cover;"
+/>
+*View of nearby Mount Shasta (4,322m) from the ophiolite.*
 
 ### Tethysian ophiolites and related subduction-related magmatism
 
@@ -55,3 +74,9 @@ Geochemistry of subduction-related magmatics along the Paleo- and Neo-Tethys sut
 ### Sedimentary basins and carbonate diagenesis
   
 Textural identification of original and diagenetic features in carbonate speleothems and implications for their dating and use as paleo-environmental and paleo-climate proxies. Relationships between fluid circulation and deformation in sedimentary basins.
+
+<img
+  src="{{ site.github.url }}/assets/img/flysch.jpg"
+  style="width: 600px; height: 400px; object-fit: cover;"
+/>
+*Recumbent fold in the Guéthary flysch.*
