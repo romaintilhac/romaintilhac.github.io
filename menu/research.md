@@ -82,7 +82,7 @@ Geochemistry of subduction-related magmatics along the Paleo- and Neo-Tethys sut
 Textural identification of original and diagenetic features in carbonate speleothems and implications for their dating and use as paleo-environmental and paleo-climate proxies. Relationships between fluid circulation and deformation in sedimentary basins.
 
 <img
-  src="{{ site.github.url }}/assets/img/flysch.jpg"
+  src="{{ site.github.url }}/assets/img/guethary.jpg"
   style="width: 600px; height: 400px; object-fit: cover;"
 />
 *Recumbent fold in the Guéthary flysch.*
