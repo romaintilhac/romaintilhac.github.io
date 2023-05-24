@@ -13,6 +13,8 @@ My research relates to the compositional evolution of the Earth’s mantle throu
 
 Find out more on [ResearchGate](https://www.researchgate.net/profile/Romain-Tilhac).
 
+---
+
 ## Current projects
 
 ### Source, melting and lithospheric processes during basalt genesis
@@ -44,6 +46,8 @@ Analytical applications and modelling of radiogenic isotope systems (mainly Hf-N
   style="width: 600px; height: 400px; object-fit: cover;"
 />
 *Chromatographic separation for Sr-Nd-Hf isotopes at Macquarie University.*
+
+---
 
 ## Previous projects
 
