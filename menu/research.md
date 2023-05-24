@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: Research
 permalink: /research
 ---
@@ -25,7 +25,7 @@ Collaborative development and use of various numerical modelling tools: diffusio
 
 <img
   src="{{ site.github.url }}/assets/img/Oliveira2020_Fig8.jpg"
-  style="width: 600px; height: 400px; object-fit: contain;"
+  style="width: 600px; height: 400px; object-fit: cover;"
 />
 *Reactive transport melting model of a heterogeneous pyroxenite-bearing source.*
 
@@ -41,7 +41,7 @@ Analytical applications and modelling of radiogenic isotope systems (mainly Hf-N
 
 <img
   src="{{ site.github.url }}/assets/img/labo.jpg"
-  style="width: 600px; height: 400px; object-fit: contain;"
+  style="width: 600px; height: 400px; object-fit: cover;"
 />
 *Chromatographic separation for Sr-Nd-Hf isotopes at Macquarie University.*
 
@@ -59,7 +59,7 @@ This was my PhD research project, which aimed to contribute to the understanding
 
 <img
   src="{{ site.github.url }}/assets/img/pyroxenites.jpg"
-  style="width: 600px; height: 400px; object-fit: contain;"
+  style="width: 600px; height: 400px; object-fit: cover;"
 />
 *Dunite-pyroxenite layering in the Herbeira cliffs of the Cabo Ortegal Complex.*
 
@@ -69,7 +69,7 @@ Characterization of melt-peridotite interaction features and mantle-crust relati
 
 <img
   src="{{ site.github.url }}/assets/img/mount-shasta.jpg"
-  style="width: 600px; height: 400px; object-fit: contain;"
+  style="width: 600px; height: 400px; object-fit: cover;"
 />
 *View of nearby Mount Shasta (4,322m) from the ophiolite.*
 
@@ -83,6 +83,6 @@ Textural identification of original and diagenetic features in carbonate speleot
 
 <img
   src="{{ site.github.url }}/assets/img/guethary.jpg"
-  style="width: 600px; height: 400px; object-fit: contain;"
+  style="width: 600px; height: 400px; object-fit: cover;"
 />
 *Recumbent fold in the Guéthary flysch.*
