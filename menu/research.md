@@ -52,7 +52,7 @@ This was my PhD research project, which aimed to contribute to the understanding
 - associated tectonic and geodynamic processes.
 
 <img
-  src="{{ site.github.url }}/assets/img/CO-pyroxenites.jpg"
+  src="{{ site.github.url }}/assets/img/pyroxenites.jpg"
   style="width: 600px; height: 400px; object-fit: cover;"
 />
 *Dunite-pyroxenite layering in the Herbeira cliffs of the Cabo Ortegal Complex.*
