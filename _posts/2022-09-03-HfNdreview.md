@@ -9,10 +9,9 @@ image: Tilhac2022_Fig2.png
 
 The idea behind this work is to propose a global review in the context of all published Hf- and Nd-isotope data in mantle rocks motivated by the lack of such an exhaustive compilation despite the increasing body of data published over the last 20 years (> 1100 combined Hf-Nd analyses; **Fig. 1**).
 
-<img
-  src="{{ site.github.url }}/assets/img/Tilhac2022_Fig2.png"
-  style="width: 600px; height: 400px; object-fit: contain;"
-/>
+<div class="image-container">
+  <img src="{{ site.github.url }}/assets/img/Tilhac2022_Fig2.png">
+</div>
 ***Fig. 1.** Present-day Hf- and Nd-isotope compositions in ƐNd-ƐHf space for the whole dataset compiled in this review.*
 
 We have compiled all published Sm-Nd and Lu-Hf isotope data on abyssal, ophiolitic and orogenic peridotites massifs as well as basalt- and kimberlite-borne xenoliths (see the maps of localities included; **Fig. 2**) This database is described in order to provide an updated view on the origin and significance of the ancient isotopic signatures identified in oceanic lavas and abyssal peridotites.
@@ -26,5 +25,6 @@ The final version came out as an invited review to *Chemical Geology* and it's o
 
 **[https://doi.org/10.1016/j.chemgeo.2022.121039](https://doi.org/10.1016/j.chemgeo.2022.121039)**
 
+<div class="image-container">
 <iframe src="https://www.sciencedirect.com/science/article/pii/S0009254122003333/pdfft?md5=20d57c610ea754f57ea65254b8a5f3c4&pid=1-s2.0-S0009254122003333-main.pdf" style="border:none;"  width="600" height="300"></iframe>
-
+</div>
