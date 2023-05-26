@@ -9,7 +9,6 @@ I am Earth scientist from the French Pyrenees currently working as a CSIC post-d
 
 I am also a climber and caver, passionate about mountains, travelling and photography. Check out my pictures on [Flickr](https://www.flickr.com/photos/108939669@N03/).
 
-<img
-  src="{{ site.github.url }}/assets/img/flickr.jpg"
-  style="width: 600px; height: 400px; object-fit: cover;"
-/>
+<div class="image-container">
+  <img src="{{ site.github.url }}/assets/img/flickr.jpg">
+</div>
