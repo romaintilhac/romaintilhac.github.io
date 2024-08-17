@@ -2,6 +2,7 @@
 layout: default
 title: Field guide to the Cabo Ortegal Complex
 permalink: /fieldguide
+toc: true
 ---
 
 #### 7<sup>th</sup> Orogenic Lherzolite meeting - Oviedo, Asturias (Spain)
