@@ -17,7 +17,11 @@ by Romain Tilhac<sup>1</sup>, Marco A. Lopez-Sanchez<sup>2</sup>, José Alberto 
 
 > This obviously is only a tentative list which we can change as you like to reflect our contribution. We can alternatively sign as the Organizing Committee or for instance add "On behalf of the Organizing Committee" to the list above.  
 
-{:toc}
+
+<nav>
+  <h4>Table of Contents</h4>
+  {:toc}
+</nav>
 
 ## 1. Introduction
 
