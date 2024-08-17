@@ -1,3 +1,9 @@
+---
+layout: page
+title: test
+permalink: /fieldguide
+---
+
 #### 7<sup>th</sup> Orogenic Lherzolite meeting - Oviedo, Asturias (Spain)
 
 <img src="figures/teaser.png">
