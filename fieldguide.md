@@ -1,6 +1,6 @@
 ---
 layout: default
-title: fieldguide
+title: Field guide to the Cabo Ortegal Complex
 permalink: /Cabo-Ortegal_fieldguide
 ---
 
