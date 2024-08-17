@@ -121,13 +121,13 @@ More work was then carried out by a Spanish and French collaboration (Arenas et 
 
 The layered pyroxenite-dunite association exposed in the *Herbeira* cliffs was specifically interpreted as the magmatic stratigraphy of a lower-crustal cumulate in an arc root, based on increasing platinum-group element (PGE) content (from the PGE-poor lower dunite to the PGE-rich upper dunite) and progressive PGE fractionation (_i.e._ Pd-Pt enrichment; **Fig_PGE**) in chromitites (Moreno, 1999, Moreno et al. 1999, Moreno et al., 2001). This arc-related interpretation provided a better explanation to the residual character of the harzburgites which was confirmed by Santos et al. (2002) based on mantle-array-like Ol chemistry (_i.e._ ~0.4 % NiO, Fo90; **Fig_FoNiO**). The latter authors also identified a fractional crystallization trend of decreasing NiO and Fo in Ol between the pyroxenites and dunites. They considered lithological heterogeneity of the *Herbeira* massif reflects a "mantle wedge" (in broad sense) modified by slab-derived fluids or melts.
 
-<img src=""fieldguide_figures/PGE.png"" style="max-width: 100%; max-height: 300px; height: auto;">
+<img src="fieldguide_figures/PGE.png"" style="max-width: 100%; max-height: 300px; height: auto;">
 
 > Add figure caption.
 
 Following on the original work by Girardeau and coworkers, the ultramafic massifs were recently re-investigated as part of two PhD theses (Tilhac 2017, Henry 2018). A more comprehensive petrogenetic model combining magmatic differentiation and melt-peridotite interaction was formulated based on the classification of the the pyroxenite subtypes (Tilhac et al. 2016) and more recent geochemical data (Tilhac et al. 2016, 2017, 2020). The proposed scenario invoked the intrusion into a lithospheric arc root of a primitive Si-depleted melt, which variosuly interracted with the host harzburgites to produce dunites and chromitites, as well as Ol clinopyroxenites and clinopyroxenites (type 1) that represent incomplete replacement products of their host (hence preserving dunite lenses). Massive Ol-free websterites (type 2) and subordinate Opx-rich websterites (type 4) either represent more differentiated products of this process via a peritectic reaction Fo + Si-rich melt = En (at pressures < 1.2 GPa) and/or cumulates of a Si-saturated melt (Tilhac et al. 2016).
 
-<img src="fieldguide_figures/petrogenetic_model.pdf"/>
+<img src="fieldguide_figures/petrogenetic_model.png"/>
 
 > Add figure caption.
 
