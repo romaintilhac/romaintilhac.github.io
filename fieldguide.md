@@ -121,7 +121,7 @@ More work was then carried out by a Spanish and French collaboration (Arenas et 
 
 The layered pyroxenite-dunite association exposed in the *Herbeira* cliffs was specifically interpreted as the magmatic stratigraphy of a lower-crustal cumulate in an arc root, based on increasing platinum-group element (PGE) content (from the PGE-poor lower dunite to the PGE-rich upper dunite) and progressive PGE fractionation (_i.e._ Pd-Pt enrichment; **Fig_PGE**) in chromitites (Moreno, 1999, Moreno et al. 1999, Moreno et al., 2001). This arc-related interpretation provided a better explanation to the residual character of the harzburgites which was confirmed by Santos et al. (2002) based on mantle-array-like Ol chemistry (_i.e._ ~0.4 % NiO, Fo90; **Fig_FoNiO**). The latter authors also identified a fractional crystallization trend of decreasing NiO and Fo in Ol between the pyroxenites and dunites. They considered lithological heterogeneity of the *Herbeira* massif reflects a "mantle wedge" (in broad sense) modified by slab-derived fluids or melts.
 
-<img src="fieldguide_figures/PGE.png" style="max-width: 100%; height: auto;">
+<img src=""fieldguide_figures/PGE.png"" style="max-width: 100%; max-height: 300px; height: auto;">
 
 > Add figure caption.
 
