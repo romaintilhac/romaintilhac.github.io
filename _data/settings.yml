@@ -13,6 +13,7 @@ menu:
 - {name: 'Resources',   url: 'resources.html'}
 - {name: 'CV (FR)',   url: 'autoCV_French/cv.pdf'}
 - {name: 'CV (EN)',   url: 'autoCV_English/cv.pdf'}
+- {name: 'test',   url: 'CaboOrtegal-fieldguide.html'}
 
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
 social:
