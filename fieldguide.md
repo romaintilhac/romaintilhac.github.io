@@ -23,6 +23,9 @@ by Romain Tilhac<sup>1</sup>, Marco A. Lopez-Sanchez<sup>2</sup>, José Alberto 
   {:toc}
 </nav>
 
+* TOC
+{:toc}
+
 ## 1. Introduction
 
 The Cabo Ortegal Complex is known to the mantle community for its ultramafic massifs that preserve some of the best outcrops of pyroxenite among orogenic massifs worldwide. The main objective of this two-day excursion is to showcase some of these outcrops and get an overview of the geology of the complex. 
