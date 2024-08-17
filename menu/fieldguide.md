@@ -5,9 +5,9 @@ permalink: /fieldguide
 ---
 
 #### 7<sup>th</sup> Orogenic Lherzolite meeting - Oviedo, Asturias (Spain)
-<img
-  src="{{ site.baseurl }}/assets/img/fieldguide/teaser.png"
-/>
+
+<img src="{{ site.baseurl }}/assets/img/fieldguide/teaser.png" />
+
 # Field guide to the Cabo Ortegal Complex
 by Romain Tilhac<sup>1</sup>, Marco A. Lopez-Sanchez<sup>2</sup>, José Alberto Padrón-Navarta<sup>1</sup>, Sergio Llana-Fúnez<sup>2</sup>
 
@@ -29,7 +29,7 @@ The Cabo Ortegal Complex is known to the mantle community for its ultramafic mas
 
 The Cabo Ortegal Complex (Vogel, 1967) is one of the five allochthonous complexes (Cabo Ortegal, Malpica-Tuy and Órdenes in NW Spain, Bragança and Morais in Portugal) in the Iberian section of the Variscan orogenic belt. These complexes consist of various nappes of dismembered meta-sedimentary and meta-igneous terranes accreted to the Gondwanan margin during the Variscan collision. Their subdivisions are correlated into three main units (Arenas et al. 1986).
 
-<img src="figures/map-complex.pdf">
+<img src="{{ site.baseurl }}/assets/img/fieldguide/map-complex.pdf" />
 
 **Figure XX**. Geological map and cross section of the Cabo Ortegal Complex (Arenas et al. 2014, modified after Vogel, 1967, Marcos et al. 1984, Arenas et al. 1986, 2009).
 
