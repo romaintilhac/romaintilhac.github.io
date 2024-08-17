@@ -1,7 +1,7 @@
 ---
-layout: page
+layout: page_notitle
 title: fieldguide
-permalink: /fieldguide
+permalink: /Cabo-Ortegal_fieldguide
 ---
 
 #### 7<sup>th</sup> Orogenic Lherzolite meeting - Oviedo, Asturias (Spain)
