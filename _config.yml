@@ -10,6 +10,9 @@
 #   sort_field: 'date'
 #   sort_reverse: true
 
+exclude:
+  - Cabo-Ortegal_fieldguide 
+
 # jekyll-paginate configuration
 paginate:            5
 
