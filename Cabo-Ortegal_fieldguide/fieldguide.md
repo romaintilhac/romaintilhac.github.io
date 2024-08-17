@@ -6,7 +6,7 @@ permalink: /fieldguide
 
 #### 7<sup>th</sup> Orogenic Lherzolite meeting - Oviedo, Asturias (Spain)
 
-<img src= "Cabo-Ortegal_fieldguide/figures/teaser.png" />
+<img src= "figures/teaser.png" />
 
 # Field guide to the Cabo Ortegal Complex
 by Romain Tilhac<sup>1</sup>, Marco A. Lopez-Sanchez<sup>2</sup>, José Alberto Padrón-Navarta<sup>1</sup>, Sergio Llana-Fúnez<sup>2</sup>
@@ -29,7 +29,7 @@ The Cabo Ortegal Complex is known to the mantle community for its ultramafic mas
 
 The Cabo Ortegal Complex (Vogel, 1967) is one of the five allochthonous complexes (Cabo Ortegal, Malpica-Tuy and Órdenes in NW Spain, Bragança and Morais in Portugal) in the Iberian section of the Variscan orogenic belt. These complexes consist of various nappes of dismembered meta-sedimentary and meta-igneous terranes accreted to the Gondwanan margin during the Variscan collision. Their subdivisions are correlated into three main units (Arenas et al. 1986).
 
-<img src="Cabo-Ortegal_fieldguide/figures/map-complex.pdf">
+<img src="figures/map-Cabo-Ortegal.png"/>
 
 **Figure XX**. Geological map and cross section of the Cabo Ortegal Complex (Arenas et al. 2014, modified after Vogel, 1967, Marcos et al. 1984, Arenas et al. 1986, 2009).
 
@@ -121,13 +121,13 @@ More work was then carried out by a Spanish and French collaboration (Arenas et 
 
 The layered pyroxenite-dunite association exposed in the *Herbeira* cliffs was specifically interpreted as the magmatic stratigraphy of a lower-crustal cumulate in an arc root, based on increasing platinum-group element (PGE) content (from the PGE-poor lower dunite to the PGE-rich upper dunite) and progressive PGE fractionation (_i.e._ Pd-Pt enrichment; **Fig_PGE**) in chromitites (Moreno, 1999, Moreno et al. 1999, Moreno et al., 2001). This arc-related interpretation provided a better explanation to the residual character of the harzburgites which was confirmed by Santos et al. (2002) based on mantle-array-like Ol chemistry (_i.e._ ~0.4 % NiO, Fo90; **Fig_FoNiO**). The latter authors also identified a fractional crystallization trend of decreasing NiO and Fo in Ol between the pyroxenites and dunites. They considered lithological heterogeneity of the *Herbeira* massif reflects a "mantle wedge" (in broad sense) modified by slab-derived fluids or melts.
 
-<img src="Cabo-Ortegal_fieldguide/figures/PGE.png" width="250"/>
+<img src="figures/PGE.png"/>
 
 > Add figure caption.
 
 Following on the original work by Girardeau and coworkers, the ultramafic massifs were recently re-investigated as part of two PhD theses (Tilhac 2017, Henry 2018). A more comprehensive petrogenetic model combining magmatic differentiation and melt-peridotite interaction was formulated based on the classification of the the pyroxenite subtypes (Tilhac et al. 2016) and more recent geochemical data (Tilhac et al. 2016, 2017, 2020). The proposed scenario invoked the intrusion into a lithospheric arc root of a primitive Si-depleted melt, which variosuly interracted with the host harzburgites to produce dunites and chromitites, as well as Ol clinopyroxenites and clinopyroxenites (type 1) that represent incomplete replacement products of their host (hence preserving dunite lenses). Massive Ol-free websterites (type 2) and subordinate Opx-rich websterites (type 4) either represent more differentiated products of this process via a peritectic reaction Fo + Si-rich melt = En (at pressures < 1.2 GPa) and/or cumulates of a Si-saturated melt (Tilhac et al. 2016).
 
-<img src="Cabo-Ortegal_fieldguide/figures/petrogenetic_model.pdf" width="500"/>
+<img src="figures/petrogenetic_model.pdf"/>
 
 > Add figure caption.
 
@@ -265,7 +265,7 @@ The *Banded gneiss* formation is interpreted as metasedimentary gneisses with ab
  
 We attempt below to provide a brief summary of the origin and evolution of the ultramafic massifs that takes into account field observations, tectono-thermal and geochronological constraints provided by the different HP units of the Cabo Ortegal Complex. The geodynamic context of interest is here the Gondwanan-Laurussian convergence, which is particularly well constrained in NW Iberia thansk to the absence of Alpine-related strike-slip faults. Pre-Variscan and Variscan orogenic events recognized here are also recorded in the Armorican, Massif Central and Bohemian massifs (**Figure 1**). These constitute the European Variscides, which result from the collision of northern Gondwana with eastern Avalonia and Baltica. 
 
-<img src="Cabo-Ortegal_fieldguide/figures/geodynamics.pdf">
+<img src="figures/geodynamics.pdf"/>
 
 **Figure XX**. Location of the Iberian Massif in the Variscan belt during the Palaeozoic convergence (after Martinez Catalan et al. 2009, and references therein).
 
@@ -281,7 +281,7 @@ Accordingly, arc magmatism on the Gondwanan margin facing the Tornquist (or poss
 
 > Check if reference to Pin et al. is correct.
 
-<img src="Cabo-Ortegal_fieldguide/figures/paleogeography.pdf">
+<img src="figures/paleogeography.pdf"/>
 
 **Figure XX**. Distribution of the Palaeozoic continents showing the location of the European Variscides and of the ensialic arc exposed in the allochthonous complexes of NW Iberia (Martinez Catalan et al. 2009, after Gómez Barreiro et al. 2007 and Winchester et al. 2002).
 
@@ -293,7 +293,7 @@ In addition, the ultramafic massifs have experienced high-temperature shear defo
  
 Tilhac et al. (2016) suggested that the above sequence of high-temperature deformation (_i.e._ potentially asthenospheric), followed by high-shear strain deformation typical of deep subduction settings and prograde metamorphism down to the stability field of Grt pyroxenite document the delamination of the arc root followed by its incorporation into a subduction zone. Foundering was the consequence of the negative buoyancy induced by the presence of large amount of ultramafic pyroxenites denser the ambient mantle (Müntener et al. 2001) as well as that of utramafic cumulates such as pyrigarnites in the *Bacariza* formation. The latter lithologies, also known as "arclogites", are indeed considered as some of the most likely candidates to undergo delamination in the context of arc roots (Ducea et al. 2021). The Cabo Ortegal Complex could thus represent a unique example of a delaminated arc root. 
 
-<img src="Cabo-Ortegal_fieldguide/figures/P-T-t_paths.png" width="500"/>
+<img src="figures/P-T-t_paths.png"/>
 
 **Figure XX**. P-T-t paths of the different HP units showing geochronological and geothermobarometric constraints on protolith formation and deformation episodes D<sub>1</sub> to D<sub>4</sub>, with respect subduction, tectonic accretion, forced return flow (syn-subduction exhumation) in a subduction channel, and the subsequent exhumation during orogenic collision.
 
@@ -316,7 +316,7 @@ The day focusses on the *Herbeira* massif, which is the largest and most litholo
 - In the morning, we will first walk approx. 1 km from the *Vixía Herbeira* lookout along the edge of the *Herbeira* cliffs to get an overview of the lithological diversity of actual cliffs in much more accessible outcrops.
 - After lunch at a nearby lookout in the *Uzal* peridotite massif (15-min drive), we will do a 2-km return walk along a dirt road to observe some of the intriguing features that occur near the tectonic contact onto granulites to the SW and reach the harzburgites that constitute the dominant lithology of the massif inland, as well as of the other two massifs of the complex (Limo and Uzal).
 
-<img src="Cabo-Ortegal_fieldguide/figures/map-Herbeira.pdf" width="500"/>
+<img src="figures/map-Herbeira.png"/>
 
 **Figure XX**. Geological map of the Herbeira massif (Tilhac et al. 2016, Tilhac 2017, and references therein) showing (1) sheath-fold deformation cross-cutting lithological contacts and (2) the serpentinized and/or amphibolitized area surrounding the gradual contact between dunites and harzburgites, along the axial surface of the synform. Fault lines correspond either to strike-slip faults (continuous lines) or contacts with granulites (thrust patterns). Outline of the dunite body to the E is modified after Puelles et al. (2012). Note that the existence of this dunite relies mostly on an open pit "dunite" mine (*Mina David*) exploited by *Pasek Minerales* as part of the traditional exploitation of the *Herbeira* massif for refractory material used in thermal power plant (Pereira et al. 2008).
 
@@ -339,13 +339,13 @@ The first stop of the day is the lookout of the *Vixía Herbeira* (613 m), the h
 
 #### Stop 2: Type-1 pyroxenite
 
-<img src="Cabo-Ortegal_fieldguide/figures/type1-outcrop.jpg" width="500"/>
+<img src="figures/type1-outcrop.jpg"/>
 
 > Make a proper figure with zoomed in view and a type-1 example from the cliffs
 
 This is an example (**Fig_type1-outcrop**) of pyroxenites with dunite lenses (type-1 of Tilhac et al. 2016), which are Ol-bearing clinopyroxenites and websterites. They are the most primitive type of pyroxenites in Cabo Ortegal, with 20-24% MgO, 2-3% Al<sub>2</sub>O<sub>3</sub> and high Mg# of 87–89 (Cpx Mg# > 0.91). Type-1 pyroxenites plot along the Fo-An join within the nepheline-normative, silica-deficient field in the Fo-CaTs-Qz projection. As in other orogenic pyroxenites, this trend towards the Fo apex is ascribed to melt-peridotite interaction (Bodinier et al. 2008, Lambart et al. 2012). Type-1 pyroxenites are interpreted as products of partial replacement of peridotites upon interaction with a Si-undersaturated magma, as suggested by their high Cpx/Opx ratios which point to crystallization along a Cpx–Ol cotectic line. The incomplete remplacement reaction is supported by the preservation of dunite lenses within type-1 pyroxenites and their mostly LREE-depleted, spoon-shaped patterns with flat heavy REE (HREE) and limited LILE enrichment (see **Fig_REE**). 
 
-<img src="Cabo-Ortegal_fieldguide/figures/isoclinal.jpg" width="500"/>
+<img src="figures/isoclinal.jpg"/>
 
 **Figure XX**. Isoclinal fold hinge outline by a pyroxenite layer between stop 2 and 3.
 
@@ -353,7 +353,7 @@ This is an example (**Fig_type1-outcrop**) of pyroxenites with dunite lenses (ty
 
 Cabo Ortegal chromitites have been studied by various authors: Monterrubio-Perez (1991), Moreno (1999), Moreno et al. (2001, 2002), Tilhac (2017) and García-Tudela (2024). This outcrop corresponds to the semi-massive (<80 % Chr), high-Cr# (0.75–0.82) chromitite (type II) of García-Tudela et al. (2024), which was classified in a broad group of Chr-rich dunite (<75 % Chr) by Moreno et al. (2001). The origin of Cabo Ortegal chromtities will be discussed in stop 4 and 6.
 
-<img src="Cabo-Ortegal_fieldguide/figures/chromitite-new.jpg" width="500"/>
+<img src="figures/chromitite-new.jpg"/>
 
 **Figure XX**. Chromitite schlieren in dunite.
 
@@ -363,7 +363,7 @@ Cabo Ortegal chromitites have been studied by various authors: Monterrubio-Perez
 
 Walking W from stop 3.1, we encounter an example of massive websterite (type-2 pyroxenites of Tilhac et al. 2016). These pyroxenites are more evolved with 20-21% MgO, 3-6% Al<sub>2</sub>O<sub>3</sub> and Cpx Mg# of 0.88-0.92. Type-2 pyroxenites plot along the En-CaTs join on the Fo-CaTs-Qz diagram, similarly to experimental cumulates of hydrous basaltic andesites (Müntener et al. 2001). Their Ol-free, lower Cpx/Opx modal compositions suggest that they either crystallized from an initially Si-saturated magma or that they represent a more advanced product (_i.e._ at higher melt/rock ratio) of melt-peridotite interaction than type-1 pyroxenites, upon which Ol was entirely consumed by the peritectic reaction Fo + Si-rich melt = En at relatively low pressure (<1.2 GPa). This interpretation is consistent with the presence of late-magmatic amphibole crystallized upon cooling from hydrous residual melts responsible for the metasomatic enrichment of the pyroxenites (similarly to the percolative fractional crystallization model of Harte et al. 1993). Type-2 pyroxenites indeed exhibit variable LREE enrichments over nearly flat HREE (**Fig_REE**) negatively correlated with Nd isotopes (Tilhac et al., 2017). Accordingly, outward percolation of these melts is likely to be responsible for the positive correlation observed between the amount of pyroxenites and the extent of LREE enrichment in the host harzburgites (Gravestock, 1992).
 
-<img src="Cabo-Ortegal_fieldguide/figures/REE.pdf" width="500"/>
+<img src="figures/REE.pdf"/>
 
 **Figure XX**. Clinopyroxene and amphibole REE compositions in Cabo Ortegal type-1, type-2 and type-3 pyroxenites.
 
