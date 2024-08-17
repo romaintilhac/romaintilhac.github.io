@@ -1,5 +1,5 @@
 ---
-layout: page_notitle
+layout: page
 title: fieldguide
 permalink: /Cabo-Ortegal_fieldguide
 ---
