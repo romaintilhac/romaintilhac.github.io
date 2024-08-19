@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Field guide to the Cabo Ortegal Complex
-permalink: /fieldguide
+permalink: /fieldguide_20240817
 ---
 
 * TOC
