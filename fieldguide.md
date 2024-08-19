@@ -499,7 +499,7 @@ While previous chromtites are relatively high Cr#...
 
 To wrap up the day, time and weather allowing, we will walk in small groups to see one of the few picturesque outcrops of picturesque pyroxenites layered with dunites accessible without having to hike down the cliffs. The outcrop is located 100 m from the road in a steep but accessible ridge at the top of the *Punta Robaliceira*, another of the previously studied cross-section which exposes a similar association of dunites and pyroxenites (in lesser proportion).
 
-<img src="fieldguide_figures/layered-pyroxenites.jpg"
+<img src="fieldguide_figures/layered-pyroxenites-2.jpg"
 style="max-width: 100%; max-height: 500px; height: auto;"/>
 
 ### Day 2: Overview of the Cabo Ortegal Complex (October 1<sup>st</sup>, half day)
