@@ -64,7 +64,7 @@ The **Ophiolitic Unit** includes two formations with unclear structural relation
 
 In the Cabo Ortegal Complex, the **Basal Unit** is only poorly exposed as the *Espasante* formation, consisting of felsic orthogneisses, amphibolites and minor retro-eclogites. It is associated with a 30-km-long tectonic mélange (*Somozas* formation), a typical serpentinite mélange characterized by tectonic blocks of meta-igneous (including a calc-alkaline suite dated at 527–499 Ma) and meta-sedimentary rocks wrapped around by a highly sheared serpentinite matrix. Together, they represent former pieces of the subducted Gondwanan margin and arc-derived section of peri-Gondwanan transitional crust, deformed and exhumed in a subduction channel (Arenas et al. 2009, Novo-Fernandez et al. 2016), now overlying the parautochthon.
 
-<img src="fieldguide_figures/map-cabo-ortegal.png"
+<img src="fieldguide_figures/map-Cabo-Ortegal.png"
 style="max-width: 100%; max-height: 1000px; height: auto;"/>
 
 **Fig_map-Cabo-Ortegal**. Geological map and cross section of the Cabo Ortegal Complex (Arenas et al. 2014, modified after Vogel, 1967, Marcos et al. 1984, Arenas et al. 1986, 2009).
