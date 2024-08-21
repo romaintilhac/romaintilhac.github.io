@@ -77,7 +77,7 @@ style="max-width: 100%; max-height: 1000px; height: auto;"/>
 
 Ultramafic rocks are mainly exposed in the *Herbeira* (12.5 km<sup>2</sup>), *Limo* (6.6 km<sup>2</sup>) and *Uzal* (3.6 km<sup>2</sup>) massifs (**Fig_HP-units-simplified**), but also in ~40 sparse harzburgitic outcrops within *Bacariza* granulites, interpreted by some authors as tectonic windows. The massifs are always in contact with granulites except on the W edge of the *Uzal* massif, where they are in tectonic contact with the *Chímparra* gneiss.
 
-<img src="fieldguide_figures/hp-units-simplified.png"
+<img src="fieldguide_figures/HP-units-simplified.png"
 style="max-width: 50%; max-height: 500px; height: auto;"/>
 
 **Fig_HP-units-simplified**. Simplified map of the HP units of the Cabo Ortegal Complex showing the location of the ultramafic massifs (Tilhac et al. 2016, and references therein).
