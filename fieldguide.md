@@ -21,7 +21,7 @@ by Romain Tilhac<sup>1</sup>, Marco A. Lopez-Sanchez<sup>2</sup>, José Alberto 
 
 > This obviously is only a tentative list which we can change as you like to reflect our contribution. We can alternatively sign as the Organizing Committee or for instance add "On behalf of the Organizing Committee" to the list above.
 
-*Version updated on 21/08/24*
+*Version updated on 22/08/24*
 
 ## 1. Introduction
 
@@ -419,7 +419,7 @@ The day focusses on the *Herbeira* massif, which is the largest and most litholo
 <img src="fieldguide_figures/map-herbeira.png"
 style="max-width: 100%; max-height: 500px; height: auto;"/>
 
-**Fig_map-Herbeira**. Geological map of the Herbeira massif (Tilhac et al. 2016, Tilhac 2017, and references therein) showing (1) sheath-fold deformation cross-cutting lithological contacts and (2) the serpentinized and/or amphibolitized area surrounding the gradual contact between dunites and harzburgites, along the axial surface of the synform. Fault lines correspond either to strike-slip faults (continuous lines) or contacts with granulites (thrust patterns). Note that the synformal structure of the massif is partly conditionned by the dunite body mapped along the SE boundary of the massif (Puelles et al., 2012). Outcrops that support the existence of this dunite are mostly limited to the now inaccessible area of *Mina David*,  open pit mine (*Mina David*) exploited by *Pasek Minerales*. The extracted material so-called "dunite HT" (a refractory material used in thermal power plant) indeed yield an homogeneous 37% of MgO (Caballero 2009) consistent with the WR compositions measured in the Cabo Ortegal dunites (Tilhac et al. 2016).
+**Fig_map-Herbeira**. Geological map of the Herbeira massif (Tilhac et al. 2016, Tilhac 2017, and references therein) showing (1) sheath-fold deformation cross-cutting lithological contacts and (2) the serpentinized and/or amphibolitized area surrounding the gradual contact between dunites and harzburgites, along the axial surface of the synform. Fault lines correspond either to strike-slip faults (continuous lines) or contacts with granulites (thrust patterns). Note that the synformal structure of the massif is partly conditionned by the dunite body mapped along the SE boundary of the massif (Puelles et al., 2012). Outcrops that support the existence of this dunite are mostly limited to the now inaccessible area of *Mina David*,  open pit mine (*Mina David*) exploited by *Pasek Minerales*. The extracted material, so-called "dunite HT" (a refractory material used in thermal power plant), is indeed reported with an homogeneous 37% of MgO (Caballero, 2009) consistent with the WR compositions measured in the Cabo Ortegal dunites (Tilhac et al. 2016).
 
 > Use the JPet version instead. Update caption. Remove dunite-harzburgite transition to stop 7 and mention in the caption the issue concerning the E dunite lense.
 
@@ -588,6 +588,8 @@ style="max-width: 100%; max-height: 1000px; height: auto;"/>
 Compared to peridotites and pyroxenites, the relatively narrow range of Mg# (0.35-0.50) and high Cr contents observed in chromtites indicates more limited re-equilibration processes (except for the lower Cr# of group-B chromitites). Slight differences between massive (type-I) and semi-massive (type-II) chromitites, which were ascribed by Garcia-Tudela et al. (2024) to distinct parental melts, may also reflect variable extent of subsolidus re-equilibration. Massive chromitites are indeed the least likely to suffer from subsolidus re-equilibration with silicates and accordingly overlap with the compositional field of chromite in boninites (Barnes & Roedder, 2001), probably reflecting their actual parental melts.
 
 #### Stop 7: The Trans-Herbeira Fault (THF)
+
+> I need to add here information about the new outcrops we spotted together (mylonites, Grt pyroxenites) and something about the Chl harzburgites which I will need help with).
 
 After walking further 500 m along the dirt road, we reach the area inferred as the location intersected by the Trans-Herbeira Fault (THF), named by Moreno (1999) following original observations by Monterrubio (1991). 
 
