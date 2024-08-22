@@ -21,7 +21,7 @@ by Romain Tilhac<sup>1</sup>, Marco A. Lopez-Sanchez<sup>2</sup>, José Alberto 
 
 > This obviously is only a tentative list which we can change as you like to reflect our contribution. We can alternatively sign as the Organizing Committee or for instance add "On behalf of the Organizing Committee" to the list above.
 
-*Version updated on 21/08/24*
+*Version updated on 22/08/24*
 
 ## 1. Introduction
 
@@ -378,7 +378,7 @@ style="max-width: 100%; max-height: 500px; height: auto;"/>
 
 **Fig_sheath-folds**. Sheath folds affecting harzburgites near seal level at *Punta Robaliceira* (**a**) as well pyroxenites and dunites in the lower part of Herbeira cliffs **(b)**, as shown in the map of the *Herbeira* massif (**Fig_map-Herbeira**). 
 
-In addition, the ultramafic massifs have experienced high-temperature shear deformation D<sub>HT</sub> (Ábalos et al. 2003) at > 1000°C which predates D<sub>1</sub> (**Fig_P-T-t-paths**). It is recorded by A-type (Jung & Karato, 2001) lattice-preferred orientation (LPO) in Ol, as evidenced by early petrofabric studies (Ben Jamaa, 1988, Girardeau & Gil Ibarguchi, 1991, Girardeau et al. 1990) and confirmed by EBSD techniques applied to the *Limo* (Puelles et al. 2012) and *Herbeira* massifs (Henry et al. 2017, Henry 2018). This deformation episode is responsible for a tectonic foliation parallel to the compositional layering as well isoclinal folding and boudinage, particularly outlined by pyroxenites (**Fig_HT-deformation**). 
+In addition, the ultramafic massifs have experienced high-temperature shear deformation D<sub>HT</sub> (Ábalos et al. 2003) at > 1000°C which predates D<sub>1</sub> (**Fig_P-T-t-paths**). It is recorded by A-type (Jung & Karato, 2001) lattice-preferred orientation (LPO) in Ol, as evidenced by early petrofabric studies (Ben Jamaa, 1988, Girardeau & Gil Ibarguchi, 1991, Girardeau et al. 1990) and confirmed by EBSD techniques applied to the *Limo* (Puelles et al. 2012) and *Herbeira* massifs (García-Izquierdo 2005, García-Izquierdo et al. 2011, Henry et al. 2017, Henry 2018). This deformation episode is responsible for a tectonic foliation parallel to the compositional layering as well isoclinal folding and boudinage, particularly outlined by pyroxenites (**Fig_HT-deformation**). 
  
 <img src="fieldguide_figures/ht-deformation.png"
 style="max-width: 100%; max-height: 500px; height: auto;"/>
@@ -419,7 +419,7 @@ The day focusses on the *Herbeira* massif, which is the largest and most litholo
 <img src="fieldguide_figures/map-herbeira.png"
 style="max-width: 100%; max-height: 500px; height: auto;"/>
 
-**Fig_map-Herbeira**. Geological map of the Herbeira massif (Tilhac et al. 2016, Tilhac 2017, and references therein) showing (1) sheath-fold deformation cross-cutting lithological contacts and (2) the serpentinized and/or amphibolitized area surrounding the gradual contact between dunites and harzburgites, along the axial surface of the synform. Fault lines correspond either to strike-slip faults (continuous lines) or contacts with granulites (thrust patterns). Outline of the dunite body to the E is modified after Puelles et al. (2012). Note that the existence of this dunite relies mostly on an open pit "dunite" mine (*Mina David*) exploited by *Pasek Minerales* as part of the traditional exploitation of the *Herbeira* massif for refractory material used in thermal power plant (Pereira et al. 2008).
+**Fig_map-Herbeira**. Geological map of the Herbeira massif (Tilhac et al. 2016, Tilhac 2017, and references therein) showing (1) sheath-fold deformation cross-cutting lithological contacts and (2) the serpentinized and/or amphibolitized area surrounding the gradual contact between dunites and harzburgites, along the axial surface of the synform. Fault lines correspond either to strike-slip faults (continuous lines) or contacts with granulites (thrust patterns). Note that the synformal structure of the massif is partly conditionned by the dunite body mapped along the SE boundary of the massif (Puelles et al., 2012). Outcrops that support the existence of this dunite are mostly limited to the now inaccessible area of *Mina David*,  open pit mine (*Mina David*) exploited by *Pasek Minerales*. The extracted material, so-called "dunite HT" (a refractory material used in thermal power plant), is indeed reported with an homogeneous 37% of MgO (Caballero, 2009) consistent with the WR compositions measured in the Cabo Ortegal dunites (Tilhac et al. 2016).
 
 > Use the JPet version instead. Update caption. Remove dunite-harzburgite transition to stop 7 and mention in the caption the issue concerning the E dunite lense.
 
@@ -434,8 +434,14 @@ style="max-width: 100%; max-height: 500px; height: auto;"/>
 
 **Structure of the Herbeira massif**. From this point, we will introduce the main lithological variations of the massif (**Fig_map-Herbeira**):
 
-- To the N, down the *Punta Robaliceira*, serpentinized harzburgites occur along the shore line along with minor pyroxenites and wehrlites. Thanks to marine erosion, these rocks exhibit spectacular sheath folds (Tilhac, 2017 + thesis) similar to those described in the *Limo* massif (Puelles et al. 2012) marked by a weakly defined foliation and a well-developed linear fabric.
+- To the N, down the *Punta Robaliceira*, serpentinized harzburgites occur along the shore line along with minor pyroxenites and wehrlites. Thanks to marine erosion, these rocks exhibit spectacular sheath folds (García-Izquierdo 2005, Tilhac 2017) similar to those described in the *Limo* massif (Puelles et al. 2012),marked by a weakly defined foliation and a well-developed linear fabric.
 - To the NW, below us, abundant pyroxenites make up to 80-90 % of a ~3 km-long, 300 m-thick lenticular domain exposed in the *Herbeira* cliffs. Individual layers may reach up to 3m in thickness with a lateral extent exceeding 100 m. They alternate mostly with dunites, particularly in the top and middle part of the pyroxenite-rich domain, and with harzburgites in its lower parts. This body preserve the best and most abundant pyroxenite outcrops of the complex, and among the largest amounts of pyroxenite in orogenic massifs worldwide. It has notably been investigated in detail through sampling of several cross-sections sampled by Girardeau et al. (1989, 1990, 1991) and Tilhac et al. (2016, 2017, 2020). Unfortunately, walking down the steeply dipping cliffs (about 65º) is not suitable for a large party. Detailed study of these cross-sections suggest that the actual shape of the pyroxenite-rich domain may be more complex. Most pyroxenites are found between altitudes ~150 and ~350 m below us, whereas they are found at a higher altitude in the *Punta Robaliceira*'s section (~ 400-500 m), and to a lesser extent at ~300m. It may thus consist of a pile of at least two connected lenticular bodies of varying extent. Their detailed characterization is complicated by blocks separated by NW-trending Alpine faults, glacial geomormology (Alberti 2023) and recent landlisdes, some of which are currently active and monitored (Horacio et al. 2019a & b).
+
+<img src="fieldguide_figures/herbeira-from-robaliceira.jpg"
+style="max-width: 50%; max-height: 500px; height: auto;"/>
+
+**Fig_herbeira-from-robaliceira**. View of the *Herbeira* cliffs from *Punta Robaliceira*. Sheath folds occurred in harzburgites in the foreground and in the pyroxenite-rich domain in the bottom-right corner of the cliffs. The *Vixía Herbeira* is located in the very top-left corner of the picture. Photo credit: R. Tilhac.
+
 - To the W, in the lower part of the cliffs, sheath folds have been described in the lower part of the pyroxenite-rich domain (Tilhac et al. 2016, Tilhac 2017) indicating that the *Herbeira* massif probably underwent the related deformation episode (D<sub>1</sub>) as an entity, likely constrained by the presence of abundant pyroxenites, rheologically competent with respect to surrounding peridotites. Importantly, this observation provide a robust fiel confirmation that the main pyroxenites pre-date the Devonian subduction episode.
 - To the NE, near the top of the ridge of *Punta Robaliceira*, a Grt-rich, 3 to 5 m-thick mafic layer was described by Girardeau and Gil Ibarguchi (1991). These mafic rocks are most likely unrelated to the main pyroxenites.
 - To the S of the *Vixía Herbeira*, in a broad area along the cliff edge, a dunite-dominated domain outcrops associated with relatively abundant chromitites and locally wehrlitic bands.
@@ -457,7 +463,7 @@ style="max-width: 50%; max-height: 500px; height: auto;"/>
 
 **Fig_type1-outcrop**. Chondrite-normalized REE compositions of Cpx and Amp from Cabo Ortegal type-1 pyroxenites (Tilhac et al. 2016).
 
-#### Stop 3.1. Chromitite schlieren in dunite
+#### Stop 3.1. Semi-massive chromitites in
 
 After passing by an isoclinal fold (**Fig_isoclinal-pyroxenite**), we reach the area of **Stop 3**, where we will observe the first chromtiite of the day and most of Cabo Ortegal pyroxenite subtypes.
 
@@ -473,7 +479,7 @@ style="max-width: 100%; max-height: 500px; height: auto;"/>
 
 **Fig_chromitite-outcrop**. Chromitite schlieren in dunite. Photo credit: R. Tilhac.
 
-#### Stop 3.2. Type-2 pyroxenite.
+#### Stop 3.2. Type-2 pyroxenite
 
 Walking W from **Stop 3.1**, we encounter among other pyroxenite layers an example (not pictured here) of massive websterite (type-2 pyroxenites of Tilhac et al. 2016). Most occurrences of this type are found in the central part of the pyroxenite-rich domain where massive outcrops reaching several m in thickness can be observed (_e.g._ **Fig_massive-pyroxenite**).
 
@@ -482,14 +488,14 @@ style="max-width: 50%; max-height: 500px; height: auto;"/>
 
 **Fig_massive-pyroxenite**. Among the best example of (~3-m thick) massive Spl-/Grt-facies pyroxenite (sample CO-006; Tilhac et al. 2016) from the *Herbeira* cliffs (not included in this excursion; Tilhac, 2017).
 
-These pyroxenites are more evolved with 20-21% MgO, 3-6% Al<sub>2</sub>O<sub>3</sub> and Cpx Mg# of 0.88-0.92 (**Fig_mineral-chemistry-**) . Type-2 pyroxenites plot along the En-CaTs join on the Fo-CaTs-Qz diagram, similarly to experimental cumulates of hydrous basaltic andesites (Müntener et al. 2001). Their Ol-free, lower Cpx/Opx modal compositions suggest that they either crystallized from an initially Si-saturated magma or that they represent a more advanced product (_i.e._ at higher melt/rock ratio) of melt-peridotite interaction than type-1 pyroxenites, upon which Ol was entirely consumed by the peritectic reaction Fo + Si-rich melt = En at relatively low pressure (<1.2 GPa). This interpretation is consistent with the presence of late-magmatic Amp crystallized upon cooling from hydrous residual melts responsible for the metasomatic enrichment of the pyroxenites (similarly to the percolative fractional crystallization model of Harte et al. 1993). Type-2 pyroxenites indeed exhibit variable LREE enrichments over nearly flat HREE (**Fig_REE-type2**) negatively correlated with Nd isotopes (Tilhac et al., 2017). Accordingly, outward percolation of these melts is likely to be responsible for the positive correlation observed between the amount of pyroxenites and the extent of LREE enrichment in the host harzburgites (Gravestock, 1992).
+These pyroxenites are more evolved with 20-21% MgO, 3-6% Al<sub>2</sub>O<sub>3</sub> and Cpx Mg# of 0.88-0.92 (**Fig_mineral-chemistry-**). Type-2 pyroxenites plot along the En-CaTs join on the Fo-CaTs-Qz diagram, similarly to experimental cumulates of hydrous basaltic andesites (Müntener et al. 2001). Their Ol-free, lower Cpx/Opx modal compositions suggest that they either crystallized from an initially Si-saturated magma or that they represent a more advanced product (_i.e._ at higher melt/rock ratio) of melt-peridotite interaction than type-1 pyroxenites, upon which Ol was entirely consumed by the peritectic reaction Fo + Si-rich melt = En at relatively low pressure (<1.2 GPa). This interpretation is consistent with the presence of late-magmatic Amp crystallized upon cooling from hydrous residual melts responsible for the metasomatic enrichment of the pyroxenites (similarly to the percolative fractional crystallization model of Harte et al. 1993). Type-2 pyroxenites indeed exhibit variable LREE enrichments over nearly flat HREE (**Fig_REE-type2**) negatively correlated with Nd isotopes (Tilhac et al., 2017). Accordingly, outward percolation of these melts is likely to be responsible for the positive correlation observed between the amount of pyroxenites and the extent of LREE enrichment in the host harzburgites (Gravestock, 1992).
 
 <img src="fieldguide_figures/ree-type2.png"
 style="max-width: 50%; max-height: 500px; height: auto;"/>
 
 **Fig_REE-type2**. Chondrite-normalized REE compositions of Cpx and Amp from Cabo Ortegal type-2 (and type-4) pyroxenites (Tilhac et al. 2016).
 
-#### Stop 3.3. Type-3 pyroxenite.
+#### Stop 3.3. Type-3 pyroxenite
 
 Continuing towards the cliff edge, we reach an example (not pictured here) of strongly foliated (type-3 pyroxenites of Tilhac et al. 2016). These pyroxenites are characterized by the highest modal proportion of Amp (8-43 %) among Cabo Ortegal pyroxenites, compared to type-1 and type-2 which contain 6-14% and 5-26%, respectively. Except the higher Amp content, their whole-rock (WR) major and modal compositions overlap with type-1 and -2 pyroxenites (**Fig_mineral-chemistry-pyroxenites**), except higher Na<sub>2</sub>O, K<sub>2</sub>O (up to 0.8-0.9 %) and systematically LREE-enriched patterns with negative MREE-to-HREE slopes (**Fig_REE-type3**). Most type-3 pyroxenites mimic the high MgO of type-1 while other reach similarly high Al<sub>2</sub>O<sub>3</sub> than type-2 pyroxenites. 
 
@@ -505,7 +511,7 @@ style="max-width: 100%; max-height: 500px; height: auto;"/>
 
 **Fig_amphibolitization**. Sketch depicting the model proposed by Tilhac (2017) & Henry et al. (2017) for the formation of type-3 pyroxenites, preferentially from on a protolith similar to those of type-1 pyroxenites; increasing deformation by axial compression and shear eventually stacks pyroxenites layers (**1 & 2**) creating preferential pathways for fluid percolation and amphibolitization (**3**).
 
-#### Stop 4.1: Massive chromitite in dunite
+#### Stop 4.1: Massive chromitites
 
 We reach the area around **Stop 4** where most of the chromitite outcrops of the *Herbeira* massif are encountered. This area was mapped in detail by Monterrubio Perez (1991) (**Fig_map-Monterrubio-Perez**), who first discovered platiniferous chromitite here as part of his work on mineralization in ultramafic rocks of the Variscan belt of Spain. Chromium and Pt concentrations were measured along trenches dug by the Empresa Nacional Adaro de Investigaciones Mineras (ENADIMSA), one the ancestors of the Spanish geological survey. Subsequent investigation of these chromitites by Moreno (1999) revealed concentrations >13 000 ppb ΣPGE, with Pt and Pd being much more concentrated (10 900 ppb) than Os, Ir and Ru (<1365 ppb).
 
@@ -543,7 +549,7 @@ style="max-width: 100%; max-height: 1000px; height: auto;"/>
 
 #### Stop 5: "Chao do Monte" lookout
 
-We will have lunch at the *Chao do Monte* (literally "flatland of the hill") lookout (360 m),  a pasture for cows and horses near the NE edge of the the ultramafic massif of *Uzal*. It provides great views to the NE  towards the granulites and the *Herbeira* cliffs  (**Fig_Uzal-panorama**). To the W, we can also observe the rest of the folded Uzal massif down to the *Playa de Cortés* beach and the *Chimparra*  gneiss outcropping forming the ridge of *Punta Tarroiba* (**Fig_playa-de-cortes**)..
+We will have lunch at the *Chao do Monte* (literally "flatland of the hill") lookout (360 m),  a pasture for cows and horses near the NE edge of the the ultramafic massif of *Uzal*. It provides great views to the NE  towards the granulites and the *Herbeira* cliffs  (**Fig_Uzal-panorama**). To the W, we can also observe the rest of the folded Uzal massif down to the *Playa de Cortés* beach and the *Chimparra*  gneiss outcropping forming the ridge of *Punta Tarroiba* (**Fig_playa-de-cortes**).
 
 <img src="fieldguide_figures/uzal-panorama.jpg"
 style="max-width: 100%; max-height: 500px; height: auto;"/>
@@ -581,16 +587,35 @@ style="max-width: 100%; max-height: 1000px; height: auto;"/>
 
 Compared to peridotites and pyroxenites, the relatively narrow range of Mg# (0.35-0.50) and high Cr contents observed in chromtites indicates more limited re-equilibration processes (except for the lower Cr# of group-B chromitites). Slight differences between massive (type-I) and semi-massive (type-II) chromitites, which were ascribed by Garcia-Tudela et al. (2024) to distinct parental melts, may also reflect variable extent of subsolidus re-equilibration. Massive chromitites are indeed the least likely to suffer from subsolidus re-equilibration with silicates and accordingly overlap with the compositional field of chromite in boninites (Barnes & Roedder, 2001), probably reflecting their actual parental melts.
 
-#### Stop 7: Chlorite harzburgites, garnet pyroxenites & mylonites
+#### Stop 7: The Trans-Herbeira Fault (THF)
 
-> In progress... All what's below are temporary bits copied from my thesis.
+> I need to add here information about the new outcrops we spotted together (mylonites, Grt pyroxenites) and something about the Chl harzburgites which I will need help with).
 
-**Trans-Herbeira Fault (THF)**. It has been proposed that the *Herbeira* massif consists of two tectonically distinct units separated by a near-vertical fault oriented NW-SE: the Trans-Herbeira Fault (THF; Moreno et al. 2001, García Izquierdo et al. 2011). Evidence compatible with the existence of this fault include high degrees of serpentinization and chrysotile veining (asbestos) to the NE and exposure of horizontally-foliated garnet granulites and vertical foliation adjacent to quartz veins to the SW (Moreno, 1999). In addition, ultramafic rocks exposed in excavations to the NE of the *Vixía Herbeira* are highly brecciated and exhibit a north-dipping lineation and evidence for a dextral shear sense (Moreno, 1999). The THF-affected area is strongly amphibolitized to the NE and serpentinized with abundant sub-vertical garnet-bearing veins to the SW. However, field observations reported by Tilhac (2017) where fresh outcrops are preserved (i.e. to the SW) indicate that the contact between harzburgites and dunites can be observed as gradual: the proportion of opx porphyroclasts increases progressively over a few hundred metres. We thus believe that the area has been affected by metasomatism that overprinted the igneous contact between dunites and harzburgites, and probably post-dates the thrusting of the massif on to the granulites, as evidenced by chlorite-talc-serpentine-rich rocks exposed near the contact with granulites. Faulting might have occurred locally, and at most limited to minor displacement; the THF thus does not represent a major structure. Foliation trajectories indicate that the Herbeira massif is a large and open synformal structure (Ábalos et al. 2003, Girardeau et al. 1990) whose axial plane roughly follows the lithological layering, although it is not possible to directly relate serpentinization, veining and brecciation to the folding episode. However, this structure is to an important extent conditionned by the existence of a questionable lense of dunite, which appears in some geological map also the E border of the massif.
+After walking further 500 m along the dirt road, we reach the area inferred as the location intersected by the Trans-Herbeira Fault (THF), named by Moreno (1999) following original observations by Monterrubio (1991). 
+
+Moreno et al. (2001) described the THF as a NNE-SSW brittle fault with a dextral shear sense, based on the observations of brecciated ultramafic cataclasites with north-plunging lineations, particularly in farm excavation 125 m NE of the *Vixía Herbeira* (**Fig_thf-map**).
+
+> Add THF map from Moreno/Garcia-Izquierdo. 
+
+In contrast, García-Izquierdo (2005) described it as a ~ 200m wide Trans Herbeira Shear Zone (THSZ) where deformation is concentrated in cm- to m-thick anastomosing mylonitic bands (**Fig_thf-cross-section**). In a cross section to the S of the massif, a grain-size decrease is observed in the Amp-rich peridotites as the structure is approach. A planar fabric is also observed increasingly steeply dipping and progressively aligning with the near-vertical mylonitic bands, cutting the compositional layering at a very low angle (**Fig_thf-foliation-map**). Subhorizontal lineations in the area are defined by the stretching of Px  and the orientation of Amp aggregates, similarly oriented to lineations observed across the massif. The anastomosing structure of the mylonitic bands indicate a sinistral movement in a transtensional regime, as suggested by SSW-plunging lineations (García-Izquierdo, 2005). It is also inferred to have normal component with the eastern block as hanging wall and an estimated vertical displacement of 400 m. 
+
+> Add THF cross-section and folation map from Garcia-Izquierdo. 
+
+Of interest here, the existence and nature of the THF/THSZ conditions our understanding of the structure of the *Herbeira* massif. Three interpretations are possible:
+  - If is a major structure with significant displacement and the massif thus consists in two tectonically distinct units, interpreted as a lower-crustal layered sequence to the E and a mantle tectonic to the W, respectively (Moreno et al. 2001, García Izquierdo et al. 2011).
+  - It is only a minor structure with limited displacement, the lithological heterogeneity of the massif must be considered a as a whole (Girardeau et al., 1989, Abalos et al., 2000, Puelles 2003), potentially as part of a large and open synformal structure whose axial surface would be slightly oblique to the THF, (Ábalos et al. 2000, Puelles 2003), as suggested by foliation trajectories (see **Fig_map-Herbeira**)
+
+More recently, Tilhac (2017) reported field observations where relatively fresh outcrops are preserved, indicating that the contact between harzburgites and dunites can be observed as a gradual increase in the proportion of Opx porphyroclasts over a few hundred metres (**Fig_thf-transition**). These observations support the latter interpretation in the sense that the THF does not put the harzburgites and dunites in tectonic contact, regardless of its brittle/ductile nature.
+
+> Move the harzburgite-dunite transition figure here.
+
+Nonetheless, the area is affected by significant fluid circulation (**Fig_THF-features**). High degrees of serpentinization and/or amphibolitization, abundant quartz and asbestiform chrysotile veining.  Sub-vertical Grt-Chl-bearing veins have also been observed to the SW (Tilhac 2017). Intrusions rich in Phl and Ap have been described associated with the mylonites by García-Izquierdo (2005). Demantoid (Cr-rich andrandite Grt) which occurs associated with Chl-Srp veins, interpreted as coeval to the end of the greenschist-facies retrograde metamorphism (<450ºC, Madon et al. 1991). 
+Based on these observations, the THF is interpreted as a late structure where fluid-assisted faulting might have occurred locally (as indicated by breccias) and limited to minor displacement. It probably post-dates the thrusting of the massif onto the granulite (Tilhac, 2017), as suggested by talc-Chl-Srp-rich rocks (soapstone) exposed near the contact with granulites (Moreno, 1999). We further speculate that it may relate to local extensional regime around the axial surface of the synformal axial plane, potentially re-activating pre-existing mantle shear zones near the harzburgite-dunite transition. Shear zones might have also formed locally facilitated by rheological weakening induced by the presence of fluids/melts.
 
 <img src="fieldguide_figures/thf-features.jpg"
 style="max-width: 100%; max-height: 1000px; height: auto;"/>
 
-**Fig_THF-features**. Late features related to the Trans-Herbeira Fault (THF): **a.** complete am- phibolitization to the NE, probably after cpx-rich lithologies resulting in hornblendite; **b.** Asbestos to the SW, where the THF intersects the contact with granulites; **c.** network of serpentine veins; **d.** breccia made of highly serpentinized dunite fragments embedded in a serpentinite matrix, in the central part of the THF; **e & f.**. Grt-Chl-rich veins restricted to the SW of the THF.
+**Fig_THF-features**. Evidence of fluid circulation along the Trans-Herbeira Fault (THF): **a.** complete amphibolitization to the NE, probably after Cpx-rich lithologies resulting in hornblendite; **b.** asbestiform chrysotile to the SW, where the THF intersects the contact with granulites; **c.** Srp vein network; **d.** breccia made of highly serpentinized dunite fragments embedded in a Srp matrix, in the central part of the THF; **e & f.**. Grt-Chl-rich veins restricted to the SW of the THF.
 
 #### Stop 8: Layered pyroxenites (optional)
 
@@ -598,6 +623,13 @@ To wrap up the day, time and weather allowing, we will walk in small groups to s
 
 <img src="fieldguide_figures/layered-pyroxenites-robaliceira.jpg"
 style="max-width: 50%; max-height: 500px; height: auto;"/>
+
+From this point, we also get a a nice view of the *Limo* massif which forms even steeper cliffs  than Herbeira to the NE (**Fig_limo**).
+
+<img src="fieldguide_figures/limo.jpg"
+style="max-width: 50%; max-height: 500px; height: auto;"/>
+
+**Fig_limo**. View of the *Limo* massif from the layered pyroxenite outcrop, near the NW contact of the *Herbeira* massif onto the granulites. Photo credit: R. Tilhac.
 
 **Fig_layered-pyroxenites-2**. Layered pyroxenites and dunites (Tilhac et al. 2016)
 
