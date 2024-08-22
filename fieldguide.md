@@ -62,9 +62,9 @@ The **Upper Allochton** is a 10-12 km-thick pile divided into an intermediate pr
 
 The **Ophiolitic Unit** includes two formations with unclear structural relationships: *Moeche* (Arenas et al. 2014b), formerly described as a sheet of mylonitic greenschists (Arenas et al. 1986, Arenas, 2015), and *Purrido* (Sánchez Martínez et al. 2011), which consists of monotonous amphibolites and Grt-bearing amphibolites of meta-gabbroic origin. A small unit of HT amphibolites (*Peña Escrita*) also occurs in the Upper Allochton in the structural continuity of *Purrido* formation, and both exhibit an E-MORB signature. The regional significance of these formations is far more limited than that of the better-preserved ophiolites of the Órdenes Complex (Arenas, 2015), recognized as one of the best suture of the Rheic Ocean in the European Variscides (Murphy et al. 2011), as well as remnants of other peri-Gondwana oceanic domains.
 
-In the Cabo Ortegal Complex, the **Basal Unit** is only poorly exposed as the *Espasante* formation, consisting of felsic orthogneisses, amphibolites and minor retro-eclogites. It is associated with a 30-km-long tectonic mélange (*Somozas* formation), a typical serpentinite mélange characterized by tectonic blocks of meta-igneous (including a calc-alkaline suite dated at 527–499 Ma) and meta-sedimentary rocks wrapped around by a highly sheared serpentinite matrix. Together, they represent former pieces of the subducted Gondwanan margin and arc-derived section of peri-Gondwanan transitional crust, deformed and exhumed in a subduction channel (Arenas et al. 2009, Novo-Fernandez et al. 2016), now overlying the parautochthon.
+In the Cabo Ortegal Complex, the **Basal Unit** is only poorly exposed as the *Espasante* formation, consisting of felsic orthogneisses, amphibolites and minor retro-eclogites. It is associated with a 30-km-long tectonic mélange (*Somozas* formation), a typical serpentinite mélange characterized by tectonic blocks of meta-igneous (including a calc-alkaline suite dated at 527–499 Ma) and meta-sedimentary rocks wrapped around by a highly sheared serpentinite matrix. Together, they represent former pieces of the subducted Gondwanan margin and arc-derived section of peri-Gondwanan transitional crust, deformed and exhumed in a subduction channel (Arenas et al. 2009, Novo-Fernandez et al. 2016), now overlying the parautochthon.
 
-<img src="fieldguide_figures/map-Cabo-Ortegal.png"
+<img src="fieldguide_figures/map-cabo-ortegal.png"
 style="max-width: 100%; max-height: 1000px; height: auto;"/>
 
 **Fig_map-Cabo-Ortegal**. Geological map and cross section of the Cabo Ortegal Complex (Arenas et al. 2014, modified after Vogel, 1967, Marcos et al. 1984, Arenas et al. 1986, 2009).
@@ -77,7 +77,7 @@ style="max-width: 100%; max-height: 1000px; height: auto;"/>
 
 Ultramafic rocks are mainly exposed in the *Herbeira* (12.5 km<sup>2</sup>), *Limo* (6.6 km<sup>2</sup>) and *Uzal* (3.6 km<sup>2</sup>) massifs (**Fig_HP-units-simplified**), but also in ~40 sparse harzburgitic outcrops within *Bacariza* granulites, interpreted by some authors as tectonic windows. The massifs are always in contact with granulites except on the W edge of the *Uzal* massif, where they are in tectonic contact with the *Chímparra* gneiss.
 
-<img src="fieldguide_figures/HP-units-simplified.png"
+<img src="fieldguide_figures/hp-units-simplified.png"
 style="max-width: 50%; max-height: 500px; height: auto;"/>
 
 **Fig_HP-units-simplified**. Simplified map of the HP units of the Cabo Ortegal Complex showing the location of the ultramafic massifs (Tilhac et al. 2016, and references therein).
