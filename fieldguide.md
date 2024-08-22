@@ -222,9 +222,6 @@ style="max-width: 50%; max-height: 500px; height: auto;"/>
 
 Such parental melts are compatible with the conclusion from Moreno et al. (2001) that the chromtitites crystallized from a S-poor, mantle-derived melt. Indeed, the abundance of sulfides (up 1 %) cannot be accounted for by the low S contents of boninitic or picritic melts, which must at least partly relate to a secondary S addition (Tilhac et al. 220), as suggested by the textural association between interstitial sulfides and Amp (_e.g._ Tilhac et al. 2016, and references therein). Accordingly, empirical calculations based on Al<sub>2</sub>O<sub>3</sub> and TiO<sub>2</sub> contents in chromitites yield parental melt compositions comparable to a fore-arc (_i.e._ low-Ti) basalt and a boninite for type-I and -II chromitites, respectively (García-Tudela et al. 2024). However, these inferences rely on the assumption that Al<sub>2</sub>O<sub>3</sub> and TiO<sub>2</sub> contents in Chr are primary chemical compositions, whereas the observed differences could relate to subsolidus re-equilibration (_e.g._ Pagé & Barnes 2009; Tilhac, 2017).
 
-
-**Fig_spl-ternary-model*. Normative compositions of Cabo Ortegal pyroxenites in the pseudoternary system Fo–CaTs–Qz projected fro
-
 Constraints on melt sources are provided by high CaO/Al<sub>2</sub>O<sub>3</sub>, low TiO<sub>2</sub> and alkalis, and selective large ion lithophile (LILE)/high field strength elements (HFSE) enrichment. The parental melt of Cabo Ortegal pyroxenites is thought to have been produced from a low Cpx/Opx (_i.e._ harzburgitic) source, metasomatized by slab- or mantle-wedge derived hydrous fluids or silicate melts (Tilhac et al. 2016) or carbonatites (Gravestock, 1992).
 
 > Perhaps a spyder diagram to show the LILE/HFSE enrichment here.
