@@ -1,3 +1,9 @@
+---
+layout: page
+title: Age summary for the mantle section of the Cabo Ortegal Complex
+permalink: /cabo-ortegal/age-summary
+---
+
 | Age          | Method                            | Rock                                    | Reference                     |
 | ------------ | --------------------------------- | --------------------------------------- | ----------------------------- |
 | 383 ± 1 Ma   | U-Pb (Rt)                         | Grt clinopyroxenite (Herbeira)          | Santos Zaldegui et al. (1996) |
