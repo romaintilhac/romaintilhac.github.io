@@ -7,7 +7,7 @@ tags: [documentation,sample]
 image: herbeira.jpg
 ---
 
-As a co-organizer of the7<sup>th</sup> Lherzolite Conference in Oviedo, Asturias, I have the pleasure to lead the **field trip to the mantle section of the Cabo Ortegal Complex** in Galicia, Spain, as part of the 2-day pre-conference excursion. More on [https://lherzolite2024.github.io](https://lherzolite2024.github.io) and [@lherzolite2024 ](https://twitter.com/lherzolite2024).
+As a co-organizer of the 7<sup>th</sup> Lherzolite Conference in Oviedo, Asturias, I have the pleasure to lead the **field trip to the mantle section of the Cabo Ortegal Complex** in Galicia, Spain, as part of the 2-day pre-conference excursion. More on [https://lherzolite2024.github.io](https://lherzolite2024.github.io) and [@lherzolite2024 ](https://twitter.com/lherzolite2024).
 
 Below is a Metashape 3D model of one of the outcrops of the excursion, a stunning chromitite hosted in dunite in the *Herbeira* massif.
 
