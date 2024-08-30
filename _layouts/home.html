@@ -2,6 +2,26 @@
 layout: default
 ---
 
+<div class="posts-container">
+  {% assign aboutme_page = site.pages | where: "title", "About me" | first %}
+  
+  {% if aboutme_page %}
+    <h1>
+      <a href="{{ site.github.url }}/aboutme.html">{{ aboutme_page.title }}</a>
+    </h1>
+    {% if aboutme_page.image %}
+      <div class="thumbnail-container-aboutme">
+        <a href="{{ site.github.url }}/aboutme.html">
+          <img src="{{ site.github.url }}/assets/img/{{ aboutme_page.image }}" alt="About Me Image">
+        </a>
+      </div>
+    {% endif %}
+    <p>
+      {{ aboutme_page.content | strip_html | truncate: 263}} <a href="{{ site.github.url }}/aboutme.html">Read more</a>
+    </p>
+  {% endif %}
+</div>
+
 {% for post in paginator.posts %}
   <div class="posts-container">
     <h1>

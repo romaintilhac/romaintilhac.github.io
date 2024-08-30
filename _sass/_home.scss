@@ -12,6 +12,17 @@
   Thumbnail
 */
 
+.thumbnail-container-aboutme {
+  max-width: 100%;
+  overflow: hidden;
+  border-radius: 5px;
+  margin-bottom: 25px;
+  /* Add dimensions or adjust them if needed */
+  height: 200px; /* or another appropriate value */
+  width: 200px; /* or another appropriate value */
+}
+
+
 .thumbnail-container {
   max-width: 100%;
   overflow: hidden;

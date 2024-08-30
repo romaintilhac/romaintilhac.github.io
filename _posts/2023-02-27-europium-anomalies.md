@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Latest publication: Europium anomalies kinetically developed without plagioclase"
+title: "Europium anomalies kinetically developed without plagioclase"
 author: "Romain Tilhac"
 categories: journal
 tags: [documentation,sample]

@@ -1,21 +1,15 @@
 ---
-layout: page
-title: Cabo Ortegal Complex
-permalink: /cabo-ortegal/test
+layout: post
+title: "Lherzolite conference field trip to Cabo Ortegal"
+author: "Romain Tilhac"
+categories: journal
+tags: [documentation,sample]
+image: herbeira.jpg
 ---
 
-This was my PhD research project, which aimed to contribute to the understanding of the:
-- petrogenesis of pyroxenites in the sub-arc mantle;
-- overprint of subduction-related metasomatism and metamorphism;
-- the variability of source and timing of pyroxenite formation;
-- deformation of pyroxenites in layered mantle domains;
-- seismic properties of pyroxenite-rich mantle via numerical modelling;
-- associated tectonic and geodynamic processes.
+As a co-organizer of the7<sup>th</sup> Lherzolite Conference in Oviedo, Asturias, I have the pleasure to lead the **field trip to the mantle section of the Cabo Ortegal Complex** in Galicia, Spain, as part of the 2-day pre-conference excursion. More on [https://lherzolite2024.github.io](https://lherzolite2024.github.io) and [@lherzolite2024 ](https://twitter.com/lherzolite2024).
 
-<div class="image-container">
-  <img src="{{ site.github.url }}/assets/img/pyroxenites.jpg">
-</div>
-*Dunite-pyroxenite layering in the Herbeira cliffs of the Cabo Ortegal Complex.*
+Below is a Metashape 3D model of one of the outcrops of the excursion, a stunning chromitite hosted in dunite in the *Herbeira* massif.
 
 <div class="sketchfab-embed-wrapper">
   <iframe
