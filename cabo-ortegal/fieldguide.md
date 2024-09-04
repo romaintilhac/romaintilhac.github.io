@@ -587,7 +587,7 @@ style="max-width: 50%; max-height: 500px; height: auto;"/>
 
 The main outcrop of **Stop 3.1** is a sequence of several irregular layers or schlieren hosted in dunite. They extend laterally over several m with an individual thickness ranging from single grains to 3-4 cm (**Fig_chromitite-outcrop**). This occurrence corresponds to the semi-massive (< 80 % Chr), high-Cr# (0.75–0.82) chromitite (type II) of García-Tudela et al. (2024), which was classified in a broad group of Chr-rich dunite (< 75 % Chr) by Moreno et al. (2001).
 
-<img src="cabo-ortegal/fieldguide_figures/chromitite-outcrop.jpg"
+<img src="cabo-ortegal/fieldguide_figures/chromitite-outcrop.png"
 style="max-width: 100%; max-height: 500px; height: auto;"/>
 
 **Fig_chromitite-outcrop**. **a.** Chromitite schlieren in dunite. **b.** Detailed view of the nodular (semi-massive) texture of the chromitite. Photo credit: R. Tilhac.
