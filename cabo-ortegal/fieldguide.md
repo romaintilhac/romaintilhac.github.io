@@ -613,6 +613,8 @@ style="max-width: 50%; max-height: 500px; height: auto;"/>
 
 #### Stop 1.3A: Semi-massive chromitites
 
+> Sub-stops to be consolidated for clarity.
+
 After passing by an isoclinal fold (**Fig_isoclinal-pyroxenite**), we reach the area of **Stop 1.3**, where we will observe the first chromitite of the day and most of Cabo Ortegal pyroxenite subtypes.
 
 <img src="cabo-ortegal/fieldguide_figures/isoclinal-pyroxenite.jpg"
