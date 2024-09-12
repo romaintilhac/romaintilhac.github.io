@@ -824,6 +824,8 @@ style="max-width: 75%; max-height: 1000px; height: auto;"/>
 
 **Fig_limo-phase-diagram.** Phase diagram section for an harzburgite sample from the *Limo* massif (Puelles _et al._ 2012), comparable to the harzburgites of the E part of the *Herbeira* massif. The P-T path corresponds to peak metamorphic conditions after Girardeau _et al._ (1989) and Girardeau and Gil Ibarguchi (1991), and retrogression after Mendia _et al._ (2001) and Puelles _et al._ (2005)
 
+> NOTE: fix the frame.
+
 **Stop 1.7B** also features folded Grt-rich pyroxenite dykes deformed in mylonites near the contacts (**Fig_grt-pyroxenite-fold.**). It is noteworthy that folding of such dykes is limited to mylonites in the vicinity of the granulite contacts.
 
 <img src="cabo-ortegal/fieldguide_figures/grt-pyroxenite-fold.jpg"
