@@ -296,7 +296,7 @@ Based on the considerations above, the latter scenario (two subsequent melt intr
 style="max-width: 100%; max-height: 1000px; height: auto;"/>
 
 
-**Fig_mineral-chemistry-cpx**. Covariation diagram of Cpx in type-1 pyroxenites (**a**) and type-2 and -4 pyroxenites (**b**), corresponding to stage-1 melt-peridotite interaction and melt and stage-2 differentation trend, respectively. Note that both trends are relatively Al-poor compared to the Grt-rich mafic rocks, and to a lesser extent, some of peridotites. 
+**Fig_mineral-chemistry-cpx**. Covariation diagram of Cpx in type-1 pyroxenites (**a**) and type-2 and -4 pyroxenites (**b**), corresponding to stage-1 melt-peridotite interaction and stage-2 differentation trends, respectively. Note that both trends are relatively Al-poor compared to the Grt-rich mafic rocks, and to a lesser extent, some of peridotites. 
 
 Note type-3 pyroxenites overlaping the range of Mg# at lower Al<sub>2</sub>O<sub>3</sub>, interpreted as the result of subsolidus re-requilibration with higher proportions of Amp.
 
