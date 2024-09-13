@@ -291,14 +291,10 @@ Based on the considerations above, the latter scenario (two subsequent melt intr
 1. A Si-undersaturated melt such (_e.g._, ultra-calcic picrite) led to the formation of dunites and branching veins of replacive Ol clinopyroxenites (type 1) preserving dunite lenses (see **Stop 1.2**). Some websterites locally formed at higher melt/rock ratios. 
 2. A more Si-rich melt (_e.g._, boninite) led to the formation of primitive orthopyroxenites (type-4) and the more evolved, massive websterites (see **Stop 1.2** & **1.3**)
 
-
 <img src="cabo-ortegal/fieldguide_figures/mineral-chemistry-cpx.png"
 style="max-width: 100%; max-height: 1000px; height: auto;"/>
 
-
 **Fig_mineral-chemistry-cpx**. Covariation diagram of Cpx in type-1 pyroxenites (**a**) and type-2 and -4 pyroxenites (**b**), corresponding to stage-1 melt-peridotite interaction and stage-2 differentation trends, respectively. Note that both trends are relatively Al-poor compared to the Grt-rich mafic rocks, and to a lesser extent, some of peridotites. 
-
-Note type-3 pyroxenites overlaping the range of Mg# at lower Al<sub>2</sub>O<sub>3</sub>, interpreted as the result of subsolidus re-requilibration with higher proportions of Amp.
 
 In this scenario, chromitites are most likely associated with the boninitic stage 2 following a crystallization sequence of Ol + Cr-Spl > Opx > Cpx expected for instance for low-Ca boninite (Crawford _et al._, 1989). Type-4 pyroxenites are indeed mostly observed near chromitites. However, it cannot be excluded that chromitites also formed during stage 1. 
 
