@@ -19,7 +19,7 @@ by Romain Tilhac<sup>1</sup>, Marco A. Lopez-Sanchez<sup>2</sup>, Sergio Llana-F
 <sup>1</sup> Instituto Andaluz de Ciencias de la Tierra (IACT/CSIC);
 <sup>2</sup> Universidad de Oviedo
 
-*Version updated on 12/09/24*
+*Version updated on 13/09/24*
 
 ## 1. Introduction
 
@@ -54,8 +54,6 @@ style="max-width: 100%; max-height: 1000px; height: auto;"/>
 
 **Fig_map-cabo-ortegal**. Geological map and cross section of the Cabo Ortegal Complex (Arenas _et al._, 2014, modified after [Vogel, 1967](https://repository.naturalis.nl/pub/505641), Marcos _et al._, 1984, Arenas _et al._, 1986, 2009).
 
-> NOTE: I was about to replace this map by the new one from Martinez-Catalan _et al._, (2019), but I realized that it is too detailed (foliations, etc.) and visually much less clear than this one, which I find very easy to read. And the main units that we describe are essentially the same in both. Let me know what you think.
-
 #### Lower Tectonic Unit
 
 This unit comprises a suite of low- to high-pressure rocks without high-T imprints, interpreted as remnants of the subducted Gondwanan margin and arc-derived rocks of the peri-Gondwanan transitional crust, which were deformed and exhumed in a subduction channel. It is typically divided into three sub-units (_e.g._, Marcos _et al._, 2002; Arenas _et al._, 2014):
@@ -75,13 +73,11 @@ style="max-width: 100%; max-height: 1000px; height: auto;"/>
 
 **Fig_hp-ht-units**. Simplified map of the HP-HT units of the Cabo Ortegal Complex showing the location of the ultramafic massifs. *Granulites* refer to Opx-free Grt granulites and amphibolites. *Si-poor granulites* refer to the ultramafic cumulates (pyrigarnites, horblendites and pyribolites).  See **Section 4** for more details.
 
-> NOTE: We could put the itinerary stops (particularly of the second day). Check the simplified caption. Add a reference.
-
 The ultramafic cumulates and most of the granulites form together the *Bacariza* (or *Vacariza*) formation to the W, whereas the E granulite body is known as the *Candelaria* formation (see **Section 4.1**). The eclogites are known as the *Concepenido* formation.  The gneisses occur as the *Chímparra* gneiss to W, and as the *Banded* gneiss (and *Cariño* gneiss) formations to the E (see **Section 4.3**). 
 
 Some authors further divide the Upper Tectonic Unit based on the similarity of their lithological sequence but differing amphibolite facies overprint hindering earlier HP-HT history (_e.g._, Galán and Marcos, 2000):
 - *La Capelada* (or *Concepenido-La Capelada*) Unit, which includes the ultramafic massifs, *Bacariza* granulites, *Concepenido* eclogites and the *Banded gneiss* formation;
-- *Cedeira* Unit, which includes the *Chímparra* gneiss and the *Candelaria* formation.
+- *Cedeira* Unit, which includes the *Chímparra* gneiss and the *Candelaria* formations.
 
 In contrast to the Lower Tectonic Unit, the cartographic pattern of the Upper Tectonic Unit shows a consistent lithological sequence, interpreted by some authors as a continuous lithospheric section of lower crust and upper mantle (_e.g._, Marcos _et al._, 2002, Brown _et al._, 2009), while others separate the different mappable units by ductile thrusts (_e.g._, Abalos _et al._, 2003 and references therein).
 
@@ -96,7 +92,7 @@ Minor ultramafic rocks occur along the shear zone (*Carreiro* shear zone) that r
 <img src="cabo-ortegal/fieldguide_figures/map-ultramafics.png"
 style="max-width: 100%; max-height: 1000px; height: auto;"/>
 
-**Fig_hp-ht-units**. Simplified map of the HP-HT units of the Cabo Ortegal Complex showing the location of the ultramafics massifs and outcrops.
+**Fig_hp-ht-units**. Simplified map of the HP-HT units of the Cabo Ortegal Complex showing the location of the ultramafic rocks and corresponding excursion stops.
 
 The ultramafic rocks are primarily composed of harzburgites which dominate in the *Limo* and *Uzal* massifs. In contrast, the *Herbeira* massif preserves a mucher great lithological diversity, including harzburgites, pyroxenites, dunites and chromitites.
 
@@ -137,7 +133,7 @@ style="max-width: 100%; max-height: 1000px; height: auto;"/>
 
 **Fig_pyroxenites**. Representrative outcrops of the different types of pyroxenites in the *Herbeira* massif ([Tilhac, 2017](https://doi.org/10.25949/22281616.v1)).
 
-Representative modal compositions are approx. 30–80 % Cpx, 0–45 % Opx, 5-40 % Amp, 2–8 % Spl, 6–7 % Grt when present, < 1 % base-metal sulfides and 1-2 % Chl when present. Olivine is mostly restricted to type-1 and -4 pyroxenites. Cpx/Opx ratios decrease from type-1 and-3 pyroxenites through type-2 to type-4 pyroxenites (**Fig_pyroxenites-mode**). Amphibole is most abundant in type-3 pyroxenites and least abundant in type-1 pyroxenites.
+Representative modal compositions are approx. 30–80 % Cpx, 0–45 % Opx, 5-40 % Amp, 2–8 % Spl, 6–7 % Grt when present, < 1 % base-metal sulfides and 1-2 % Chl when present. Olivine is mostly restricted to type-1 and type-4 pyroxenites. Cpx/Opx ratios decrease from type-1 and-3 pyroxenites through type-2 to type-4 pyroxenites (**Fig_pyroxenites-mode**). Amphibole is most abundant in type-3 pyroxenites and least abundant in type-1 pyroxenites.
 
 <img src="cabo-ortegal/fieldguide_figures/pyroxenites-mode.png"
 style="max-width: 75%; max-height: 1000px; height: auto;"/>
@@ -262,16 +258,14 @@ style="max-width: 100%; max-height: 1000px; height: auto;"/>
 
 **Fig_PGE**. **a.** Sketch depicting the stratigraphic interpretation of the W part of the *Herbeira* massif as a lower-crustal cumulate sequence based on increasing PGE enrichment and fractionation ([Moreno _et al._, 2001](https://doi.org/10.1144/jgs.158.4.601)). Representative PGE distributions (chondrite-normalized) are shown along with the highest concentration obtained at each location. **b.** Map showing the corresponding chromitite sample locations; note the location of the suggested Trans-Herbeira Fault (THF; see **Stop 1.7**). Location 2 corresponds to chromitite-bearing dunite pods in harzburgite ([Moreno _et al._, 2001](https://doi.org/10.1144/jgs.158.4.601)).
 
-This arc-related interpretation provides a better explanation to the residual character of the harzburgites which was confirmed by [Santos _et al._ (2002)](https://doi.org/10.1093/petrology/43.1.17) based on mantle-array-like Ol chemistry (_i.e._ ~ 0.4 % NiO, Fo90). These authors also identified a fractional crystallization trend of decreasing NiO and Fo in Ol between the pyroxenites and dunites (see **fig_mineral-chemistry-pyroxenites**). Overall, they considered the lithological heterogeneity of the *Herbeira* massif as derived from a mantle wedge modified by slab-derived fluids or melts.
+This arc-related interpretation provides a better explanation to the residual character of the harzburgites which was confirmed by [Santos _et al._ (2002)](https://doi.org/10.1093/petrology/43.1.17) based on mantle-array-like Ol chemistry (_i.e._ ~ 0.4 % NiO, Fo90). These authors also identified a fractional crystallization trend of decreasing NiO and Fo in Ol between the pyroxenites and dunites (see **fig_mineral-chemistry-olivine**). Overall, they considered the lithological heterogeneity of the *Herbeira* massif as derived from a mantle wedge modified by slab-derived fluids or melts.
 
 In this context, the subordinate Grt-rich mafic rocks, relatively Al- and Ti-rich, are clearly unrelated to the main pyroxenites (**Fig_mineral-chemistry-pyroxenites**). They also exhibit positive Eu, Sr and Ba anomalies and high alkali contents suggesting the former presence of Plg ([Santos _et al._, 2002](https://doi.org/10.1093/petrology/43.1.17)). 
 
-<img src="cabo-ortegal/fieldguide_figures/mineral-chemistry-pyroxenites.png"
-style="max-width: 100%; max-height: 1000px; height: auto;"/>
+<img src="cabo-ortegal/fieldguide_figures/mineral-chemistry-olivine.png"
+style="max-width: 75%; max-height: 1000px; height: auto;"/>
 
-**Fig_mineral-chemistry-pyroxenites**. Mineral chemistry of Cabo Ortegal pyroxenites and peridotites from [Tilhac _et al._ (2016](https://doi.org/10.1093/petrology/egw064)). **a.** Covariation diagram showing a joint decrease in NiO and Mg# in Ol from harzburgite through dunite to type-1 (and type-4) pyroxenites. **b.** Covariation diagram in showing the low-Al melt differentiation trend in Cpx from the main pyroxenites, distinct from the high-Al trend exhibited by the mafic rocks and to a lesser extent, some of peridotites. Note type-3 pyroxenites overlaping the range of Mg# at lower Al<sub>2</sub>O<sub>3</sub>, interpreted as the result of subsolidus re-requilibration with higher proportions of Amp.
-
-> NOTE: I should probably add the trends as arrows in these diagams and/or make it consistent with a two-melt-batch scenario. Adjust type-4 markers.
+**Fig_mineral-chemistry-olivine**. Covariation diagram showing a joint decrease in NiO and Fo contents in Ol from harzburgite through dunite to type-1 (and type-4) pyroxenites ([Tilhac _et al._, 2016](https://doi.org/10.1093/petrology/egw064)). 
 
 #### Petrogenetic model of Cabo Ortegal pyroxenites
 
@@ -286,7 +280,7 @@ style="max-width: 100%; max-height: 1000px; height: auto;"/>
 
 In this model, whether type-1 and type-2 pyroxenites are cogenetic was left as an open question and two scenarios involving different parental melts were proposed for type-2 pyroxenites:
 - Evidence in favour of their cogeneticity (**Fig_petrogenetic-model_a**) includes relatively homogeneous radiogenic isotope compositions consistent with a single batch of parental melt (_e.g_, [Gravestock, 1992](https://oro.open.ac.uk/65312/); [Santos _et al._, 2002](https://doi.org/10.1093/petrology/43.1.17); [Tilhac _et al._, 2017](https://doi.org/10.1016/j.epsl.2017.07.017)). Mineral chemistry also suggests that the pyroxenites can mostly be related to the same melt differentation/melt-rock interaction trend (_e.g._, **Fig_mineral-chemistry-pyroxenites_b**). However, the high Mg# and Cr# of the Opx-rich (type-4) pyroxenites is problematic in this case.
-- Evidence against their cogeneticity (**Fig_petrogenetic-model_b**) consists of field observations on large outcrop surfaces exposed on the shore at the bottom of the *Herbeira* cliffs. Massive (type-2) pyroxenites are seen as thick and layers, relatively undeformed compared to type-1 and -3 pyroxenites (**Fig-pyroxenites-cliff**), which cannot be fully accounted for by deformation localization away from thick pyroxenite layers. In addition, the high Mg# and Cr# of type-4 pyroxenites and their association with chromitites point to a very primitive character, suggesting that they are more likely to be related to type-2 pyroxenites (see **Stop 1.4B**).
+- Evidence against their cogeneticity (**Fig_petrogenetic-model_b**) consists of field observations on large outcrop surfaces exposed on the shore at the bottom of the *Herbeira* cliffs. Massive (type-2) pyroxenites are seen as thick and layers, relatively undeformed compared to type-1 and type-3 pyroxenites (**Fig-pyroxenites-cliff**), which cannot be fully accounted for by deformation localization away from thick pyroxenite layers. In addition, the high Mg# and Cr# of type-4 pyroxenites and their association with chromitites point to a very primitive character, suggesting that they are more likely to be related to type-2 pyroxenites (see **Stop 1.4**).
  
 <img src="cabo-ortegal/fieldguide_figures/pyroxenites-cliff.png"
 style="max-width: 100%; max-height: 1000px; height: auto;"/>
@@ -296,6 +290,15 @@ style="max-width: 100%; max-height: 1000px; height: auto;"/>
 Based on the considerations above, the latter scenario (two subsequent melt intrusions) is here preferred and summarized below:
 1. A Si-undersaturated melt such (_e.g._, ultra-calcic picrite) led to the formation of dunites and branching veins of replacive Ol clinopyroxenites (type 1) preserving dunite lenses (see **Stop 1.2**). Some websterites locally formed at higher melt/rock ratios. 
 2. A more Si-rich melt (_e.g._, boninite) led to the formation of primitive orthopyroxenites (type-4) and the more evolved, massive websterites (see **Stop 1.2** & **1.3**)
+
+
+<img src="cabo-ortegal/fieldguide_figures/mineral-chemistry-cpx.png"
+style="max-width: 100%; max-height: 1000px; height: auto;"/>
+
+
+**Fig_mineral-chemistry-cpx**. Covariation diagram of Cpx in type-1 pyroxenites (**a**) and type-2 and -4 pyroxenites (**b**), corresponding to stage-1 melt-peridotite interaction and melt and stage-2 differentation trend, respectively. Note that both trends are relatively Al-poor compared to the Grt-rich mafic rocks, and to a lesser extent, some of peridotites. 
+
+Note type-3 pyroxenites overlaping the range of Mg# at lower Al<sub>2</sub>O<sub>3</sub>, interpreted as the result of subsolidus re-requilibration with higher proportions of Amp.
 
 In this scenario, chromitites are most likely associated with the boninitic stage 2 following a crystallization sequence of Ol + Cr-Spl > Opx > Cpx expected for instance for low-Ca boninite (Crawford _et al._, 1989). Type-4 pyroxenites are indeed mostly observed near chromitites. However, it cannot be excluded that chromitites also formed during stage 1. 
 
@@ -436,8 +439,6 @@ style="max-width: 100%; max-height: 1000px; height: auto;"/>
 
 **Fig_map-hp-gneisses**. Map of the Upper Tectonic unit of the Cabo Ortegal Complex showing the location of the HP gneiss formations. Note that some authors interpret parts of the E gneiss body (_i.e._ *Cariño* gneiss formation) as a separate intermediate pressure (IP) unit (_e.g._ Albert 2012) separated from the *Banded* gneiss by an extensional fault (REF, Arenas) or a normal contact (REF Puelles). Others (_e.g._, Fernández _et al._, 2016) do not distinguish these units and simply consider a strong metamorphic and deformational gradient (1.2 GPa and 700 ºC in the *Cariño* gneiss is _vs_ 1.5-1.7 GPa and 800-900 ºC in the rest of the *Banded* gneiss). 
 
-> NOTE: Add missing REF. Add the formation names and update caption accordingly
-
 #### Protolith interpretations
 
 The *Chímparra* gneisses are thought to derive from pelitic and semi-pelitic (graywacke-like) sediments with minor calc-silicate and mafic inclusions (Fernández, 1994). In contrast, the *Banded gneisses* are interpreted as a shallow crustal volcano-sedimentary sequence (Albert, 2017), punctuated by mafic intrusions (now eclogites) and lesser granitic and tonalitic bodies (now orthogneisses) 
@@ -545,9 +546,7 @@ This first day focusses on the *Herbeira* massif, which is the largest and most 
 <img src="cabo-ortegal/fieldguide_figures/map-herbeira.png"
 style="max-width: 100%; max-height: 1000px; height: auto;"/>
 
-**Fig_map-herbeira**. Interpretative geological map of the *Herbeira* massif ([Tilhac _et al._, 2016](https://doi.org/10.1093/petrology/egw064), and references therein) showing (**a**) sheath-fold deformation cross-cutting lithological contacts and (**b**) the THF-related area surrounding the gradual contact between dunites and harzburgites, along the axial surface of the synform (see **Stop 1.7**). Fault lines correspond either to strike-slip faults (continuous lines) or contacts (thrust patterns) with granulites. Cross sections sampled by Girardeau _et al._, (1989) and Tilhac _et al._, (2016) are numbered 1-3 with the corresponding synthesic log shown for section 2. Note that the synformal structure of the massif is partly conditionned by the dunite body mapped along the SE boundary of the massif (Puelles _et al._, 2012). Outcrops that support the existence of this dunite are mostly limited to the area of the *Mina David*, an open pit mine exploited by *Pasek Minerales*. The extracted material indeed has a homogeneous content of 37 % MgO (Caballero _et al._, 2009) consistent with dunite compositions measured in the cliffs area ([Tilhac _et al._, 2016](https://doi.org/10.1093/petrology/egw064)). Yet, it is also reported with a relatively high Opx content (Baragaño _et al._, 2019), which suggests that the protolith may actually harzburgitic, unless it relates to the incorporation of pyroxenite layers. The extracted material, so-called "dunite HT", is combined with periclase to produce high-temperature solid solutions which served as a refractory material in thermal power plants, steel manufacture and other applications.
-
-> NOTE: Add roads and the stops of the first day.
+**Fig_map-herbeira**. Location of the stops of the first day on the interpretative geological map of the *Herbeira* massif ([Tilhac _et al._, 2016](https://doi.org/10.1093/petrology/egw064), and references therein). **Stop 1.5** is located in the Uzal peridotite massif (not shown). **a.** Sheath-fold deformation cross-cutting lithological contacts. **b.** Area related to the Trans-Herbeira Fault surrounding the gradual contact between dunites and harzburgites, along the axial surface of the synform. Fault lines correspond either to strike-slip faults (continuous lines) or contacts (thrust patterns) with granulites. Cross sections sampled by Girardeau _et al._, (1989) and [Tilhac _et al._ (2016)](https://doi.org/10.1093/petrology/egw064) are numbered **1-3** with the corresponding synthesic log shown for section 2. Note that the synformal structure of the massif is partly conditionned by the dunite body mapped along the SE boundary of the massif (Puelles _et al._, 2012). Outcrops that support the existence of this dunite are mostly limited to the area of the *Mina David*, an open pit mine exploited by *Pasek Minerales*. The extracted material indeed has a homogeneous content of 37 % MgO (Caballero _et al._, 2009) consistent with dunite compositions measured in the cliffs area ([Tilhac _et al._, 2016](https://doi.org/10.1093/petrology/egw064)). Yet, it is also reported with a relatively high Opx content (Baragaño _et al._, 2019), which suggests that the protolith may actually harzburgitic, unless it relates to the incorporation of pyroxenite layers. The extracted material, so-called "dunite HT", is combined with periclase to produce high-temperature solid solutions which served as a refractory material in thermal power plants, steel manufacture and other applications.
 
 #### Stop 1.1: "Vixía Herbeira" lookout
 
@@ -587,16 +586,16 @@ style="max-width: 100%; max-height: 1000px; height: auto;"/>
 **Fig_type1-outcrop**. **a.** Outcrop of type-1 pyroxenite in the upper dunite, near the edge of the *Herbeira* cliffs. **b.** Detail view. Photo credit: M.A. Lopez-Sanchez.
 
 <img src="cabo-ortegal/fieldguide_figures/layered-clinopyroxenite-sample.png"
-style="max-width: 50%; max-height: 1000px; height: auto;"/>
+style="max-width: 75%; max-height: 1000px; height: auto;"/>
 
-**Fig_layered-clinopyroxenite-sample**. Example of type-1 pyroxenite sample ([Tilhac, 2017](https://doi.org/10.25949/22281616.v1)).
+**Fig_layered-clinopyroxenite-sample**. Example of type-1 pyroxenite sample interlayered with dunite ([Tilhac, 2017](https://doi.org/10.25949/22281616.v1)). Note the Ol-rich streak preserved within the thickest pyroxenite layer.
 
 Type-1 pyroxenites represent among the earliest pyroxenite generations in Cabo Ortegal (see **Section 3.2**). They are, along with type 4, the most primitive type of pyroxenites, with 20-24 % MgO, 2-3 % Al<sub>2</sub>O<sub>3</sub> and high Mg# of 87–89 (Cpx Mg# > 0.91; **Fig_mineral-chemistry-pyroxenites**). Type-1 pyroxenites plot along the Fo-An join within the nepheline-normative, silica-deficient field in the Fo-CaTs-Qz projection. Such a trend towards the Fo apex is ascribed to melt-peridotite interaction in orogenic pyroxenites (Bodinier _et al._, 2008, Lambart _et al._, 2012).
 
 In Cabo Ortegal, these pyroxenites are specifically interpreted as products of partial replacement of peridotites upon interaction with a Si-undersaturated melt called ultra-calcic picrite, as suggested by their high Cpx/Opx ratios which point to crystallization along a Cpx–Ol cotectic line. The incomplete remplacement reaction is indicated by the preservation of dunite lenses, suggesting that melt was the limiting reactant. Relatively low melt/rock ratios are supported by the lowest Amp  among the pyroxenites (6-14 %) as well as LILE and LREE enrichment limited to spoon-shaped patterns with flat heavy REE (HREE) (**Fig_REE-type1**). Yet, the occurrence of Ol-free type-1 pyroxenites suggests that the replacement process locally achieved complete consumption of Ol following a peritectic reaction Fo + Si-rich melt = En, indicating pressures < 1.2 GPa (_e.g._, Kelemen & Ghiorso, 1986). 
 
 <img src="cabo-ortegal/fieldguide_figures/ree-type1.png"
-style="max-width: 50%; max-height: 1000px; height: auto;"/>
+style="max-width: 75%; max-height: 1000px; height: auto;"/>
 
 **Fig_type1-outcrop**. Chondrite-normalized REE compositions of Cpx and Amp from Cabo Ortegal type-1 pyroxenites ([Tilhac _et al._, 2016](https://doi.org/10.1093/petrology/egw064)).
 
@@ -605,11 +604,13 @@ style="max-width: 50%; max-height: 1000px; height: auto;"/>
 After passing by an isoclinal fold (**Fig_isoclinal-pyroxenite**), we reach the area of **Stop 1.3**, where reach the first chromitite outcrop of the day and most of Cabo Ortegal pyroxenite subtypes.
 
 <img src="cabo-ortegal/fieldguide_figures/isoclinal-pyroxenite.jpg"
-style="max-width: 50%; max-height: 1000px; height: auto;"/>
+style="max-width: 75%; max-height: 1000px; height: auto;"/>
 
 **Fig_isoclinal-pyroxenite**. Isoclinal fold hinge outlined by a pyroxenite layer between **Stop 1.2** and **1.3**. Photo credit: R. Tilhac.
 
-The first outcrop of this stop is a sequence of several irregular layers or schlieren hosted in dunite (**Stop 1.3A**). They extend laterally over several m with an individual thickness ranging from single grains to 3-4 cm (**Fig_chromitite-outcrop**). This occurrence corresponds to the semi-massive (< 80 % Chr), high-Cr# (0.75–0.82) chromitite (type II) of García-Tudela _et al._, (2024), which was classified in a broad group of Chr-rich dunite (< 75 % Chr) by [Moreno _et al._ (2001)](https://doi.org/10.1144/jgs.158.4.601).
+***Outcrop 1.3A***
+
+The first outcrop of this stop is a sequence of several irregular layers or schlieren hosted in dunite. They extend laterally over several m with an individual thickness ranging from single grains to 3-4 cm (**Fig_chromitite-outcrop**). This occurrence corresponds to the semi-massive (< 80 % Chr), high-Cr# (0.75–0.82) chromitite (type II) of García-Tudela _et al._, (2024), which was classified in a broad group of Chr-rich dunite (< 75 % Chr) by [Moreno _et al._ (2001)](https://doi.org/10.1144/jgs.158.4.601).
 
 <img src="cabo-ortegal/fieldguide_figures/chromitite-outcrop.png"
 style="max-width: 100%; max-height: 1000px; height: auto;"/>
@@ -619,48 +620,43 @@ style="max-width: 100%; max-height: 1000px; height: auto;"/>
 [Garcia-Tudela _et al._ (2024)](https://doi.org/10.1016/j.oregeorev.2024.106109) suggested that the parental melt of the semi-massive (type-II) chromitites is a fore-arc basalt using empirical calculations based on the Al<sub>2</sub>O<sub>3</sub> and TiO<sub>2</sub> contents of Chr. This interpretation is further discussed along with the origin of the rest of Cabo Ortegal chromitites in **Stop 1.4** and **6**.
 
 <img src="cabo-ortegal/fieldguide_figures/chromitite-sample.png"
-style="max-width: 50%; max-height: 1000px; height: auto;"/>
+style="max-width: 75%; max-height: 1000px; height: auto;"/>
 
 **Fig_chromitite-sample**. Example of semi-massive chromitite sample associated with dunite and pyroxenite ([Garcia-Tudela _et al._, 2024](https://doi.org/10.1016/j.oregeorev.2024.106109)).
 
-Walking W, we encounter among other pyroxenite layers an example (**Stop 1.3B**; not pictured here) of massive websterite (type-2 pyroxenites of [Tilhac _et al._, 2016](https://doi.org/10.1093/petrology/egw064)). Most occurrences of this type are found in the central part of the pyroxenite-rich domain where massive outcrops reaching several m in thickness can be observed (_e.g._, **Fig_massive-pyroxenite**).
+***Outcrop 1.3B***
 
-<img src="cabo-ortegal/fieldguide_figures/massive-pyroxenite.jpg"
+Walking W, we encounter among other pyroxenite layers an example (not pictured here) of massive websterite (type-2 pyroxenites of [Tilhac _et al._, 2016](https://doi.org/10.1093/petrology/egw064)). Most occurrences of this type are found in the central part of the pyroxenite-rich domain where massive outcrops reaching several m in thickness can be observed (_e.g._, **Fig_massive-pyroxenites**).
+
+<img src="cabo-ortegal/fieldguide_figures/massive-pyroxenites.png"
 style="max-width: 100%; max-height: 1000px; height: auto;"/>
 
-**Fig_massive-pyroxenite**. Among the best example of massive (~ 3-m-thick) Spl-/Grt-facies pyroxenite (sample CO-006; [Tilhac _et al._, 2016](https://doi.org/10.1093/petrology/egw064)) from the *Herbeira* cliffs (not included in this excursion; [Tilhac, 2017](https://doi.org/10.25949/22281616.v1)).
-
-<img src="cabo-ortegal/fieldguide_figures/massive-websterite-sample.png"
-style="max-width: 50%; max-height: 1000px; height: auto;"/>
-
-**Fig_massive-websterite-sample**. Example of type-2 pyroxenite sample ([Tilhac, 2017](https://doi.org/10.25949/22281616.v1)).
-
-> NOTE: Add type-4 REE compositions.
+**Fig_massive-pyroxenites**. **a.** Among the best example of massive (~ 3-m-thick) Spl-/Grt-facies pyroxenite (sample CO-006; [Tilhac _et al._, 2016](https://doi.org/10.1093/petrology/egw064)) from the *Herbeira* cliffs (not included in this excursion. **b.** Fresh cut of a type-2 pyroxenite sample ([Tilhac, 2017](https://doi.org/10.25949/22281616.v1)).
 
 Type-2 pyroxenites are likely to represent a latter generation of pyroxenites than type 1. They are more evolved with 20-21 % MgO, 3-6 % Al<sub>2</sub>O<sub>3</sub> and Mg# of 83-88 (Cpx Mg# of 0.88-0.92; **Fig_mineral-chemistry-pyroxenites**). Type-2 pyroxenites plot along the En-CaTs join on the Fo-CaTs-Qz diagram, similarly to experimental pyroxenitic cumulates of hydrous basaltic andesite and high-Mg# andesite at 1.2 GPa (Müntener _et al._, 2001). Their Ol-free, lower Cpx/Opx modal compositions suggest that they crystallized from a Si-saturated (boninitic) melt, most likely distinct from the picritic melt parental to type-1 pyroxenites, as discussed in **Section 3.2**. However, some websterites (type 2) may represent more advanced product of the melt-peridotite interaction that produced type-1 pyroxenites at the expense of locally higher melt/rock ratios.
 
-Higher and more variable melt/rock ratios in type-2 pyroxenites are indicated by variable LREE enrichment over nearly flat HREE (**Fig_REE-type2**), ascribed to chromatographic re-equilibration with incompatible-element enriched residual melts ([Tilhac _et al._, 2016](https://doi.org/10.1093/petrology/egw064)). This enrichment was potentially enhanced by the (porosity-reducing) crystallization of hydrous residual melts, as suggested by higher proportions of Amp in type-2 pyroxenites (5-26 %). The process envisaged by [Tilhac _et al._ (2016)](https://doi.org/10.1093/petrology/egw064) is similar to the percolative fractional crystallization model of Harte _et al._, (1993).
+Higher and more variable melt/rock ratios in type-2 pyroxenites are indicated by variable LREE enrichment over nearly flat HREE (**Fig_REE-type2-4**), ascribed to chromatographic re-equilibration with incompatible-element enriched residual melts ([Tilhac _et al._, 2016](https://doi.org/10.1093/petrology/egw064)). This enrichment was potentially enhanced by the (porosity-reducing) crystallization of hydrous residual melts, as suggested by higher proportions of Amp in type-2 pyroxenites (5-26 %). The process envisaged by [Tilhac _et al._ (2016)](https://doi.org/10.1093/petrology/egw064) is similar to the percolative fractional crystallization model of Harte _et al._, (1993).
 
-<img src="cabo-ortegal/fieldguide_figures/ree-type2.png"
-style="max-width: 50%; max-height: 1000px; height: auto;"/>
+<img src="cabo-ortegal/fieldguide_figures/ree-type2-4.png"
+style="max-width: 75%; max-height: 1000px; height: auto;"/>
 
-**Fig_REE-type2**. Chondrite-normalized REE compositions of Cpx and Amp from Cabo Ortegal type-2 pyroxenites ([Tilhac _et al._, 2016](https://doi.org/10.1093/petrology/egw064)).
+**Fig_REE-type2-4**. Chondrite-normalized REE compositions of Cpx and Amp from Cabo Ortegal type-2 and type-4 pyroxenites ([Tilhac _et al._, 2016](https://doi.org/10.1093/petrology/egw064)).
 
-Outward percolation of excess residual melts metasomatized the host peridotites as well as pre-existing, type-1 pyroxenites. Tilhac _et al._, (2016) described a composite sample of type-1 pyroxenite that exhibit increasing Amp contents and a progressive LREE and LILE enrichment (**Fig_CO-010**). Formerly classified as a transitional sample between type-1 and type-3 pyroxenite, it probably represents the deformed product of a type-1 pyroxenite protolith mesomatized by the late-magmatic websteritic melts.
+Outward percolation of excess residual melts metasomatized the host peridotites as well as pre-existing, type-1 pyroxenites. Tilhac _et al._, (2016) described a composite sample of type-1 pyroxenite that exhibit increasing Amp contents and a progressive LREE and LILE enrichment (**Fig_CO-010**). Formerly classified as a transitional sample between type-1 and type-3 pyroxenite, it probably represents the deformed product of a type-1 pyroxenite protolith mesomatized by the late-magmatic websteritic melts. Accordingly, [Gravestock (1992)](https://oro.open.ac.uk/65312/) reported a positive correlation between the amount of pyroxenites and the extent of LREE enrichment in the harzburgites. 
 
 <img src="cabo-ortegal/fieldguide_figures/ree-profile.png"
-style="max-width: 50%; max-height: 1000px; height: auto;"/>
+style="max-width: 75%; max-height: 1000px; height: auto;"/>
 
 **Fig_CO-010**.  Profile of REE compositions in Cpx across a composite type-1 pyroxenite (CO-010) showing an extreme, small-scale (< 10 cm) REE fractionation characteristic of chromatographic re-equilibration. Note the wehrlite streak preserved within the pyroxenite layer on the left-hand side ([Tilhac _et al._, 2016](https://doi.org/10.1093/petrology/egw064)).
 
-Accordingly, [[Gravestock (1992)](https://oro.open.ac.uk/65312/)](https://oro.open.ac.uk/65312/) reported a positive correlation between the amount of pyroxenites and the extent of LREE enrichment in the harzburgites. 
+***Outcrop 1.3C***
 
-Continuing towards the cliff edge, we reach the last outcrop of this stop (**Stop 1.3C**; not pictured here), an example of strongly foliated pyroxenites (type 3 of [Tilhac _et al._, 2016](https://doi.org/10.1093/petrology/egw064)).
+Continuing towards the cliff edge, we reach the last outcrop of this stop (not pictured here), an example of strongly foliated pyroxenites (type 3 of [Tilhac _et al._, 2016](https://doi.org/10.1093/petrology/egw064)).
 
-These pyroxenites are characterized by the highest modal proportion of Amp (8-43 %) among Cabo Ortegal pyroxenites. Their major-element compositions overlap with those of type-1 and -2 pyroxenites (**Fig_mineral-chemistry-pyroxenites**). Most type-3 pyroxenites mimic the high MgO of type 1 wheras others reach similarly high Al<sub>2</sub>O<sub>3</sub> as type-2 pyroxenites (**Fig_mineral-chemistry-pyroxenites**). However, they differ in having a higher Na<sub>2</sub>O, K<sub>2</sub>O (up to 0.8-0.9 %) and systematically LREE-enriched patterns with negative MREE-to-HREE slopes (**Fig_REE-type3**). 
+These pyroxenites are characterized by the highest modal proportion of Amp (8-43 %) among Cabo Ortegal pyroxenites. Their major-element compositions overlap with those of type-1 and type -2 pyroxenites (**Fig_mineral-chemistry-pyroxenites**). Most type-3 pyroxenites mimic the high MgO of type 1 wheras others reach similarly high Al<sub>2</sub>O<sub>3</sub> as type-2 pyroxenites (**Fig_mineral-chemistry-pyroxenites**). However, they differ in having a higher Na<sub>2</sub>O, K<sub>2</sub>O (up to 0.8-0.9 %) and systematically LREE-enriched patterns with negative MREE-to-HREE slopes (**Fig_REE-type3**). 
 
 <img src="cabo-ortegal/fieldguide_figures/ree-type3.png"
-style="max-width: 50%; max-height: 1000px; height: auto;"/>
+style="max-width: 75%; max-height: 1000px; height: auto;"/>
 
 **Fig_REE-type3**. Chondrite-normalized REE compositions of Cpx and Amp from Cabo Ortegal type-3 pyroxenites ([Tilhac _et al._, 2016](https://doi.org/10.1093/petrology/egw064)).
 
@@ -674,7 +670,7 @@ style="max-width: 100%; max-height: 1000px; height: auto;"/>
 Accordingly, where sheath folds affect pyroxenites (in the lower part of the pyroxenite-rich domain), the latter are systematically of type 3, and particularly strongly amphibolitized (_e.g._, **Fig_hornblendite-sample**). This observation suggests that most of the hydration was syn-kinematic of the high-shear strain deformation episode (D<sub>1</sub>) and that metamorphic amphibolitization (which produced undeformed idiomorphic Amp) is mostly post-kinematic and contemporaneous to the regional amphibolite-facies metamorphism during exhumation stage D<sub>3</sub>.
 
 <img src="cabo-ortegal/fieldguide_figures/hornblendite-sample.png"
-style="max-width: 50%; max-height: 1000px; height: auto;"/>
+style="max-width: 75%; max-height: 1000px; height: auto;"/>
 
 **Fig_hornblendite-sample**. Example of complete amphibolitization into a hornblendite ([Tilhac, 2017](https://doi.org/10.25949/22281616.v1)).
 
@@ -689,7 +685,9 @@ style="max-width: 100%; max-height: 1000px; height: auto;"/>
 
 > NOTE: Update Fig. X
 
-The main outcrop (**Stop 1.4A**) is a massive chromitite hosted in dunite. It is one of the most spectacular of the *Herbeira* massif as it features oblique cross sections through a sequence of irregular chromitite layers sandwiched between layered pyroxenites and dunites  (**Fig_chromitites**). 
+***Outcrop 1.4A***
+
+The main outcrop is a massive chromitite hosted in dunite. It is one of the most spectacular of the *Herbeira* massif as it features oblique cross sections through a sequence of irregular chromitite layers sandwiched between layered pyroxenites and dunites  (**Fig_chromitites**). 
 
 <img src="cabo-ortegal/fieldguide_figures/chromitite-3d.png"
 style="max-width: 100%; max-height: 1000px; height: auto;"/>
@@ -700,21 +698,23 @@ This occurrence corresponds to the massive (> 80 % Chr), intermediate-Cr# (0.60�
 
 > NOTE: Make sure that the interpreted origin is mentionned here.
 
-About 50 m away, we encounter the second outcrop of this stop (**Stop 1.4B**), which exhibits among the best examples of Opx-rich websterites and orthopyroxenites (type-4 pyroxenites of [Tilhac _et al._, 2016](https://doi.org/10.1093/petrology/egw064)). It is noteworthy that this type is abundant in this area, often spatially associated with chromitites, while it is relatively rare in the rest of the *Herbeira* massif except, but to a lesser extent, in the lower dunite exposed in *Punta Robaliceira*.
+***Outcrop 1.4B***
+
+About 50 m away, we encounter the second outcrop of this stop; which exhibits among the best examples of Opx-rich websterites and orthopyroxenites (type-4 pyroxenites of [Tilhac _et al._, 2016](https://doi.org/10.1093/petrology/egw064)). It is noteworthy that this type is abundant in this area, often spatially associated with chromitites, while it is relatively rare in the rest of the *Herbeira* massif except, but to a lesser extent, in the lower dunite exposed in *Punta Robaliceira*.
 
 <img src="cabo-ortegal/fieldguide_figures/type4-outcrop.png"
 style="max-width: 100%; max-height: 1000px; height: auto;"/>
 
 **Fig_type4-outcrop**. Outcrops of coarse-grained type-4 pyroxenites in the upper dunite, near the massive chromitite outcrop. Photo credit: R. Tilhac.
 
-Type-4 pyroxenites exhibit the highest Mg# (and Cr#) and lowest Al<sub>2</sub>O<sub>3</sub> of all types of Cabo Ortegal pyroxenites. They are interpreted as the most primitive products of the low-Ca boninite parental to type-2 pyroxenites (and possibly also of the chromitites, as suggested by their spatial association with type-4 pyroxenites). Indeed, the combination of their Opx-rich and primitive characters cannot be reconciled with the ultra-calcic picrite inferred from type-1 pyroxenites. This interpretation is consistent with the highly variable REE compositions of their Cpx, comparable to the extremely depleted and enriched endmembers of type-2 pyroxenites. This is an expected chromatographic consequence of the lower modal proportions of Cpx in type-4 pyroxenites (_e.g._, Godard _et al._, 1995).
+Type-4 pyroxenites exhibit the highest Mg# (and Cr#) and lowest Al<sub>2</sub>O<sub>3</sub> of all types of Cabo Ortegal pyroxenites. They are interpreted as the most primitive products of the low-Ca boninite parental to type-2 pyroxenites (and possibly also of the chromitites, as suggested by their spatial association with type-4 pyroxenites). Indeed, the combination of their Opx-rich and primitive characters cannot be reconciled with the ultra-calcic picrite inferred from type-1 pyroxenites. This interpretation is consistent with the highly variable REE compositions of their Cpx, comparable to the extremely depleted and enriched endmembers of type-2 pyroxenites (**Fig_REE-type2-4**). This is an expected chromatographic consequence of the lower modal proportions of Cpx in type-4 pyroxenites (_e.g._, Godard _et al._, 1995).
 
 <img src="cabo-ortegal/fieldguide_figures/orthopyroxenite-sample.png"
-style="max-width: 50%; max-height: 1000px; height: auto;"/>
+style="max-width: 75%; max-height: 1000px; height: auto;"/>
 
-**Fig_orthopyroxenite-sample**. Example of type-4 pyroxenite sample ([Tilhac, 2017](https://doi.org/10.25949/22281616.v1)).
+**Fig_orthopyroxenite-sample**. Fresh cut of a type-4 pyroxenite sample ([Tilhac, 2017](https://doi.org/10.25949/22281616.v1)).
 
-The field occurrence of type-4 pyroxenites is dominated by very coarse-grained pods or boudins that appear to be wrapped by the foliation of the host harzburgites (**Fig_type4-pods**). This observation may reflect a combination of a greater competence owing to their higher Opx content and the fact that they represent a later generation of pyroxenites (along with type 2), less affected by HT deformation.
+The field occurrence of type-4 pyroxenites is dominated by very coarse-grained pods or boudins that appear to be wrapped by the foliation of the host harzburgites (**Fig_orthopyroxenite-sample**; **Fig_type4-pods**). This observation may reflect a combination of a greater competence owing to their higher Opx content and the fact that they represent a later generation of pyroxenites (along with type 2), less affected by HT deformation.
 
 <img src="cabo-ortegal/fieldguide_figures/type4-occurrences.png"
 style="max-width: 100%; max-height: 1000px; height: auto;"/>
@@ -750,7 +750,7 @@ style="max-width: 100%; max-height: 1000px; height: auto;"/>
 
 > NOTE: to incorporate:  
  The observed differences between the two chromitite groups are indeed relatively small and could simply owe to subsolidus re-equilibration (_e.g._, Pagé & Barnes 2009; [Tilhac, 2017](https://doi.org/10.25949/22281616.v1)). 
- the latter relies on empirical calculations based on Al<sub>2</sub>O<sub>3</sub> and TiO<sub>2</sub> contents in chromitites yield two parental melt compositions comparable to a fore-arc (_i.e._ low-Ti) basalt and a boninite for type-I and -II chromitites, respectively 
+ the latter relies on empirical calculations based on Al<sub>2</sub>O<sub>3</sub> and TiO<sub>2</sub> contents in chromitites yield two parental melt compositions comparable to a fore-arc (_i.e._ low-Ti) basalt and a boninite for type-I and type-II chromitites, respectively 
 
 This highly heterogeneous outcrops exhibit a folded sequence of dunite interlayered with pyroxenites and various chromitites, occurring both as irregular layers with sharp boundaries and variable thickness (locally forming pods) as well as trails of variously concentrated disseminated grains (**Fig_chromitites-group-b**).
 
@@ -808,7 +808,7 @@ style="max-width: 100%; max-height: 1000px; height: auto;"/>
 
 **Fig_harzburgite-dunite-samples**. Example of harzburgite and dunite samples ([Tilhac, 2017](https://doi.org/10.25949/22281616.v1)).
 
-Nonetheless, the area is affected by significant fluid circulation (**Fig_THF-features**), evidenced by high degrees of serpentinization and/or amphibolitization, and abundant quartz (Qtz) and asbestiform chrysotile (Ctl) veining.  Sub-vertical Grt-Chl-bearing veins were reported by [Tilhac (2017)](https://doi.org/10.25949/22281616.v1) to the SW (**Stop 1.7A**). Intrusions rich in Phl and Ap have been described associated with the mylonites by García-Izquierdo (2005). Demantoid (Cr-rich andrandite Grt) associated with Chl-Srp veins was interpreted as coeval to the end of the greenschist-facies retrograde metamorphism (< 450 ºC, Madon _et al._, 1991). 
+Nonetheless, the area is affected by significant fluid circulation (**Fig_THF-features**), evidenced by high degrees of serpentinization and/or amphibolitization, and abundant quartz (Qtz) and asbestiform chrysotile (Ctl) veining.  Sub-vertical Grt-Chl-bearing veins were reported by [Tilhac (2017)](https://doi.org/10.25949/22281616.v1) to the SW (**Stop 1.7**). Intrusions rich in Phl and Ap have been described associated with the mylonites by García-Izquierdo (2005). Demantoid (Cr-rich andrandite Grt) associated with Chl-Srp veins was interpreted as coeval to the end of the greenschist-facies retrograde metamorphism (< 450 ºC, Madon _et al._, 1991). 
 
 Based on these observations, the THF is interpreted as a late structure where fluid-assisted faulting might have occurred locally (as indicated by breccias) and limited to minor displacement. It probably post-dates the thrusting of the massif onto the granulite ([Tilhac, 2017](https://doi.org/10.25949/22281616.v1)), as suggested by talc-Chl-Srp-rich rocks (soapstone) exposed near the contact with granulites (Moreno, 1999). We further speculate that it may relate to local extensional regime around the axial surface of the synformal axial plane, potentially re-activating pre-existing mantle shear zones near the harzburgite-dunite transition. Shear zones might have also formed locally facilitated by rheological weakening induced by the presence of fluids/melts.
 
@@ -817,14 +817,18 @@ style="max-width: 100%; max-height: 1000px; height: auto;"/>
 
 **Fig_THF-features**. Evidence of fluid circulation in the area related to the Trans-Herbeira Fault (THF): **a.** complete amphibolitization to the NE, probably after Cpx-rich lithologies resulting in hornblendite; **b.** asbestiform Ctl to the SW, where the THF intersects the granulites contact; **c.** Srp vein network; **d.** breccia made of highly serpentinized dunite fragments, in the central part of the THF; **e & f.**. Grt-Chl-rich veins restricted to the SW of the THF.
 
-The first specific outcrop in the area (**Stop 1.7A**) corresponds to the Grt-Chl-rich veins (**Fig_THF-features_e-f**). The second outcrop (**Stop 1.7B**) is located to the E of the THF and features Chl-rich harzburgites. In the Cabo Ortegal litterature, the presence of Chl in the peridotites has been ascribed to a late metamorphic overprint in the greenschist facies, in spite of the fact that this phase is stable in hydrated peridotites at pressures up to 6-7 GPa (_e.g._, Hacker et al., 2003). More recently, it has been related to hydration and temperature decrease < 800 ºC at HP (**Fig_limo-phase-diagram.**) and interpreted as reflecting the incorporation of the ultramafic massifs into a subduction channel, as discussed in **Section 5.2**.This interpretation is consistent with synkinematic oriented nature of Chl, particularly in the sheath-folded area at *Punta Robaliceira* (see **Fig_sheath-folds**).
+***Outcrop 1.7A***
+
+The first outcrop of this stop corresponds to the Grt-Chl-rich veins (**Fig_THF-features_e-f**). 
+
+***Outcrop 1.7B***
+
+The second outcrop features Chl-rich harzburgites. In the Cabo Ortegal litterature, the presence of Chl in the peridotites has been ascribed to a late metamorphic overprint in the greenschist facies, in spite of the fact that this phase is stable in hydrated peridotites at pressures up to 6-7 GPa (_e.g._, Hacker et al., 2003). More recently, it has been related to hydration and temperature decrease < 800 ºC at HP (**Fig_limo-phase-diagram.**) and interpreted as reflecting the incorporation of the ultramafic massifs into a subduction channel, as discussed in **Section 5.2**. This interpretation is consistent with synkinematic oriented nature of Chl, particularly in the sheath-folded area at *Punta Robaliceira* (see **Fig_sheath-folds**).
 
 <img src="cabo-ortegal/fieldguide_figures/limo-phase-diagram.png"
 style="max-width: 75%; max-height: 1000px; height: auto;"/>
 
-**Fig_limo-phase-diagram.** Phase diagram section for an harzburgite sample from the *Limo* massif (Puelles _et al._ 2012), comparable to the harzburgites of the E part of the *Herbeira* massif. The P-T path corresponds to peak metamorphic conditions after Girardeau _et al._ (1989) and Girardeau and Gil Ibarguchi (1991), and retrogression after Mendia _et al._ (2001) and Puelles _et al._ (2005)
-
-> NOTE: fix the frame.
+**Fig_limo-phase-diagram.** Phase diagram section for a harzburgite sample from the *Limo* massif (Puelles _et al._ 2012), comparable to the harzburgites of the E part of the *Herbeira* massif. The P-T path corresponds to peak metamorphic conditions after Girardeau _et al._ (1989) and Girardeau and Gil Ibarguchi (1991), and retrogression after Mendia _et al._ (2001) and Puelles _et al._ (2005)
 
 **Stop 1.7B** also features folded Grt-rich pyroxenite dykes deformed in mylonites near the contacts (**Fig_grt-pyroxenite-fold.**). It is noteworthy that folding of such dykes is limited to mylonites in the vicinity of the granulite contacts.
 
@@ -851,10 +855,15 @@ style="max-width: 100%; max-height: 1000px; height: auto;"/>
 
 ### Day 2: Overview of the Cabo Ortegal Complex (October 1<sup>st</sup>, half day)
 
-This half day aims to cover most of the lithological diversity of the mafic HP-HT units in order to discuss the overall geology of the Cabo Ortegal Complex (_i.e.._ Si-poor Fe-Ti-rich rocks, Opx-free Grt granulites, eclogites). It is split into three parts:
+This half day aims to cover most of the lithological diversity of the mafic HP-HT units to discuss the overall geology of the Cabo Ortegal Complex (_i.e.._ Si-poor Fe-Ti-rich rocks, Opx-free Grt granulites, eclogites). It is split into three parts (**Fig_day2-stops**):
 - In the morning, three easily accessible lookouts along the coast (*Chan dos Carrís*, *Cruceiro do Cuturelo* and *Miradoiro do Limo*)
-- Lunch near the eclogite-granulite contact after a 2-km walk.
+- Lunch near the eclogite-granulite contact after a 2-km walk from the last mirador to the *Pico Gargacido-Monte Faroleiro* area.
 - In the early afternoon, group picture at the most scenic lookout of the Cabo Ortegal lighthouse on eclogite outcrops.
+
+<img src="cabo-ortegal/fieldguide_figures/hp-ht-units-stops.png"
+style="max-width:75%; max-height: 1000px; height: auto;"/>
+
+**Fig_day2-stops**. Location the stops of the second day on the map of the HP-HT units of Cabo Ortegal Complex.
  
 #### Stop 2.1: “Chan dos Carrís” lookout
 
@@ -902,8 +911,6 @@ style="max-width: 100%; max-height: 1000px; height: auto;"/>
 style="max-width: 100%; max-height: 1000px; height: auto;"/>
 
 **Fig. 6.2.3.** **Top**: Field aspect of an Opx-free garnet granulite sample from **Stop 2**. **Bottom**: XZ, XY, and YZ sections on a block of layered granulite exhibiting an LS geometry. Unpublished data from the OUTCROP project (M.A. Lopez-Sanchez; [SV-PA-21-AYUD/2021/57163](https://marcoalopez.github.io/OUTCROPproject/)).
-
-> NOTE: Adjust Fig number accordingly.
 
 As detailed in **Section 4**, the *Bacariza* formation exhibits a wide compositional range, from mafic to acidic, leading to significant variations in mineral content. The rocks are primarily composed of Grt, Cpx (augite to omphacite), Amp (pargasite), Plg, Qtz, and Zo/Ep in variable proportions. In **Stop 2.2**, the granulites are relatively Plg-rich (~ 30-50 %; **Fig. 6.2.3** and **6.2.4**), corresponding to the mafic facies (most common). Grain sizes vary greatly from coarse- to fine-grained, depending on the degree of strain.
 
