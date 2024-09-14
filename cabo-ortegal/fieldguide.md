@@ -593,7 +593,7 @@ In Cabo Ortegal, these pyroxenites are specifically interpreted as products of p
 <img src="cabo-ortegal/fieldguide_figures/ree-type1-2-4.png"
 style="max-width: 75%; max-height: 1000px; height: auto;"/>
 
-**Fig_type1-outcrop**. Chondrite-normalized REE compositions of Cpx and Amp from Cabo Ortegal type-1, -2 and -4 pyroxenites ([Tilhac _et al._, 2016](https://doi.org/10.1093/petrology/egw064)).
+**Fig_ree-type1-2-4**. Chondrite-normalized REE compositions of Cpx and Amp from Cabo Ortegal type-1, -2 and -4 pyroxenites ([Tilhac _et al._, 2016](https://doi.org/10.1093/petrology/egw064)).
 
 #### Stop 1.3: Chromitites and type-2 & -3 pyroxenites
 
