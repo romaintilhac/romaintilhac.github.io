@@ -21,7 +21,7 @@ by Romain Tilhac<sup>1</sup>, Marco A. Lopez-Sanchez<sup>2</sup>, Sergio Llana-F
 
 *Version updated on 16/09/24*
 
-> NOTE: Figure size, figure numbers, citations/references, etc. are still to be adjusted.
+> NOTE: Figure size, figure numbers, citations/references and other bits are still to be adjusted.
 
 ## 1. Introduction
 
