@@ -435,6 +435,8 @@ style="max-width: 100%; max-height: 1000px; height: auto;"/>
 
 **Fig_map-hp-gneisses**. Map of the Upper Tectonic unit of the Cabo Ortegal Complex showing the location of the HP gneiss formations. Note that some authors interpret parts of the E gneiss body (_i.e._ *Cariño* gneiss formation) as a separate intermediate pressure (IP) unit (_e.g._ Albert 2012) separated from the *Banded* gneiss by an extensional fault (REF, Arenas) or a normal contact (REF Puelles). Others (_e.g._, Fernández _et al._, 2016) do not distinguish these units and simply consider a strong metamorphic and deformational gradient (1.2 GPa and 700 ºC in the *Cariño* gneiss is _vs_ 1.5-1.7 GPa and 800-900 ºC in the rest of the *Banded* gneiss). 
 
+> NOTE Marco: check if the mention of Cariño/banded gneiss is ok. Add the missing references.
+
 #### Protolith interpretations
 
 The *Chímparra* gneisses are thought to derive from pelitic and semi-pelitic (graywacke-like) sediments with minor calc-silicate and mafic inclusions (Fernández, 1994). In contrast, the *Banded gneisses* are interpreted as a shallow crustal volcano-sedimentary sequence (Albert, 2017), punctuated by mafic intrusions (now eclogites) and lesser granitic and tonalitic bodies (now orthogneisses) 
@@ -457,6 +459,8 @@ Many lines of evidence indicate that the ultramafic massifs record magmatic acti
 
 Accordingly, a continental volcanic arc setting was suggested for the granulite protoliths (Peucat _et al._, 1990) and the occurrence of Si-poor Fe-Ti rich rocks comparable to arclogites is also compatible with this interpretation. Such a lithological sequence (****Fig_hacker-diagram**) is indeed observed in the deep sections of young and modern arc (Ducea _et al._, 2021, and references therein).
 
+> NOTE: Add a mention of whether the ultramafics are related to the granulites and make sure it consistently addressed throughout the text.
+
 <img src="cabo-ortegal/fieldguide_figures/hacker-diagram.png"
 style="max-width: 75%; max-height:1000px; height: auto;"/>
 
@@ -471,6 +475,8 @@ In this model, the nature and location of the crust-mantle transition remains un
 - According to [Moreno _et al._, (2001)](https://doi.org/10.1144/jgs.158.4.601), it is located at the base of the layered pyroxenite-dunite-chromitite association where it overlies harzburgites at the bottom of the *Herbeira* cliffs. The pyroxenite-dunite-chromitite association is thought to preserve a lower crustal magmatic stratigraphy (notably based on PGE concentrations; see (**Section 3.2**) and to be in tectonic contact against the E part (mostly harzburgites) of the Herbeira massif. This interpretation is conditioned to the questionable tectonic significance of the Trans-Herbeira Fault (THF), as discussed in detail in **Stop 1.7**. 
 
 - According to Brown _et al._, (2009) and Llana-Fúnez & Brown _et al._, (2012), the petrologic Moho is represented by the E contacts of the ultramafic massifs and the granulites. This interpretation is consistent with the formation of the layered pyroxenite-dunite-chromitite association within the mantle (Girardeau _et al._, 1989, Gravestock 1992, [Tilhac _et al._, 2016](https://doi.org/10.1093/petrology/egw064)).
+
+> NOTE: Relate this to the 1-vs-2-arc issue.
  
 On geophysical grounds, Brown _et al._, (2009) and Llana-Fúnez & Brown _et al._, (2012) considered the whole Upper Tectonic Unit as analogue to a sub-continental mantle-crust transition, where the seismic Moho (_i.e._ strong P-wave reflector at around 8 km/s) corresponds to the contact between the eclogites and the quartzo-feldspathic gneisses. Note that, among the ultramafics, only the pyroxenites yielded mantle-like P-wave velocities whereas they do not reach the 8 km/s threshold in the serpentinized peridotites (Brown _et al._, 2009). Llana-Fúnez & Brown _et al._, (2012) also showed that the breakdown of Cpx to Plg strongly lowers seismic velocities in both the granulites and eclogites. This effect smoothes out the seimic discontinuity at the eclogite-gneiss contact (seismic Moho) but enhances the reflectivity of the ultramafic-granulite contact (petrological Moho)
 
@@ -498,16 +504,20 @@ style="max-width: 100%; max-height: 1000px; height: auto;"/>
 
 Until recently, these folds depicting the style of deformation in deep subduction settings (Ábalos _et al._, 2003) had been recognized in all the units of the Upper Allochthon (Azcárraga _et al._, 2002), except in the *Limo* and *Herbeira* massifs. *Limo* was initially described as structurally homogeneous (Ben Jamaa, 1988, Girardeau & Gil Ibarguchi, 1991, García Izquierdo _et al._, 2011) due to the strong alteration of most outcrops inland. However, good exposures of harzburgites were found in the NW cliffs revealing large-scale stacking of extremely elongated sheath folds (Puelles _et al._, 2012). Similar folds were then found affecting both peridotites and pyroxenites in the *Herbeira* massif ([Tilhac _et al._, 2016](https://doi.org/10.1093/petrology/egw064), [Tilhac, 2017](https://doi.org/10.25949/22281616.v1)), indicating that the massif underwent D<sub>1</sub> as an entity, and that formation of the main pyroxenites pre-date this deformation episode. 
 
+> NOTE: mention the mechanical issues related to sheath folding from Sergio's comments.
+
 <img src="cabo-ortegal/fieldguide_figures/sheath-folds.png"
 style="max-width: 100%; max-height: 1000px; height: auto;"/>
 
 **Fig_sheath-folds**. Sheath folds affecting harzburgites near seal level at *Punta Robaliceira* (**a**) as well pyroxenites and dunites in the lower part of Herbeira cliffs **(b)**, as shown in the map of the *Herbeira* massif (**Fig_map-herbeira**). 
 
-> NOTE: Mention the mechanical issues related to sheath folding from Sergio's comments.
+> NOTE: Add zoomed in view and detail of the oriented Chl. 
 
 D<sub>1</sub> was coeval or rapidly followed by the peak of eclogite-facies metamorphism well documented in all the HP-HT units  (1.6-1.8 GPa for the pyroxenites and up to 2.2 GPa for the eclogites). In the ultramafic massifs, it corresponds to the appearance of Grt in massive websterites as well limited partial melting evidenced by rare cross-cutting pyroxenite veins (Peucat _et al._, 1990) and intrusive granite bodies (Santos _et al._, 1996).
 
 In addition, the ultramafic massifs have experienced high-temperature shear deformation D<sub>HT</sub> (Ábalos _et al._, 2003) at > 1000 °C which pre-dates D<sub>1</sub> (**Fig_P-T-t-paths**). It is recorded by A-type (Jung & Karato, 2001) lattice-preferred orientation (LPO) in Ol, as evidenced by early petrofabric studies (Ben Jamaa, 1988, Girardeau & Gil Ibarguchi, 1991, Girardeau _et al._, 1990) and confirmed by EBSD techniques applied to the *Limo* (Puelles _et al._, 2012) and *Herbeira* massifs (García-Izquierdo 2005, García-Izquierdo _et al._, 2011, Henry _et al._, 2017, Henry 2018). This deformation episode is responsible for a tectonic foliation parallel to the compositional layering as well isoclinal folding and boudinage, particularly outlined by pyroxenites (**Fig_HT-deformation**). 
+
+> NOTE: Adjust this part based on Marco's comments on CPO.
  
 <img src="cabo-ortegal/fieldguide_figures/ht-deformation.png"
 style="max-width: 100%; max-height: 1000px; height: auto;"/>
@@ -541,7 +551,7 @@ There is little record of D<sub>2</sub> (and subsequent episodes) in the ultrama
 
 Development of recumbent folds and of a basal thrust (D<sub>3</sub>) accompanied retrograde metamorphism under amphibolite-facies conditions (including amphibolitization of the hydrated peridotites and pyroxenites). D<sub>3</sub> recumbent folds are additionally affected by upright folds without axial planar foliation (D<sub>4</sub>) such as the large open synform observed in the *Bacariza* granulites and in the *Herbeira* massif (**Fig_map-herbeira**). This last episode, potentially coeval with development of the THF, occurred under greenschist-facies conditions (Ábalos _et al._, 2003).
 
-> NOTE: Mention in the paragraph above the issues related to the folding and foliation development in the eclogites which is more mechanical understandable after Px breakdown in the presence of Plg.
+> NOTE: Make this section consistent with the issue regarding the folding stage. Mention in the paragraph above the issues related to the folding and foliation development in the eclogites which is more mechanical understandable after Px breakdown in the presence of Plg.
 
 Final emplacement of Upper Allochthon on the Iberian parautochthon occurred at _ca._ 360 Ma (Dallmeyer _et al._, 1997).
 
@@ -603,6 +613,8 @@ Type-1 pyroxenites are likely to represent an early generation of pyroxenite in 
 style="max-width: 75%; max-height: 1000px; height: auto;"/>
 
 **Fig_layered-clinopyroxenite-sample**. Example of type-1 pyroxenite sample interlayered with dunite ([Tilhac, 2017](https://doi.org/10.25949/22281616.v1)). Note the Ol-rich streak preserved within the thickest pyroxenite layer.
+
+> NOTE: Add outline of the Ol-rich streak.
 
 In Cabo Ortegal, these pyroxenites are specifically interpreted as products of partial replacement of peridotites upon interaction with a Si-undersaturated melt inferred to be a ultra-calcic picrite. This interpretation is consistent with their high Cpx/Opx ratios which point to crystallization along a Cpx–Ol cotectic line. The incomplete remplacement reaction is indicated by the preservation of dunite lenses (**Fig_layered-clinopyroxenite-sample**), suggesting that melt was the limiting reactant. Relatively low melt/rock ratios are supported by the lowest Amp contents among the pyroxenites (6-14 %) as well as LILE and LREE enrichment limited to spoon-shaped patterns with flat heavy REE (HREE) (**Fig_ree-all-types**). Yet, the occurrence of Ol-free type-1 pyroxenites (including websterites) suggests that complete consumption of Ol was locally achieved following a peritectic reaction Fo + Si-rich melt = En, indicating pressures < 1.2 GPa (_e.g._, Kelemen & Ghiorso, 1986). 
 
@@ -778,6 +790,8 @@ style="max-width: 100%; max-height: 1000px; height: auto;"/>
 
 **Fig_map-herbeira-evolution**. **a-b.** Different geological maps of the *Herbeira* massif. In **a** and **d**, the contact between the E and W part of the massif is considered as primary (and the massif interpreted as a synform). In **c** and **d**, it is considered as tectonic along the Trans-Herbeira Fault (THF) or Trans-Herbeira Shear Zone (THSZ).
 
+> NOTE: Maybe add some details (e.g. synform axis) on the relevant maps.
+
 In contrast, García-Izquierdo (2005) described this structure as a ~200-m-wide Trans Herbeira Shear Zone (THSZ) where deformation is concentrated in cm- to m-thick mylonitic bands (**Fig_thf-cross-section**). In the cross section near **Stop 1.7**, a grain-size decrease is observed in the Amp-rich peridotites as the structure is approach, accompanied by an increasingly dipping planar fabric which progressively aligns to the near-vertical mylonitic bands, cutting the compositional layering at a very low angle (**Fig_thf-cross-section**). Subhorizontal lineations in the area are defined by the stretching of Px  and the orientation of Amp aggregates, similarly oriented to lineations observed across the massif. The anastomosing structure of the mylonitic bands indicate a sinistral movement in a transtensional regime, as suggested by SSW-plunging lineations (García-Izquierdo, 2005). The THF/THSZ is inferred to have normal component with the eastern block as hanging wall and an estimated vertical displacement of 400 m. 
 
 <img src="cabo-ortegal/fieldguide_figures/thf-cross-section.png"
@@ -852,6 +866,8 @@ This half day aims to cover most of the lithological diversity of the mafic HP-H
 - In the morning, three easily accessible lookouts along the coast (*Chan dos Carrís*, *Cruceiro do Cuturelo* and *Miradoiro do Limo*)
 - Lunch near the eclogite-granulite contact after a 2-km walk from the last mirador to the *Pico Gargacido-Monte Faroleiro* area.
 - In the early afternoon, group picture at the most scenic lookout of the Cabo Ortegal lighthouse on eclogite outcrops.
+
+> NOTE Marco: check if this intro is fine. I have tried to make the guide valid even beyond this excursion by not using any "we will" etc. I have thus restricted the description of the excursion outline to a brief introduction for each day.
 
 <img src="cabo-ortegal/fieldguide_figures/hp-ht-units-stops.png"
 style="max-width:75%; max-height: 1000px; height: auto;"/>
