@@ -19,9 +19,7 @@ by Romain Tilhac<sup>1</sup>, Marco A. Lopez-Sanchez<sup>2</sup>, Sergio Llana-F
 <sup>1</sup> Instituto Andaluz de Ciencias de la Tierra (IACT/CSIC);
 <sup>2</sup> Universidad de Oviedo
 
-*Version updated on 16/09/24*
-
-> NOTE: Figure size, figure numbers, citations/references and other bits are still to be adjusted.
+*Version updated on 19/09/24. Section 5 is still under work, particularly 5.3.*
 
 ## 1. Introduction
 
@@ -373,7 +371,7 @@ style="max-width: 100%; max-height: 1000px; height: auto;"/>
 
 #### Protolith interpretations
 
-Various origins have been proposed for these rocks, including: (1) residues of deep anatexis (Drury, 1980), (2) upper crust of a volcanic arc near a continental margin or continental tholeiites ([Peucat _et al._, 1990](https://doi.org/10.1016/0040-1951(90)90285-G)), (3) crystal fractionation from melts derived from a primitive mantle source ([Gravestock, 1992](https://oro.open.ac.uk/65312/)), or (4) a stratiform gabbroic complex at the base of the continental crust ([Galán and Marcos, 1997](https://doi.org/10.1007/s005310050162)). Although no consensus exists, all the above interpretations suggest a sub-continental or arc-related tectonic environment.
+Various origins have been proposed for these rocks, including: (1) residues of deep anatexis (Drury, 1980), (2) upper crust of a volcanic arc near a continental margin or continental tholeiites ([Peucat _et al._, 1990](https://doi.org/10.1016/0040-1951(90)90285-G)), (3) crystal fractionation from melts derived from a primitive mantle source ([Gravestock, 1992](https://oro.open.ac.uk/65312/)), or (4) a stratiform gabbroic complex at the base of an extended continental crust ([Galán and Marcos, 1997](https://doi.org/10.1007/s005310050162)). Although no consensus exists, all the above interpretations suggest a sub-continental or arc-related tectonic environment.
 
 #### Thermobarometric estimates
 
@@ -435,9 +433,7 @@ High-pressure gneisses occur as two mappable formations: the *Banded* and the *C
 <img src="cabo-ortegal/fieldguide_figures/map-hp-gneisses.png"
 style="max-width: 100%; max-height: 1000px; height: auto;"/>
 
-**Fig_map-hp-gneisses**. Map of the Upper Tectonic unit of the Cabo Ortegal Complex showing the location of the HP gneiss formations. Note that some authors interpret parts of the E gneiss body (_i.e._ *Cariño* gneiss formation) as a separate intermediate pressure (IP) unit (_e.g._ Albert 2012) separated from the *Banded* gneiss by an extensional fault (REF, Arenas) or a normal contact (REF Puelles). Others (_e.g._, Fernández _et al._, 2016) do not distinguish these units and simply consider a strong metamorphic and deformational gradient (1.2 GPa and 700 ºC in the *Cariño* gneiss is _vs_ 1.5-1.7 GPa and 800-900 ºC in the rest of the *Banded* gneiss). 
-
-> NOTE Marco: check if the mention of Cariño/banded gneiss is ok. Add the missing references.
+**Fig_map-hp-gneisses**. Map of the Upper Tectonic unit of the Cabo Ortegal Complex showing the location of the HP gneiss formations. Note that some authors interpret parts of the E gneiss body (_i.e._ *Cariño* gneiss formation) as a separate intermediate pressure (IP) unit (_e.g._ Albert 2012) separated from the *Banded* gneiss by an extensional fault (Albert, 2012) or a normal contact (Puelles, 2004). Others (_e.g._, Fernández _et al._, 2016) do not distinguish these units and simply consider a strong metamorphic and deformational gradient (1.2 GPa and 700 ºC in the *Cariño* gneiss is _vs_ 1.5-1.7 GPa and 800-900 ºC in the rest of the *Banded* gneiss).
 
 #### Protolith interpretations
 
@@ -453,113 +449,123 @@ Zircon provenance studies indicate that the sediments forming these gneisses are
 
 ## 5 Tectonic summary
  
-We attempt below to provide a brief summary of the origin and evolution of the ultramafic massifs that takes into account field observations, tectono-thermal and geochronological constraints from the different HP-HT units of the Cabo Ortegal Complex.
+We attempt below to provide a brief summary of the origin and evolution of the ultramafic massifs in the context of the Upper Tectonic Unit. It takes into account field observations, tectono-thermal and geochronological constraints from the different HP-HT units. The geological record prior to the assembly of the ultramafics with the other units is still a matter of debate and we aim to provide a fair reflection of the different views.
 
 ### 5.1 Magmatic history: a peri-Gondwanan volcanic arc
 
-Many lines of evidence indicate that the ultramafic massifs record magmatic activity in a subduction-related environment. The layered pyroxenite-dunite-chromitite association of the *Herbeira* massif is ascribed to primitive picritic and boninitic melt intrusions into lithospheric root of a volcanic arc ([Moreno _et al._, 2001](https://doi.org/10.1144/jgs.158.4.601), [Tilhac _et al._, 2016](https://doi.org/10.1093/petrology/egw064)). High CaO/Al<sub>2</sub>O<sub>3</sub>, low TiO<sub>2</sub> and alkalis in the pyroxenites more specifically indicate a low Cpx/Opx (_i.e._ harzburgitic) mantle, metasomatized by slab- or mantle-wedge derived hydrous fluids, silicate melts ([Tilhac _et al._, 2016](https://doi.org/10.1093/petrology/egw064)) or carbonatites ([Gravestock, 1992](https://oro.open.ac.uk/65312/)), in good agreement with the characteristic enrichment of the LREE and large ion lithophile (LILE) enrichment over depleted high field strength elements (HFSE).
+Many lines of evidence indicate that the ultramafic massifs record magmatic activity in a subduction-related environment. The layered pyroxenite-dunite-chromitite association of the *Herbeira* massif is specifically ascribed to primitive picritic and boninitic melt intrusions into lithospheric root of a volcanic arc ([Moreno _et al._, 2001](https://doi.org/10.1144/jgs.158.4.601), [Tilhac _et al._, 2016](https://doi.org/10.1093/petrology/egw064)). High CaO/Al<sub>2</sub>O<sub>3</sub>, low TiO<sub>2</sub> and alkalis in the pyroxenites more specifically indicate a low Cpx/Opx (_i.e._ harzburgitic) mantle, metasomatized by slab- or mantle-wedge derived hydrous fluids, silicate melts ([Tilhac _et al._, 2016](https://doi.org/10.1093/petrology/egw064)) or carbonatites ([Gravestock, 1992](https://oro.open.ac.uk/65312/)), in good agreement with the characteristic enrichment of the LREE and large ion lithophile (LILE) enrichment over depleted high field strength elements (HFSE).
 
-Accordingly, a continental volcanic arc setting was suggested for the granulite protoliths (Peucat _et al._, 1990) and the occurrence of Si-poor Fe-Ti rich rocks comparable to arclogites is also compatible with this interpretation. Such a lithological sequence (****Fig_hacker-diagram**) is indeed observed in the deep sections of young and modern arc (Ducea _et al._, 2021, and references therein).
-
-> NOTE: Add a mention of whether the ultramafics are related to the granulites and make sure it consistently addressed throughout the text.
+Accordingly, a continental volcanic arc setting was suggested for the granulite protoliths (Peucat _et al._, 1990) and the occurrence of Si-poor Fe-Ti rich rocks comparable to arclogites is also compatible with this interpretation. Such a lithological sequence (****Fig_hacker-diagram**) is observed in the deep sections of young and modern arc (Ducea _et al._, 2021, and references therein). Many lithological features of the *Herbeira* massif are also similar to the Jijal ultramafic section of the famous Kohistan arc complex in Pakistan (_e.g._, Muntener _et al._, 2001; Tilhac _et al._, 2022). Some of the Jijal pyroxenites preserving dunite lenses were similarly interpreted as partial replacement of peridotite (Burg _et al._, 1998; Garrido _et al._, 2007) and the chromitites compositionally overlap those from Cabo Ortegal ([Moreno _et al._, 2001](https://doi.org/10.1144/jgs.158.4.601)).
 
 <img src="cabo-ortegal/fieldguide_figures/hacker-diagram.png"
 style="max-width: 75%; max-height:1000px; height: auto;"/>
 
-**Fig_hacker-diagram**. Hacker diagram of the different HP-HT units of the Cabo Ortegal Complex. The observed compositional trends are comparable to the volcanic (negative correlation between MgO and SiO<sub>2</sub>) and plutonic (positive correlation) trends reported in recent and modern volcanic arcs. Unpublished data compilation from the OUTCROP project (M.A. Lopez-Sanchez; [SV-PA-21-AYUD/2021/57163](https://marcoalopez.github.io/OUTCROPproject/)).
+**Fig_hacker-diagram**. Hacker diagram of the different HP-HT units of the Cabo Ortegal Complex. The observed compositional trends are comparable to the volcanic (negative correlation between MgO and SiO<sub>2</sub>) and plutonic (positive correlation) trends reported in recent and modern volcanic arcs. Unpublished data compilation from the OUTCROP project (M.A. Lopez-Sanchez; [SV-PA-21-AYUD/2021/57163](https://marcoalopez.github.io/OUTCROPproject/)). Data sources: peridotites from Maaskant (1970), van Calsteren (1978), Gravestock (1992), García-Izquierdo (2005) and Pereira et al. (2008); pyroxenites from Gravestock (1992), van Calsteren (1978), García-Izquierdo (2005), Santos _et al._ (2002), Brown _et al._ (2005) and Tilhac _et al._ (2016); granulites and eclogites as in **Fig. 4.2** and **4.4**. 
 
-> NOTE Marco: Are you ok with this caption? We should add the data source maybe. By the way, I have already briefly mentioned similarities between Cabo Ortegal, Kohistan and Sierra Nevada in the arc delamination part of my 2022 review in Lithos.
+Yet, the fact that the ultramafic massifs are cogeneitic to the granulites, and that they both relate to a volcanic arc is not consensual, in spite of the geochemical (_e.g._, Sr & Nd isotopes) similarities between the ultramafics and granulites (_e.g_, Gravestock, 1992). For instance, Ábalos _et al._ (2003) only related the granulites to a Cambro-Ordovician arc whereas the ultramafics were ascribed to a Laurrusian mantle edge.
 
-In the nearby Bragança Complex in Portugal, a similar sub-arc environment was proposed for the origin of the chromitite-dunite association, interpreted as a product of partial melt extraction in the shallow mantle (Bridges _et al._, 1995). Many lithological features of the *Herbeira* massif are also similar to the Jijal ultramafic section of the famous Kohistan arc complex in Pakistan, where pyroxenites preserving dunite lenses are similarly interpreted as partial replacement of peridotite (Burg _et al._, 1998; Garrido _et al._, 2007). Accordingly, the chromitites from Cabo Ortegal and Bragança compositionally overlap those of the Jijal ([Moreno _et al._, 2001](https://doi.org/10.1144/jgs.158.4.601)).
+In addition, the nature and location of the crust-mantle transition in the Upper Tectonic Unit remains unclear. Two main alternatives can be envisaged depending on the approach considered:
 
-In this model, the nature and location of the crust-mantle transition remains unclear. Two main alternatives can be envisaged: 
+- On geochemical grounds, [Moreno _et al._, (2001)](https://doi.org/10.1144/jgs.158.4.601), considered the layered pyroxenite-dunite-chromitite association as a cumulate sequence that preserves a magmatic stratigraphy (notably based on the evolution of PGE concentrations; see **Fig_PGE** in **Section 3.2**). In this context, the base of this association that overlies harzburgite at the bottom of the *Herbeira* cliffs is interpreted as the crustal-mantle transition (**Fig_moho**). This interpretation assumes that the pyroxenite-dunite-chromitite association in the W part of the *Herbeira* massif is in tectonic contact against the E part which is mostly harzburgitic. As such, it is conditioned to the questionable tectonic significance of the Trans-Herbeira Fault (THF), as discussed in detail in **Stop 1.7**. 
 
-- According to [Moreno _et al._, (2001)](https://doi.org/10.1144/jgs.158.4.601), it is located at the base of the layered pyroxenite-dunite-chromitite association where it overlies harzburgites at the bottom of the *Herbeira* cliffs. The pyroxenite-dunite-chromitite association is thought to preserve a lower crustal magmatic stratigraphy (notably based on PGE concentrations; see (**Section 3.2**) and to be in tectonic contact against the E part (mostly harzburgites) of the Herbeira massif. This interpretation is conditioned to the questionable tectonic significance of the Trans-Herbeira Fault (THF), as discussed in detail in **Stop 1.7**. 
+- Alternatively, the ultramafic massifs and granulites were interpreted as representing the crust-mantle sequence of an early Ordovician extended continental margin (Galán & Marcos, 1997), inverted by a recumbent fold (Bastida _et al._, 1984; Marcos & Galán, 1994). On geophysical grounds, Brown _et al._, (2009) and Llana-Fúnez & Brown _et al._, (2012) considered the whole Upper Tectonic Unit as analogue to a sub-continental mantle-crust transition, where the seismic Moho (_i.e._ strong P-wave reflector at around 8 km/s) corresponds to the contact between the eclogites and the quartzo-feldspathic gneisses (**Fig_moho**). In this context, the petrologic Moho is ascribed to the contact between the ultramafic massifs and the granulites, which corresponds to the appearance of Ol-rich rocks. Note that, among the ultramafics, only the pyroxenites yielded mantle-like P-wave velocities whereasserpentinized peridotites did not reach the 8 km/s threshold in direct measurements. Llana-Fúnez & Brown _et al._, (2012) also showed that the breakdown of Cpx to Plg strongly lowers seismic velocities in both the granulites and eclogites. This effect smoothes out the seimic discontinuity at the eclogite-gneiss contact (seismic Moho), enhancing the reflectivity of the ultramafic-granulite contact (petrological Moho).
 
-- According to Brown _et al._, (2009) and Llana-Fúnez & Brown _et al._, (2012), the petrologic Moho is represented by the E contacts of the ultramafic massifs and the granulites. This interpretation is consistent with the formation of the layered pyroxenite-dunite-chromitite association within the mantle (Girardeau _et al._, 1989, Gravestock 1992, [Tilhac _et al._, 2016](https://doi.org/10.1093/petrology/egw064)).
 
-> NOTE: Relate this to the 1-vs-2-arc issue.
- 
-On geophysical grounds, Brown _et al._, (2009) and Llana-Fúnez & Brown _et al._, (2012) considered the whole Upper Tectonic Unit as analogue to a sub-continental mantle-crust transition, where the seismic Moho (_i.e._ strong P-wave reflector at around 8 km/s) corresponds to the contact between the eclogites and the quartzo-feldspathic gneisses. Note that, among the ultramafics, only the pyroxenites yielded mantle-like P-wave velocities whereas they do not reach the 8 km/s threshold in the serpentinized peridotites (Brown _et al._, 2009). Llana-Fúnez & Brown _et al._, (2012) also showed that the breakdown of Cpx to Plg strongly lowers seismic velocities in both the granulites and eclogites. This effect smoothes out the seimic discontinuity at the eclogite-gneiss contact (seismic Moho) but enhances the reflectivity of the ultramafic-granulite contact (petrological Moho)
 
-Regionally, the magmatic history depicted above fits with the activity of Cambro-Ordovician (at _ca._ 500 Ma) to Neoproterozoic arc (**Fig_geodynamics**), potentially corresponding to the incipient stage of a Cadomian arc built on a rifted margin of Gondwana ([Tilhac _et al._, 2017](https://doi.org/10.1016/j.epsl.2017.07.017)), as previously invoked in NW (Andonaegui _et al._, 2016) and SW Iberia (_e.g._, Rojo-Pérez _et al._, 2024, Novo-Fernandez _et al._, 2024). Arc magmatism on the Gondwanan margin facing the Tornquist (or possibly the Iapetus) Ocean is further supported by detrital zircons derived from the West African which yielded prominent age peaks at around 2.1 and 2.7 Ga (Santos Zalduegui _et al._, 1995, Albert _et al._, 2015, Roper 2016). In the Iberian Autochthon, thick sedimentary sequences due to high rates of subsidence and the voluminous volcanics of the *Ollo de Sapo* formation record early-Ordovician extension interpreted as continental rifting during the separation of the arc from the Gondwanan margin (Martinez Catalan _et al._, 2019, and references therein).
+<img src="cabo-ortegal/fieldguide_figures/moho.png"
+style="max-width: 100%; max-height:1000px; height: auto;"/>
+
+**Fig_moho**. **a.** Geological map of the Cabo Ortegal Complex focusing on the Upper Tectonic Unit showing the location of the samples analysed for P-wave and S-wave velocities. **b.** Synthetic lithostratigraphic column (from Llana-Fúnez _et al._, 2004) showing reflection coefficients, average Vp and density (ρ) for each unit. **c.** Synthetic vertical incidence seismic reflection section. Adapted from Brown _et al._ (2009).
+
+Interestingly, the latter interpretation, which followed on previous works by Galán, Marcos and co-workers, is compatible with the formation of the layered pyroxenite-dunite-chromitite association within the mantle (Girardeau _et al._, 1989, Gravestock 1992, [Tilhac _et al._, 2016](https://doi.org/10.1093/petrology/egw064)), as the whole ultramafic massifs are considered as mantle rocks.
+
+Regionally, a similar sub-arc environment was proposed for the origin of the chromitite-dunite association in the nearby Bragança Complex in Portugal, interpreted as a product of partial melt extraction in the shallow mantle (Bridges _et al._, 1995). The magmatic history depicted above fits with the activity of Cambro-Ordovician (at _ca._ 500 Ma) to Neoproterozoic arc (**Fig_geodynamics**), potentially corresponding to the incipient stage of a Cadomian arc built on a rifted margin of Gondwana ([Tilhac _et al._, 2017](https://doi.org/10.1016/j.epsl.2017.07.017)), as previously invoked in NW (Andonaegui _et al._, 2016) and SW Iberia (_e.g._, Rojo-Pérez _et al._, 2024, Novo-Fernandez _et al._, 2024). Arc magmatism on the Gondwanan margin facing the Tornquist (or possibly the Iapetus) Ocean is further supported by detrital zircons derived from the West African which yielded prominent age peaks at around 2.1 and 2.7 Ga (Santos Zalduegui _et al._, 1995, Albert _et al._, 2015, Roper 2016). In the Iberian Autochthon, thick sedimentary sequences due to high rates of subsidence and the voluminous volcanics of the *Ollo de Sapo* formation record early-Ordovician extension interpreted as continental rifting during the separation of the arc from the Gondwanan margin (_e.g._, Martinez Catalan _et al._, 2019, and references therein).
 
 <img src="cabo-ortegal/fieldguide_figures/geodynamics.png"
 style="max-width: 100%; max-height: 1000px; height: auto;"/>
 
 **Fig_geodynamics**. Interpretative tectonic evolution of NW Iberia (Martínez Catalan _et al._, 2019, modified from Martínez Catalan _et al._, 2009 and references therein). The peri-Gondwanan arc inferred for the origin of the ultramafic massifs is shown in **a**.
 
-In the Cabo Ortegal Complex, reworking of the Gondwanan margin during arc magmatism is compatible with radiogenic isotope compositions of the pyroxenites (and granulites). This data include decoupled Hf-Nd with ε<sub>Hf</sub> exceeding + 100, corresponding to Paleoproterozoic to Archean Hf model ages ([Tilhac _et al._, 2020](https://doi.org/10.1016/j.lithos.2019.105346)), as well as moderately enriched (_i.e._ EM1) Pb, Sr and Nd isotopes (Gravestock 1992, Santos _et al._, 2002, [Tilhac _et al._, 2017](https://doi.org/10.1016/j.epsl.2017.07.017)).
+> NOTE: Mention that the HP-HT units are related to the same arc in this model. Check the IP/HP distinctions. Stick to the 2009 version better? Check which picture is missing from Sergio word.
 
-### 5.2 Prograde tectonothermal evolution: the Devonian subduction
+In the Cabo Ortegal Complex, the reworking of a Gondwanan margin during arc magmatism provides a consistent scenario to account for the radiogenic isotope compositions of the pyroxenites (and granulites). This data include decoupled Hf-Nd with ε<sub>Hf</sub> exceeding + 100, corresponding to Paleoproterozoic to Archean Hf model ages ([Tilhac _et al._, 2020](https://doi.org/10.1016/j.lithos.2019.105346)), as well as moderately enriched (_i.e._ EM1) Pb, Sr and Nd isotopes (Gravestock 1992, Santos _et al._, 2002, [Tilhac _et al._, 2017](https://doi.org/10.1016/j.epsl.2017.07.017)).
 
-All the HP-HT units of the Cabo Ortegal Complex record a deformation episode D<sub>1</sub> (Ábalos _et al._, 2003) ascribed to a Devonian subduction (**Fig_P-T-t-paths**). In the ultramafic massifs, it is recorded by a mylonitic foliation near tectonic contacts and sheath folds developed during thrusting of the massifs over the underlying granulites.
+### 5.3 High-temperature deformation and prograde tectonothermal evolution
 
-> NOTE: Add the HP-HT map summarizing peak conditions?
+The ultramafic massifs have experienced high-temperature shear deformation D<sub>HT</sub> (Ábalos _et al._, 2003) at > 1000 °C which pre-dates D<sub>1</sub> (**Fig_P-T-t-paths**). It is recorded by the preservation of A-type (Jung & Karato, 2001) crystal-preferred orientation (CPO)/lattice-preferred orientation (LPO) in Ol, as evidenced by early petrofabric studies (Ben Jamaa, 1988, Girardeau & Gil Ibarguchi, 1991, Girardeau _et al._, 1990). This deformation episode is responsible for a tectonic foliation parallel to the compositional layering as well isoclinal folding and boudinage, particularly outlined by pyroxenites (**Fig_HT-deformation**). However, EBSD data have shown that Ol A-type CPO/LPO is not dominant in the ultramafic massifs (García-Izquierdo 2005, García-Izquierdo _et al._, 2011; Puelles _et al._, 2012; Henry _et al._, 2017, Henry 2018), suggesting that deformation features related to dry HT environments have been mostly overprinted (see **Fig_cpo-herbeira**).
 
-<img src="cabo-ortegal/fieldguide_figures/p-t-paths.png"
+<img src="cabo-ortegal/fieldguide_figures/HT-deformation.png"
+style="max-width: 100%; max-height: 1000px; height: auto;"/>
+ 
+**Fig_HT-deformation**. Representative examples of HT deformation features (Tilhac, 2017): typical boudinage of a pyroxenite layer in the Herbeira cliffs (**a**) and isoclinal fold outlined by a pyroxenite layer (**b**).
+
+All the HP-HT units of the Cabo Ortegal Complex record a metamorphic episode (M<sub>1</sub>) under eclogite facies conditions which peaked at 1.6-1.8 GPa in the pyroxenites and up to 2.3 GPa in the eclogites (**Fig_hp-ht-units-thermobarometry**). In the ultramafic massifs, it corresponds to the appearance of Grt in massive websterites as well limited partial melting evidenced by rare cross-cutting pyroxenite veins (Peucat _et al._, 1990) and intrusive granite bodies (Santos _et al._, 1996).
+
+<img src="cabo-ortegal/fieldguide_figures/hp-ht-units-thermobarometry.png"
 style="max-width: 100%; max-height: 1000px; height: auto;"/>
 
-**Fig_P-T-t-paths**. Interpretative P-T-t paths of the different HP-HT units of the Cabo Ortegal Complex. Geochronological and geothermobarometric constraints on protolith formation and deformation episodes D<sub>1</sub> to D<sub>4</sub> are shown with respect subduction, tectonic accretion, syn-subduction exhumation and subsequent exhumation during orogenic collision (Abalos _et al._, 2003). Note that this model implies that the ultramafics are not related to the granulites and other HP-HT units. Yet, the possibility that they are genetically linked to the same volcanic arc should not be excluded.
+**Fig_hp-ht-units-thermobarometry**. Summary of peak metamorphic conditions recorded in the different HP-HT units of the Up
 
-> NOTE Marco: please check the comment added in the caption.
+In all rock types, eclogite-facies minerals define a widespread and pervasive tectonic fabric D<sub>1</sub>, as illustrated for the granulites in **Fig_P-T-t-paths**. D<sub>1</sub> was roughly coeval to the metamorphic peak and related to a Devonian subduction (_e.g._, Ábalos _et al._, 2003). It is specifically thought to have specifically developed during exhumation from HP conditions, promoted by the breakdown of Cpx into Plg, a much weaker phase in the presence of Grt, Px and Amp (Marcos _et al._, 2002). In the ultramafic massifs, D<sub>1</sub> post-dates D<sub>HT</sub> and is recorded by a mylonitic foliation and sheath folds developed during thrusting of the massifs over the underlying granulites, which is ascribed by some authors to a ductile thurst separating the mantle wedge from the subduction channel (Ábalos _et al._, 2003).
 
-Until recently, these folds depicting the style of deformation in deep subduction settings (Ábalos _et al._, 2003) had been recognized in all the units of the Upper Allochthon (Azcárraga _et al._, 2002), except in the *Limo* and *Herbeira* massifs. *Limo* was initially described as structurally homogeneous (Ben Jamaa, 1988, Girardeau & Gil Ibarguchi, 1991, García Izquierdo _et al._, 2011) due to the strong alteration of most outcrops inland. However, good exposures of harzburgites were found in the NW cliffs revealing large-scale stacking of extremely elongated sheath folds (Puelles _et al._, 2012). Similar folds were then found affecting both peridotites and pyroxenites in the *Herbeira* massif ([Tilhac _et al._, 2016](https://doi.org/10.1093/petrology/egw064), [Tilhac, 2017](https://doi.org/10.25949/22281616.v1)), indicating that the massif underwent D<sub>1</sub> as an entity, and that formation of the main pyroxenites pre-date this deformation episode. 
+<img src="cabo-ortegal/fieldguide_figures/p-t-paths-granulites.png"
+style="max-width: 100%; max-height: 1000px; height: auto;"/>
+
+**Fig_p-t-paths-granulites**. P–T–t paths of the Cabo Ortegal granulites: **a.** according to Galan & Marcos (2000) and showing the metamorphic stages numbered M1-M4; **b.** according to Puelles _et al._ (2005) and showing the deformation stages numbered D1-D4 (specifically for *Bacariza* granulites). In **a**, two distinct paths are shown for the *Monte Agudo* and *Bacariza* (_i.e._ *La Capelada*) formations, respectively.  and **b** correspond to the prograde and retrograde paths of the *Concepenido* eclogites. In **b** are also shown paths of the upper oceanic crust aged 5 Ma (**a**), 10 Ma (**b**) and 50 Ma (**c**).
+
+Until recently, sheath folds ascribed to high-shear strain deformation in deep subduction settings (Ábalos _et al._, 2003) had been recognized in all the units of the Upper Allochthon (Azcárraga _et al._, 2002), except in the *Limo* and *Herbeira* massifs. *Limo* was initially described as structurally homogeneous (Ben Jamaa, 1988, Girardeau & Gil Ibarguchi, 1991, García Izquierdo _et al._, 2011) due to the strong alteration of most outcrops inland. However, good exposures of harzburgites were found in the NW cliffs revealing large-scale stacking of extremely elongated sheath folds (Puelles _et al._, 2012). Such folds were then found affecting both peridotites and pyroxenites in the *Herbeira* massif ([Tilhac _et al._, 2016](https://doi.org/10.1093/petrology/egw064), [Tilhac, 2017](https://doi.org/10.25949/22281616.v1)), indicating that the massif underwent the corresponding deformation episode as an entity, and that formation of the main pyroxenites pre-date this deformation episode. 
 
 > NOTE: mention the mechanical issues related to sheath folding from Sergio's comments.
 
 <img src="cabo-ortegal/fieldguide_figures/sheath-folds.png"
 style="max-width: 100%; max-height: 1000px; height: auto;"/>
 
-**Fig_sheath-folds**. Sheath folds affecting harzburgites near seal level at *Punta Robaliceira* (**a**) as well pyroxenites and dunites in the lower part of Herbeira cliffs **(b)**, as shown in the map of the *Herbeira* massif (**Fig_map-herbeira**). 
-
-> NOTE: Add zoomed in view and detail of the oriented Chl. 
-
-D<sub>1</sub> was coeval or rapidly followed by the peak of eclogite-facies metamorphism well documented in all the HP-HT units  (1.6-1.8 GPa for the pyroxenites and up to 2.2 GPa for the eclogites). In the ultramafic massifs, it corresponds to the appearance of Grt in massive websterites as well limited partial melting evidenced by rare cross-cutting pyroxenite veins (Peucat _et al._, 1990) and intrusive granite bodies (Santos _et al._, 1996).
-
-In addition, the ultramafic massifs have experienced high-temperature shear deformation D<sub>HT</sub> (Ábalos _et al._, 2003) at > 1000 °C which pre-dates D<sub>1</sub> (**Fig_P-T-t-paths**). It is recorded by A-type (Jung & Karato, 2001) lattice-preferred orientation (LPO) in Ol, as evidenced by early petrofabric studies (Ben Jamaa, 1988, Girardeau & Gil Ibarguchi, 1991, Girardeau _et al._, 1990) and confirmed by EBSD techniques applied to the *Limo* (Puelles _et al._, 2012) and *Herbeira* massifs (García-Izquierdo 2005, García-Izquierdo _et al._, 2011, Henry _et al._, 2017, Henry 2018). This deformation episode is responsible for a tectonic foliation parallel to the compositional layering as well isoclinal folding and boudinage, particularly outlined by pyroxenites (**Fig_HT-deformation**). 
-
-> NOTE: Adjust this part based on Marco's comments on CPO.
+**Fig_sheath-folds**. Exemples of sheath folds in the ultramafic massifs. **a.** Sheath fold elongation along N20° on a Google Earth image of the harzburgite outcrops near sea level on the SW of the *Punta Robaliceira* (**Herbeira** massif). **b.** Sigmoidal shapes of one of these sheath folds; N20° orientation is shown for reference. Note the abundant fractures oriented _ca_ N110° which truncate the tubular structures of the sheath folds to be observed perpendicular to the lineation. **c.** Detail of Chl-rich harzburgite and pyroxenite as seen on one of these fractures. Note the L-type tectonite aspect revealed by differential weathering. **d-e** Eye shape and sigmoidal shape of sheath folds at the bottom of the *Limo* cliffs (Puelles _et al._, 2012). **f.** Sigmoidal shape of a sheath fold affecting pyroxenites and dunites in the lower part of *Herbeira* cliffs, as shown in **Fig_map-herbeira** (Tilhac _et al._, 2016). Photo credit: R. Tilhac.
  
-<img src="cabo-ortegal/fieldguide_figures/ht-deformation.png"
+The overprint D<sub>HT</sub> by high-shear strain deformation is also suggested by fabrics developped during high stress and wet deformation (B- and AG-type; Bernard _et al._ 2019). B-type fabrics have indeed been documented in the harzburgites of the *Limo* massif (misinterpreted as A-type; Puelles _et al._, 2012) and mostly B- and AG-type have been described in the most complete petrofabric study of the *Herbeira* massif (**Fig_cpo-herbeira**). In the pyroxenites, Ol CPO is very weak and include B types and odd CPO patterns, potentially indicating a transition from A- to B-types (Henry _et al._, 2017; Henry 2018).
+
+<img src="cabo-ortegal/fieldguide_figures/cpo-herbeira.png"
 style="max-width: 100%; max-height: 1000px; height: auto;"/>
  
-**Fig_HT-deformation**. Representative examples of HT deformation features ([Tilhac, 2017](https://doi.org/10.25949/22281616.v1)): typical boudinage of a pyroxenite layer in the *Herbeira* cliffs (**a**) and isoclinal fold outlined by a pyroxenite layer (**b**).
- 
-[Tilhac _et al._ (2016)](https://doi.org/10.1093/petrology/egw064) suggested that the sequence of D<sub>HT</sub> (_i.e._ potentially asthenospheric deformation), followed by D<sub>1</sub> and the peak of prograde metamorphism corresponds to the delamination of the arc root and its incorporation into the Devonian subduction zone. Foundering is thought to have occurred as a consequence of the negative buoyancy of the arc root, owing to the large amount of ultramafic pyroxenites denser the ambient mantle (Müntener _et al._, 2001), The presence of Si-poor Fe-Ti rich rocks (_e.g._, pyrigarnites) may have additionnally contributed to the gravitational instability of the arc root. These dense lithologies known as "arclogites" are indeed considered as some of the most likely candidates to undergo delamination in arc root settings (Ducea _et al._, 2021).
+**Fig_cpo-herbeira**. Summary of crystallographic preferred orientation (CPO)measured in different lithologies of the *Herbeira* massif (modified from García Izquierdo 2005). B-types are seen in the pyroxenite-rich domain and AG-types in the main harzburgites. Odd CPO that do not fit the typical Ol patterns are seen in the sheath-folded harzburgite of *Punta Robaliceira*.
 
-> NOTE: Mention that it implies the cogenetivity of the granulite and ultramafics.
+[Tilhac _et al._ (2016)](https://doi.org/10.1093/petrology/egw064) suggested that the sequence of D<sub>HT</sub> (_i.e._ potentially asthenospheric deformation), followed by D<sub>1</sub> (high-shear strain deformation) and the peak of prograde metamorphism corresponds to the delamination of the arc root and its incorporation into the Devonian subduction zone. Foundering is thought to have occurred as a consequence of the negative buoyancy of the arc root, owing to the large amount of ultramafic pyroxenites denser the ambient mantle (Müntener _et al._, 2001). Assuming that the ultramafics and the granulites originated from the same volcanic arc (as discussed in **Section 5.1**), the presence of Si-poor Fe-Ti rich rocks (_e.g._, pyrigarnites) may have additionnally contributed to the gravitational instability of the arc root. These dense lithologies known as "arclogites" are indeed considered as some of the most likely candidates to undergo delamination in arc root settings (Ducea _et al._, 2021).
 
-The *Herbeira* massif of Cabo Ortegal Complex could thus represent a unique example of delaminated arc root, potentially including the deep lithospheric portion of the sub-arc mantle.
-
-> NOTE: Add the issues related to the the different tectonic/geodynamic scenarios from Marco's comments.
+The *Herbeira* massif of Cabo Ortegal Complex could thus represent a unique example of delaminated arc root, potentially including the deep lithospheric portion of the sub-arc mantle. The modalities and timing of this hypothesis and its consequences for the geodynamic reconstruction of NW Iberia (_e.g_, **Fig_geodynamics**) are still to be explored. In particular, it remains unclear whether D<sub>HT</sub> records solely asthenospheric mantle wedge conditions during delamination and/or an earlier deformation history.
 
 ### 5.3 Exhumation an emplacement
 
-Fast exhumation seems to have rapidly followed the HP event (~1 GPa in < 10 Ma; Albert _et al._, 2012). The correspoding episode D<sub>2</sub> has mainly been reconstructed from the tectonothermal evolution of the eclogite-facies *Banded* gneiss (**Fig_exhumation-stages**) and cross-correlations with structures of the Órdenes Complex (Martínez Catalán _et al._, 2002). It is interpreted as the underplating of the HP-HT units to form a unique assemblage at _ca._ 375 Ma (Marcos _et al._, 2002; Ábalos _et al._, 2003; Albert _et al._, 2012), after 10-20 My within a subduction conduit, in good agreement with exhumation rates predicted by numerical models of syn-convergent extrusion (_e.g._, Beaumont _et al._, 2009). Such a widespread deformation of the Upper Tectonic Unit near the peak of metamorphism was interpreted as thinning of the subducting slab (to a rock sequence < 1 km-thick) during slab breakoff (Llana-Fúnez _et al._, 2004) 
+Fast exhumation seems to have rapidly followed the HP event (~1 GPa in < 10 Ma; Albert _et al._, 2012). There seems to be an overall agreement on the fact that the different HP-HT units formed a unique assemblage by _ca._ 375 Ma (Marcos _et al._, 2002; Ábalos _et al._, 2003; Albert _et al._, 2012). However, the timing and processes that led to their assembly remains debated. 
 
-
+According to some authors, the granulites, eclogites and paragneisses were stacked _via_ ductile thrusts (D<sub>2</sub>) in a subduction channel, which resulted in cartographic km-scale sheath folds (_e.g._, Ábalos _et al._, 2003; Albert _et al._, 2012). On the W side of the complex, the  *Carreiro* shear zone (Azcárraga et al., 2002) which includes mylonitic ultramafics is ascribed to this deformation episode. This interpretation has mainly been based on the tectonothermal evolution of the eclogite-facies *Banded* gneiss (**Fig_exhumation-stages**) and cross-correlations with structures in the Órdenes Complex (Martínez Catalán _et al._, 2002).
 
 <img src="cabo-ortegal/fieldguide_figures/exhumation-stages.png"
 style="max-width: 75%; max-height: 1000px; height: auto;"/>
 
 **Fig_exhumation-stages**. Different stages of exhumation of the HP-HT units interpreted from the tectonothermal evolution of the eclogite-facies gneisses (Albert _et al._, 2012): **a.** development of a regional mylonitic foliation; **b.** syn-convergence extensional detachments and **c.** recumbent folds and thrusts; **d.** idealized cross section of the Cabo Ortegal Complex. Note that important inconstencies exist between this exhumation model and the P-T-t paths shown above (**Fig_P-T-t-paths**). These reflect the ongoing debate and contrasting views of different groups on the tectothermal evolution of the complex. Among them, the record of syn-convergence extension oriented W-E as depicted in **b** relates to one of the remaining issues in the evolution of the Variscan orogen. Another example is the inferrence of folding during exhumation under amphibolite facies (**c**), which contrasts with the model of Abalos and co-workers upon which it occurs at HP (see **Section 5.2**).
 
-> NOTE Sergio, check if the caption note on syn-convergent extension is correct and perhaps add a reference?
+> NOTE: Caption to be made more concice, perhaps use instead the synthetic figure suggested by Sergio.
 
-> NOTE Marco, check if the caption note onf the folding stage is correct, keeping in mind that we have to keep it short.
+Alternatively, some authors regarded the granulites and eclogites as already belonging to a lower continental crust thinned during Ordovician extension, and later involved in a subduction (Galán and Marcos, 1997). Accordingly, most of the widespread deformation of the Upper Tectonic Unit occurred during the exhumation of this pre-existing sequence (Marcos _et al._, 2002). The dominant flattening of the HP-HT units was specifically interpreted as resulting from thinning of the subducting slab down to < 1 km-thick during slab breakoff (Llana-Fúnez _et al._, 2004).
+
+<img src="cabo-ortegal/fieldguide_figures/slab-breakoff.png"
+style="max-width: 100%; max-height: 1000px; height: auto;"/>
+
+**Fig_slab-breakoff**. D<sub>2</sub> stage (390–380 Ma) of exhumation according to Fernandez _et al._ (2016). **a.** Retrograde P–T-t paths for different subfacies of gneisses (migmatites, metasedimentary quartzo-feldspathic gneisses and mafic granulites) compared to current subduction zones. **b.** Illustration of the slab breakoff model of Llana-Fúnez _et al._, 2004), accounting for the eclogitization of the the top of the mafic granulites during a widespread thinning of the tectonic sequence.
 
 There is little record of D<sub>2</sub> (and subsequent episodes) in the ultramafic massifs, apart from the isoclinal folding of the *Uzal* peridotites and *Bacariza* granulites. However, several observations indicate that the peridotites were still relatively hot (Gayk & Kleinschrodt, 2000, Azcárraga _et al._, 2002, Ábalos _et al._, 2003). For instance, near the contact with the *Uzal* peridotites, the *Chimparra* gneisses provide extensive evidence of partial melting dated at 391 ± 8 Ma (Ordóñez Casado _et al._, 2001) and textures resembling those of high-grade contact metamorphism.
 
-Development of recumbent folds and of a basal thrust (D<sub>3</sub>) accompanied retrograde metamorphism under amphibolite-facies conditions (including amphibolitization of the hydrated peridotites and pyroxenites). D<sub>3</sub> recumbent folds are additionally affected by upright folds without axial planar foliation (D<sub>4</sub>) such as the large open synform observed in the *Bacariza* granulites and in the *Herbeira* massif (**Fig_map-herbeira**). This last episode, potentially coeval with development of the THF, occurred under greenschist-facies conditions (Ábalos _et al._, 2003).
+> NOTE: check the issue related to melting in the gneisses.
 
-> NOTE: Make this section consistent with the issue regarding the folding stage. Mention in the paragraph above the issues related to the folding and foliation development in the eclogites which is more mechanical understandable after Px breakdown in the presence of Plg.
+Development of recumbent folds and of a basal thrust (D<sub>3</sub>) accompanied retrograde metamorphism under amphibolite-facies conditions (including amphibolitization of the hydrated peridotites and pyroxenites). D<sub>3</sub> recumbent folds are additionally affected by upright folds without axial planar foliation (D<sub>4</sub>) such as the large open synform observed in the *Bacariza* granulites and in the *Herbeira* massif (Bastida _et al._, 1986; Marcos _et al._, 2002; **Fig_map-herbeira**). This last episode, potentially coeval with development of the THF, occurred under greenschist-facies conditions (Ábalos _et al._, 2003).
 
 Final emplacement of Upper Allochthon on the Iberian parautochthon occurred at _ca._ 360 Ma (Dallmeyer _et al._, 1997).
 
 ## 6. Excursion stops
 
 ### Day 1: Herbeira massif (September 30<sup>th</sup>, full day)
+
+> NOTE: Add pyroxenite CPO to corresponding stops?
 
 This first day focusses on the *Herbeira* massif, which is the largest and most lithologically heterogeneous ultramafic massif of the Cabo Ortegal Complex (**Fig_map-herbeira**). It is split into three parts:
 
@@ -615,8 +621,6 @@ Type-1 pyroxenites are likely to represent an early generation of pyroxenite in 
 style="max-width: 75%; max-height: 1000px; height: auto;"/>
 
 **Fig_layered-clinopyroxenite-sample**. Example of type-1 pyroxenite sample interlayered with dunite ([Tilhac, 2017](https://doi.org/10.25949/22281616.v1)). Note the Ol-rich streak preserved within the thickest pyroxenite layer.
-
-> NOTE: Add outline of the Ol-rich streak.
 
 In Cabo Ortegal, these pyroxenites are specifically interpreted as products of partial replacement of peridotites upon interaction with a Si-undersaturated melt inferred to be a ultra-calcic picrite. This interpretation is consistent with their high Cpx/Opx ratios which point to crystallization along a Cpx–Ol cotectic line. The incomplete remplacement reaction is indicated by the preservation of dunite lenses (**Fig_layered-clinopyroxenite-sample**), suggesting that melt was the limiting reactant. Relatively low melt/rock ratios are supported by the lowest Amp contents among the pyroxenites (6-14 %) as well as LILE and LREE enrichment limited to spoon-shaped patterns with flat heavy REE (HREE) (**Fig_ree-all-types**). Yet, the occurrence of Ol-free type-1 pyroxenites (including websterites) suggests that complete consumption of Ol was locally achieved following a peritectic reaction Fo + Si-rich melt = En, indicating pressures < 1.2 GPa (_e.g._, Kelemen & Ghiorso, 1986). 
 
@@ -705,7 +709,7 @@ style="max-width: 100%; max-height: 1000px; height: auto;"/>
 
 **Fig_map-Monterrubio-Perez**. Map of the chromitite-rich part of the upper dunite, where dunite alternates with diffuse bands of wehrlite. The edge of the *Herbeira* cliffs and the corresponding part of the itinerary and stops are shown for reference. The top of cross section 3 from Girardeau _et al._, (1989) is also shown. Adapted and translated from [Monterrubio Pérez (1991)](https://docta.ucm.es/entities/publication/fda0fa77-a464-4c62-a271-a50d4da99ba3).
 
-> NOTE: Update Fig. X
+> NOTE: This figure will need to have the Fig. X updated to the correpsonding number for Fig_isoclinal-pyroxenite.
 
 ***Outcrop 1.4A***
 
@@ -828,7 +832,14 @@ style="max-width: 100%; max-height: 1000px; height: auto;"/>
 
 ***Outcrop 1.7A***
 
-The first outcrop of this stop corresponds to the Grt-Chl-rich veins (**Fig_THF-features_e-f**). 
+The first outcrop of this stop corresponds to the Grt-Chl-rich veins (**Fig_THF-features_e-f**) which occur in deformed Chl-Amp bearing peridotites (**Fig_ag-type-cpo**).
+
+<img src="cabo-ortegal/fieldguide_figures/ag-type-cpo.png"
+style="max-width: 100%; max-height: 1000px; height: auto;"/>
+
+**Fig_ag-type-cpo**. AG-type CPO pattern measured in a harzburgite sample collected near **Outcrop 1.7A**. This type is typically observed in Chl-Amp bearing peridotites (see **Fig_cpo-herbeira**). Unpublished data from the OUTCROP project (M.A. Lopez-Sanchez; [SV-PA-21-AYUD/2021/57163](https://marcoalopez.github.io/OUTCROPproject/)).
+
+NOTE Marco: I put your data here but we can remove it if you prefer.
 
 ***Outcrop 1.7B***
 
@@ -869,8 +880,6 @@ This half day aims to cover most of the lithological diversity of the mafic HP-H
 - Lunch near the eclogite-granulite contact after a 2-km walk from the last mirador to the *Pico Gargacido-Monte Faroleiro* area.
 - In the early afternoon, group picture at the most scenic lookout of the Cabo Ortegal lighthouse on eclogite outcrops.
 
-> NOTE Marco: check if this intro is fine. I have tried to make the guide valid even beyond this excursion by not using any "we will" etc. I have thus restricted the description of the excursion outline to a brief introduction for each day.
-
 <img src="cabo-ortegal/fieldguide_figures/hp-ht-units-stops.png"
 style="max-width:75%; max-height: 1000px; height: auto;"/>
 
@@ -889,9 +898,7 @@ style="max-width: 100%; max-height: 1000px; height: auto;"/>
 
 Note that the term “pyrigarnites” was coined here by [Vogel (1967)](https://repository.naturalis.nl/pub/505641). Due to their resemblance to eclogites and the lack of Plg, the pyrigarnites have also been referred to as eclogites _sensu lato_ in the Cabo Ortegal literature (_e.g._, Galán and Marcos, 2000), to distinguish them from the main *Concepenido* eclogites, which are the aim of **Stops 2.4** and **2.5**. Pyrigarnites are sometimes referred to as Grt clinopyroxenites or more specifically low-Mg Grt clinopyroxenites. More recently, they have been classified as "arclogites", a term that also encompasses pyribolites (Px-Amp), Gry pyroxenites, and others rocks typically formed in arc-root settings (see [Ducea _et al._, 2021](https://doi.org/10.1016/j.earscirev.2020.103375)).
 
-The Si-poor Fe-Ti-rich rocks exhibit a strong planolinear texture (LS tectonites, **Fig. 6.2.1**). Here, the pyrigranites show a penetrative foliation with no development of structures such as transposed foliations or lineations, folds or boudins. However, lenses and boudins of pyrigarnites are commonly found embedded in the Opx-free garnet granulites (see examples in **Section 4**). These rocks show ample evidence of plastic deformation (dislocation creep), including microstructures developped within grains (**REF***) and strong preferential crystallographic orientations in the main minerals (**Fig. 6.2.2**). Spectacular examples of trondhjemitic veins cutting the tectonic foliation are also observed in the pyrigarnites, although not in this outcrop (**Fig. 4.X**).
-
-> NOTE Marco: Add missing REF.
+The Si-poor Fe-Ti-rich rocks exhibit a strong planolinear texture (LS tectonites, **Fig. 6.2.1**). Here, the pyrigranites show a penetrative foliation with no development of structures such as transposed foliations or lineations, folds or boudins. However, lenses and boudins of pyrigarnites are commonly found embedded in the Opx-free garnet granulites (see examples in **Section 4**). These rocks show ample evidence of plastic deformation (dislocation creep), including microstructures developped within grains (Puelles, 2004) and strong preferential crystallographic orientations in the main minerals (**Fig. 6.2.2**). Spectacular examples of trondhjemitic veins cutting the tectonic foliation are also observed in the pyrigarnites, although not in this outcrop (**Fig. 4.X**).
 
 <img src="cabo-ortegal/fieldguide_figures/day2-01.png"
 style="max-width: 100%; max-height: 1000px; height: auto;"/>
@@ -901,9 +908,9 @@ style="max-width: 100%; max-height: 1000px; height: auto;"/>
 <img src="cabo-ortegal/fieldguide_figures/day2-02.png"
 style="max-width: 100%; max-height: 1000px; height: auto;"/>
 
-**Fig 6.2.2**. Typical CPO (crystallographic preferred orientation) patterns of the main minerals in the Si-poor Fe-Ti-rich rocks. Omphacite shows CPO patterns ranging from LS to L types, with most c-axes oriented parallel to the lineation and b-axes and a-axes defining an imperfect girdle normal to the lineation, suggesting plain to prolate strain (_e.g._, [Keppler, 2018](https://doi.org/10.1016/j.jsg.2018.04.003)). Pargasite typically shows c-axis alignment parallel to the mineral lineation and a-axis alignment normal to the foliation (_i.e._ Type I of [Ko and Jung, 2015](https://doi.org/10.1038/ncomms7586)). Plagioclase exhibits variable CPO patterns ranging from weak to moderate in intensity. Garnet displays random CPO patterns (not shown here). Other less volumetrically significant minerals, such as Zo and epidote (Ep), also develop strong CPO. Upper hemisphere equal area projections, contours in multiples of a uniform distribution. Unpublished data from the OUTCROP project (M.A. Lopez-Sanchez; [SV-PA-21-AYUD/2021/57163](https://marcoalopez.github.io/OUTCROPproject/)).
+**Fig 6.2.2**. Typical CPO patterns of the main minerals in the Si-poor Fe-Ti-rich rocks. Omphacite shows CPO patterns ranging from LS to L types, with most c-axes oriented parallel to the lineation and b-axes and a-axes defining an imperfect girdle normal to the lineation, suggesting plain to prolate strain (_e.g._, [Keppler, 2018](https://doi.org/10.1016/j.jsg.2018.04.003)). Pargasite typically shows c-axis alignment parallel to the mineral lineation and a-axis alignment normal to the foliation (_i.e._ Type I of [Ko and Jung, 2015](https://doi.org/10.1038/ncomms7586)). Plagioclase exhibits variable CPO patterns ranging from weak to moderate in intensity. Garnet displays random CPO patterns (not shown here). Other less volumetrically significant minerals, such as Zo and epidote (Ep), also develop strong CPO. Upper hemisphere equal area projections, contours in multiples of a uniform distribution. Unpublished data from the OUTCROP project (M.A. Lopez-Sanchez; [SV-PA-21-AYUD/2021/57163](https://marcoalopez.github.io/OUTCROPproject/)).
 
-The literature on the Cabo Ortegal Complex provides limited inferences on the origin of these rocks. This aspect, as well as the nature of the contact between the *Uzal* massif and the Si-poor, Fe-Ti-rich rocks, is discussed on the field. Some authors (_e.g._, Ábalos _et al._, 2003; Puelles _et al._, 2009) consider that all the mappable HP-HT units of the Upper Tectonic Unit are in tectonic contacts. Others (_e.g._, Galán & Marcos, 1997) interpret these units as a continuous transition from mantle to lower crust, analogue to a sub-continental Moho based on the seimic properties of the lithological sequence ([Brown _et al._, 2009](https://doi.org/10.1016/j.epsl.2009.05.032);  [Llana-Fúnez & Brown, 2012](https://doi.org/10.1130/B30568.1)), as discussed in **Section 5.1**. 
+The literature on the Cabo Ortegal Complex provides limited inferences on the origin of these rocks. This aspect, as well as the nature of the contact between the *Uzal* massif and the Si-poor, Fe-Ti-rich rocks, is discussed on the field. Some authors (_e.g._, Ábalos _et al._, 2003; Puelles _et al._, 2009) consider that all the mappable HP-HT units of the Upper Tectonic Unit are in tectonic contacts. Others (_e.g._, Galán & Marcos, 1997) interpret these units as a continuous transition from mantle to lower crust, as discussed in **Section 5.1**.
 
 #### Stop 2.2: “Cruceiro do Cuturelo” lookout
 
