@@ -265,7 +265,7 @@ Following the work of [Monterrubio Pérez (1991)](https://docta.ucm.es/entities/
 <img src="cabo-ortegal/fieldguide_figures/pge-stratigraphy.png"
 style="max-width: 100%; max-height: 1000px; height: auto;"/>
 
-**Fig. 3A12**. **a.** Sketch depicting the stratigraphic interpretation of the W part of the *Herbeira* massif as a lower-crustal cumulate sequence based on increasing PGE enrichment and fractionation ([Moreno _et al._, 2001](https://doi.org/10.1144/jgs.158.4.601)). Representative PGE distributions (chondrite-normalized) are shown along with the highest concentration obtained at each location. **b.** Map showing the corresponding chromitite sample locations; note the location of the suggested Trans-Herbeira Fault (THF; see **Stop 1.7**). Location 2 corresponds to chromitite-bearing dunite pods in harzburgite ([Moreno _et al._, 2001](https://doi.org/10.1144/jgs.158.4.601)).
+**Fig. 3A12 _(extended online version only)_**. **a.** Sketch depicting the stratigraphic interpretation of the W part of the *Herbeira* massif as a lower-crustal cumulate sequence based on increasing PGE enrichment and fractionation ([Moreno _et al._, 2001](https://doi.org/10.1144/jgs.158.4.601)). Representative PGE distributions (chondrite-normalized) are shown along with the highest concentration obtained at each location. **b.** Map showing the corresponding chromitite sample locations; note the location of the suggested Trans-Herbeira Fault (THF; see **Stop 1.7**). Location 2 corresponds to chromitite-bearing dunite pods in harzburgite ([Moreno _et al._, 2001](https://doi.org/10.1144/jgs.158.4.601)).
 
 This arc-related interpretation provides a better explanation to the residual character of the harzburgites which was confirmed by [Santos _et al._ (2002)](https://doi.org/10.1093/petrology/43.1.17) based on mantle-array-like Ol chemistry (_i.e._ ~ 0.4 % NiO, Fo90). These authors also identified a fractional crystallization trend of decreasing NiO and Fo in Ol between the pyroxenites and dunites (see **Fig. 3A13**). Overall, they considered the lithological heterogeneity of the *Herbeira* massif as derived from a mantle wedge modified by slab-derived fluids or melts.
 
@@ -274,7 +274,7 @@ In this context, the subordinate Grt-rich mafic rocks, relatively Al- and Ti-ric
 <img src="cabo-ortegal/fieldguide_figures/mineral-chemistry-olivine.png"
 style="max-width: 75%; max-height: 1000px; height: auto;"/>
 
-**Fig. 3A13**. Covariation diagram showing a joint decrease in NiO and Fo contents in Ol from harzburgite through dunite to type-1 (and type-4) pyroxenites ([Tilhac _et al._, 2016](https://doi.org/10.1093/petrology/egw064)). 
+**Fig. 3A13 _(extended online version only)_**. Covariation diagram showing a joint decrease in NiO and Fo contents in Ol from harzburgite through dunite to type-1 (and type-4) pyroxenites ([Tilhac _et al._, 2016](https://doi.org/10.1093/petrology/egw064)). 
 
 #### Petrogenetic model of Cabo Ortegal pyroxenites
 
@@ -365,7 +365,7 @@ style="max-width: 100%; max-height: 1000px; height: auto;"/>
 
 Additionally, Cabo Ortegal granulitic formations contain Si-poor rocks Fe-Ti-rich rocks primarily composed of Cpx, Grt, and pargasitic Amp in variable proportions (**Figs. 2.3** & **4.2**). In the *Bacariza* formation, these Fe-Ti-rich rocks form a continuous layer along the contact with the *Uzal* peridotite massif to the W and the Opx-free granulites to the E (**Fig. 2.3**). In *Monte Agudo*, they are enclosed in Opx-free, Amp-rich granulites and bound by a tectonic contact to the S, leaving their overlying unit unobserved. These Si-poor Fe-Ti-rich rocks also occur in all three formations as elongated lenses parallel to the tectonic foliation embedded in the granulitic matrix (see **Fig. 4.2c**).
 
-This excursion includes the **Bacariza granulites**, which are the best-preserved examples within the Cabo Ortegal Complex. Apart from some volumetrically minor and exotic types, such as leptynitic gneisses, calcite-rich granulites (Fig. 4.3e), and Mg-rich granulites ([Galán & Marcos, 2000](https://doi.org/10.1016/S0024-4937(00)00020-7); Puelles, 2004), the Bacariza granulites can be grouped into five primary types based on their silica content, ranging from ultramafic to acidic compositions:
+This excursion includes the **Bacariza* granulites, which are the best-preserved examples within the Cabo Ortegal Complex. Apart from some volumetrically minor and exotic types, such as leptynitic gneisses, calcite-rich granulites (Fig. 4.3e), and Mg-rich granulites ([Galán & Marcos, 2000](https://doi.org/10.1016/S0024-4937(00)00020-7); Puelles, 2004), the Bacariza granulites can be grouped into five primary types based on their silica content, ranging from ultramafic to acidic compositions:
 
 - **Si-poor (ultramafic to mafic) Fe-Ti-rich rocks**. These coarse- to medium-grained rocks are bi- or tri-mineralic, consisting primarily of Grt-Cpx-Prg, with Pl+Qtz content < 5 %. They range from dominant pyrigarnites ([Vogel, 1967](https://repository.naturalis.nl/pub/505641)), composed mainly of Cpx-Grt, to pyribolites (Cpx-Amp) or horblendites (Amp) with all grades in between (**Fig. 4.2a**).
 
@@ -400,7 +400,7 @@ U-Pb geochronology (zircon, titanite, rutile) yields two distinct age clusters. 
 
 The Cabo Ortegal eclogites form a continuous band approximately 20-km long, known as the *Concepenido* formation, which is among the longest eclogite outcrops in the world (Ábalos, 1997). The formation thickness vary from 100 to 700 m. It is sandwiched between Opx-free Grt granulites to the W and HP paragneises to the E, with which they are partly associated (**Fig. 4A2**).
 
-><img src="cabo-ortegal/fieldguide_figures/map-eclogites.png"
+<img src="cabo-ortegal/fieldguide_figures/map-eclogites.png"
 style="max-width: 100%; max-height: 1000px; height: auto;"/>
 
 **Fig. 4A2 _(extended online version only)_**. Map of the Upper Tectonic unit of the Cabo Ortegal Complex showing the location of the *Concepenido* eclogites. Note the Ky-bearing eclogites occuring within the main eclogite body. Corresponding excursion stops are also shown.
