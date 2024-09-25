@@ -546,7 +546,7 @@ style="max-width: 100%; max-height: 1000px; height: auto;"/>
 
 The *Herbeira* massif of Cabo Ortegal Complex could thus represent a unique example of delaminated arc root, potentially including the deep lithospheric portion of the sub-arc mantle. The modalities and timing of this hypothesis and its consequences for the geodynamic reconstruction of NW Iberia (_e.g_, **Fig. 5.2**) are still to be explored. In particular, it remains unclear whether D<sub>HT</sub> records solely asthenospheric mantle wedge conditions during delamination and/or an earlier deformation history.
 
-### 5.3 Exhumation an emplacement
+### 5.3 Exhumation and emplacement
 
 Fast exhumation seems to have rapidly followed the HP event (~1 GPa in < 10 Ma; Albert _et al._, 2012). There seems to be an overall agreement on the fact that the different HP-HT units formed a unique assemblage by _ca._ 375 Ma (Marcos _et al._, 2002; Ábalos _et al._, 2003; Albert _et al._, 2012). Their final emplacement on the Iberian parautochthon occurred at _ca._ 360 Ma (Dallmeyer _et al._, 1997).
 
