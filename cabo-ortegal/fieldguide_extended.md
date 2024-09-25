@@ -24,7 +24,7 @@ by **Romain Tilhac**<sup>1</sup>, **Marco A. Lopez-Sanchez**<sup>2</sup>, **Serg
 This is the extended online version (with additional discussion and illustrations) of the field guide that has been edited for the pre-conference excursion of the [7<sup>th</sup> Orogenic Lherzolite Meeting](https://lherzolite2024.github.io), held in Oviedo, Asturias, from 30 September to 4 October 2024.
 
 This textbook can be cited in APA citation style as follows:
-*Tilhac, R., Lopez-Sanchez, M. A., Llana-Fúnez, S. & Padrón-Navarta, J. A. (2024). Field guide to the mantle section of > the Cabo Ortegal Complex. Available from https://lherzolite2024.github.io/fieldguide/.*
+*Tilhac, R., Lopez-Sanchez, M. A., Llana-Fúnez, S. & Padrón-Navarta, J. A. (2024). Field guide to the mantle section of the Cabo Ortegal Complex. Available from [https://lherzolite2024.github.io/fieldguide](https://lherzolite2024.github.io/fieldguide)*.
 
 ## 1. Introduction
 
