@@ -19,14 +19,12 @@ by **Romain Tilhac**<sup>1</sup>, **Marco A. Lopez-Sanchez**<sup>2</sup>, **Serg
 <sup>1</sup> Instituto Andaluz de Ciencias de la Tierra (IACT/CSIC);
 <sup>2</sup> Universidad de Oviedo
 
-This is the extended online version (with additional discussion and illustrations) of the field guide that has been edited for the pre-conference excursion of the [7<sup>th</sup> Orogenic Lherzolite Meeting](https://lherzolite2024.github.io), held in Oviedo, Asturias, from 30 September to 4 October 2024.
-
-It can be cited in APA citation style as follows:
-
-*Tilhac, R., Lopez-Sanchez, M. A., Llana-Fúnez, S. & Padrón-Navarta, J. A. (2024). Field guide to the mantle section of the Cabo Ortegal Complex. Available from https://lherzolite2024.github.io/fieldguide/.*
-
 *Version updated on 25/09/24*
 
+This is the extended online version (with additional discussion and illustrations) of the field guide that has been edited for the pre-conference excursion of the [7<sup>th</sup> Orogenic Lherzolite Meeting](https://lherzolite2024.github.io), held in Oviedo, Asturias, from 30 September to 4 October 2024.
+
+> It can be cited in APA citation style as follows:
+*Tilhac, R., Lopez-Sanchez, M. A., Llana-Fúnez, S. & Padrón-Navarta, J. A. (2024). Field guide to the mantle section of the Cabo Ortegal Complex. Available from https://lherzolite2024.github.io/fieldguide/.*
 
 ## 1. Introduction
 
@@ -36,7 +34,7 @@ The Cabo Ortegal Complex is known to the mantle community for its ultramafic mas
 - The second day covers the main petrological and structural features of other HP-HT units of the complex (granulites and eclogites).
 
 <img src="fieldguide_figures/layered-pyroxenites-herbeira.jpg"
-style="max-width: 100%; max-height: 1000px; height: auto;"/>
+style="max-width: 75%; max-height: 1000px; height: auto;"/>
 
 **Fig. 1.1**. Layered pyroxenites and dunites in the *Herbeira* massif of the Cabo Ortegal Complex ([Tilhac _et al._, 2016](https://doi.org/10.1093/petrology/egw064)).
 
