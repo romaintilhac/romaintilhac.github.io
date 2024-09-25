@@ -514,7 +514,7 @@ style="max-width: 100%; max-height: 1000px; height: auto;"/>
 
 Recent EBSD studies have shown that B-type and, to a lesser extent, AG-type patterns dominate in the *Limo* and *Herbeira* peridotites (García-Izquierdo, 2005; García-Izquierdo _et al._, 2011; Puelles _et al._, 2012; Henry _et al._, 2017; Henry, 2018, M.A. Lopez-Sanchez, unpublished). The B- and AG-type patterns are typical of low-T mantle deformation (~ 850 °C on average) with a dominant component of flattening strain (_e.g._, Bernard _et al._, 2019), and likely hydrated environments. Pyroxenites show predominantly weak B-type and odd patterns (Henry _et al._, 2017; Henry 2018). The inferred transition from A- to B- and AG-types suggest that the initial HT deformation in the peridotites has been largely overprinted (see **Fig. 5.7**).
 
-<img src="cabo-ortegal/fieldguide_figures/HT-deformation.png"
+<img src="cabo-ortegal/fieldguide_figures/ht-deformation.png"
 style="max-width: 100%; max-height: 1000px; height: auto;"/>
  
 **Fig. 5.4**. Representative examples of HT deformation features (Tilhac, 2017): typical boudinage of a pyroxenite layer in the *Herbeira* cliffs (**a**) and isoclinal fold outlined by a pyroxenite layer (**b**).
