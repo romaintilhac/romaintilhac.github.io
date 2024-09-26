@@ -14,12 +14,12 @@ style="max-width: 100%; max-height: 1000px; height: auto;"/>
 
 # Field guide to the mantle section of the Cabo Ortegal Complex
 
-by **Romain Tilhac**<sup>1</sup>, **Marco A. Lopez-Sanchez**<sup>2</sup>, **Sergio Llana-Fúnez**<sup>2</sup>, **José Alberto Padrón-Navarta**<sup>1</sup>
+by [**Romain Tilhac**](https://romaintilhac.github.io/)<sup>1</sup>, [**Marco A. Lopez-Sanchez**](https://marcoalopez.github.io/)<sup>2</sup>, [**Sergio Llana-Fúnez**](https://geol00.geol.uniovi.es/~slf/web/eng/SLF_home.html)<sup>2</sup>, [**José Alberto Padrón-Navarta**](https://www.iact.ugr-csic.es/en/personal/perfil/jose-alberto-padron-navarta/)<sup>1</sup>
 
-<sup>1</sup> Instituto Andaluz de Ciencias de la Tierra (IACT/CSIC);
+<sup>1</sup> Instituto Andaluz de Ciencias de la Tierra (IACT/CSIC)
 <sup>2</sup> Universidad de Oviedo
 
-*Version updated on 25/09/24*
+*Updated on 26/09/24*
 
 This is the extended online version (with additional discussion and illustrations) of the field guide that has been edited for the pre-conference excursion of the [7<sup>th</sup> Orogenic Lherzolite Meeting](https://lherzolite2024.github.io), held in Oviedo, Asturias, from 30 September to 4 October 2024.
 
