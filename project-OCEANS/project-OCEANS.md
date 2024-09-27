@@ -6,7 +6,7 @@ permalink: /project-OCEANS
 
 ## Modelling arc recycling in the oceanic mantle using radiogenic isotope systems (OCEANS)
 
-> [!IMPORTANT] **Project funded by the Spanish Ministry of Science and Innovation’s Program *Proyectos de Generación de Conocimiento* 2021**
+**Project funded by the Spanish Ministry of Science and Innovation’s Program *Proyectos de Generación de Conocimiento* 2021**
 
 The presence on Earth of continental crust and active plate tectonics are unique features in the Solar System. However, the origin of the continents remains highly debated, hinging on the contribution of arc magmatism to continental growth in subduction zones. This contribution requires the removal of dense lithospheric cumulates of ultramafic pyroxenites, also known as delamination. Despite its importance for continental growth models and the thermo-chemical evolution of the Earth, the impact of such introduction of pyroxenitic heterogeneities in the convective mantle has not been considered. The heterogeneity of the mantle is instead mostly regarded as the result of oceanic subduction. In fact, while the mantle sources of oceanic basalts are known to be chemically and isotopically heterogeneous, the nature and origin of these heterogeneities and the role of arc delamination are unknown. Yet, recycling of arc pyroxenites most likely have dramatic consequences because of their peculiar physico-chemical characteristics, particularly for the isotopic compositions of the basaltic lavas produced in mid-ocean ridges. Furthermore, the presence of arc-derived material in the oceanic mantle is increasingly suspected and recycled arc rocks have recently been discovered in the mid-Atlantic ridge.
 
