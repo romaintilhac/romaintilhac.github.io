@@ -21,12 +21,12 @@ Hadrien's thesis *Mantle pyroxenites: deformation and seismic properties* focuse
 
 Together, these works have contributed to understanding of the:
 
-- The petrogenesis of pyroxenites in the sub-arc mantle;
-- The overprint of subduction-related metasomatism and metamorphism;
-- The variability of source and timing of pyroxenite formation;
-- The formation of the continental crust and the recycling of elements within the Earth.
-- The deformation of pyroxenites in layered mantle domains;
-- The seismic properties of pyroxenite-rich mantle and associated tectonic and geodynamic processes.
+- Petrogenesis of pyroxenites in the sub-arc mantle;
+- Overprint of subduction-related metasomatism and metamorphism;
+- Variability of source and timing of pyroxenite formation;
+- Formation of the continental crust and the recycling of elements within the Earth.
+- Deformation of pyroxenites in layered mantle domains;
+- Seismic properties of pyroxenite-rich mantle;
 
 ### Links to articles
 
