@@ -39,7 +39,9 @@ All available on [Google Scholar](https://scholar.google.com/citations?user=CwjY
 
 11.	Lu, J., **Tilhac, R.**, Griffin, W.L., Zhen, J.P., Xiong, Q., Oliveira, B., O’Reilly, S.Y. 2020. Lithospheric memory of subduction in mantle pyroxenite xenoliths from rift-related basalts. *Earth and Planetary Science Letters*, **544**, 116365. [DOI](https://doi.org/10.1016/j.epsl.2020.116365)
 
-10.	**Tilhac, R.**, Oliveira, B., Alard, O., Griffin, W.L., O’Reilly, S.Y., Schaefer, B.F., Alard, O., Ceuleneer, G., Afonso, J.C., Grégoire, M. 2020. Reworking of old continental lithosphere: Unradiogenic Os and decoupled Hf-Nd isotopes in sub-arc mantle pyroxenites. *Lithos*, **354-355**, 105346. [DOI](https://doi.org/10.1016/j.lithos.2019.105346)
+10.	**Tilhac, R.**, Oliveira, B., Alard, O., Griffin, W.L., O’Reilly, S.Y., Schaefer, B.F., Alard, O., Ceuleneer, G., Afonso, J.C., Grégoire, M. 2020. Reworking of old continental lithosphere: Unradiogenic Os and decoupled Hf-Nd isotopes in sub-arc mantle pyroxenites. *Lithos*, **354-355**, 105346.
+[DOI](https://doi.org/10.1016/j.lithos.2019.105346)
+[Link to the PDF]({{ site.github.url }}/articles/Tilhac_et_al._2020.pdf)
 
 9.	Zibra, I., Lu, Y., Clos, F., Weinberg, R.F., Peternell, M., Wingate, M.T.D., Prause, M., Schiller, M., **Tilhac, R.** 2020. Regional-scale polydiapirism predating the Neoarchean Yilgarn Orogeny. *Tectonophysics*, **779**, 228375. [DOI](https://doi.org/10.1016/j.tecto.2020.228375)
 
@@ -55,13 +57,20 @@ All available on [Google Scholar](https://scholar.google.com/citations?user=CwjY
 
 ### 2017
 
-5.	**Tilhac, R.**, Grégoire, M., O’Reilly, S.Y., Griffin, W.L., Henry, H., Ceuleneer, G. 2017. Source and timing of pyroxenite formation in the sub-arc mantle: Casestudy of the Cabo Ortegal Complex, Spain. *Earth and Planetary Science Letters*, **474**, 490-502. [DOI](https://doi.org/10.1016/j.epsl.2017.07.017)
+5.	**Tilhac, R.**, Grégoire, M., O’Reilly, S.Y., Griffin, W.L., Henry, H., Ceuleneer, G. 2017. Source and timing of pyroxenite formation in the sub-arc mantle: Casestudy of the Cabo Ortegal Complex, Spain. *Earth and Planetary Science Letters*, **474**, 490-502.
+[DOI](https://doi.org/10.1016/j.epsl.2017.07.017)
+[Link to the PDF]({{ site.github.url }}/articles/Tilhac_et_al._2017.pdf)
 
-4.	Henry, H., **Tilhac, R.**, Griffin, W.L., O’Reilly, S.Y., Satsukawa, T., Kaczmarek, M.-A., Grégoire, M., Ceuleneer, G. 2017. Deformation of mantle pyroxenites provides clues to geodynamic processes in subduction zones: Case study of the Cabo Ortegal Complex, Spain. *Earth and Planetary Science Letters*, **472**, 174-185. [DOI](https://doi.org/10.1016/j.epsl.2017.05.028)
+4.	Henry, H., **Tilhac, R.**, Griffin, W.L., O’Reilly, S.Y., Satsukawa, T., Kaczmarek, M.-A., Grégoire, M., Ceuleneer, G. 2017. Deformation of mantle pyroxenites provides clues to geodynamic processes in subduction zones: Case study of the Cabo Ortegal Complex, Spain. *Earth and Planetary Science Letters*, **472**, 174-185.
+[DOI](https://doi.org/10.1016/j.epsl.2017.05.028)
+[Link to the PDF]({{ site.github.url }}/articles/Henry_et_al._2017.pdf)
+
 
 ### 2016
 
-3.	**Tilhac, R.**, Ceuleneer, G., Griffin, W.L., O’Reilly, S.Y., Pearson, N.J., Benoit, M., Henry, H., Girardeau, J., Grégoire, M. 2016. Primitive arc magmatism and delamination: petrology and geochemistry of pyroxenites from the Cabo Ortegal Complex, Spain. *Journal of Petrology*, **57**, 1921-1954. [DOI](https://doi.org/10.1093/petrology/egw064)
+3.	**Tilhac, R.**, Ceuleneer, G., Griffin, W.L., O’Reilly, S.Y., Pearson, N.J., Benoit, M., Henry, H., Girardeau, J., Grégoire, M. 2016. Primitive arc magmatism and delamination: petrology and geochemistry of pyroxenites from the Cabo Ortegal Complex, Spain. *Journal of Petrology*, **57**, 1921-1954.
+[DOI](https://doi.org/10.1093/petrology/egw064)
+[Link to the PDF]({{ site.github.url }}/articles/Tilhac_et_al._2016.pdf)
 
 ### 2014
 
