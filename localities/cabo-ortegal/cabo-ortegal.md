@@ -4,16 +4,17 @@ title: Cabo Ortegal Complex
 permalink: /cabo-ortegal
 ---
 
+<img
+  src="{{ site.github.url }}/assets/img/pyroxenites.jpg"
+  style="width: 600px; height: 200px; object-fit: cover;"
+/>
+
 The Cabo Ortegal Complex is known to the mantle community for its ultramafic massifs that preserve some of the best outcrops of pyroxenite among orogenic massifs worldwide. The *Herbeira* massif of the Cabo Ortegal Complex preserves abundant primitive pyroxenites that intruded into mantle peridotites. It is a unique example of a delaminated arc root exhumed through a subduction zone. 
 
 ## PhD theses at Macquarie University
 
 This locality was the case study of my PhD project (2013-2017), and of the related PhD project of H. Henry (2014-2018), both as co-tutelle between Macquarie University (Sydney, Australia) and Université Paul Sabatier (Toulouse, France) funded by [international Macquarie Research Excellence Scholarships (iMQRES)](https://www.mq.edu.au/research/phd-and-research-degrees/how-to-apply/scholarship-opportunities/scholarship-search/international-scholarship-round).
 
- <img src="{{ site.github.url }}/assets/img/pyroxenites.jpg"
- style="max-width: 50%; max-height: 750px; height: auto;"/>
-
-*Dunite-pyroxenite layering in the Herbeira cliffs of the Cabo Ortegal Complex.*
 
 My thesis *Petrology and geochemistry of pyroxenites from the Cabo Ortegal Complex, Spain* ([Tilhac, 2017](https://doi.org/10.25949/22281616.v1)) provided a systematic classification of the variety of pyroxenites in Cabo Ortegal and showed that they are characterized by high CaO/Al<sub>2</sub>O<sub>3</sub> and LILE/HFSE, and crystallized from Ca-rich picritic/boninitic parental melts ([Tilhac _et al._, 2016](https://doi.org/10.1093/petrology/egw064)). Their REE and radiogenic-isotope compositions reflect the role of melt-peridotite interaction and slab-derived metasomatic fluids in the evolution of primary arc magmas at mantle depths ([Tilhac _et al._, 2017](https://doi.org/10.25949/22281616.v1), [2020](https://doi.org/10.1016/j.lithos.2019.105346)).
 
