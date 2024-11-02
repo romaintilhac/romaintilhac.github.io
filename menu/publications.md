@@ -9,51 +9,81 @@ All available on [Google Scholar](https://scholar.google.com/citations?user=CwjY
 
 ### 2024
 
-21. Schettino, E., González-Pérez, I., Marchesi, C., González-Jiménez, J.M., Grégoire, M., **Tilhac, R.**, Gervilla, F., Blanco-Quintero, I.F., Corgne, A., Schilling, M.E. Slab melting boosts the mantle wedge contribution to Li-rich magmas. 2024. *Scientific Reports*, **14**, 15168. [DOI](https://doi.org/10.1038/s41598-024-66174-y)
+21. Schettino, E., González-Pérez, I., Marchesi, C., González-Jiménez, J.M., Grégoire, M., **Tilhac, R.**, Gervilla, F., Blanco-Quintero, I.F., Corgne, A., Schilling, M.E. Slab melting boosts the mantle wedge contribution to Li-rich magmas. 2024. *Scientific Reports*, **14**, 15168.
+[DOI](https://doi.org/10.1038/s41598-024-66174-y)
+[Link to the PDF]({{ site.github.url }}/articles/Schettino_et_al._2024)
 
 ### 2023
 
-20.  **Tilhac, R.**, Hidas, K., Oliveira, B. Garrido, C.J. Evidence of ghost plagioclase signature induced by kinetic fractionation of europium in the Earth’s mantle. 2023. *Nature Communications*, **14**, 1099. [DOI](https://doi.org/10.1038/s41467-023-36753-0)
+20.  **Tilhac, R.**, Hidas, K., Oliveira, B. Garrido, C.J. Evidence of ghost plagioclase signature induced by kinetic fractionation of europium in the Earth’s mantle. 2023. *Nature Communications*, **14**, 1099.
+[DOI](https://doi.org/10.1038/s41467-023-36753-0)
+[Link to the PDF]({{ site.github.url }}/articles/Tilhac_et_al._2023)
 
 ### 2022
 
-19.	**Tilhac, R.**, Begg, G.C., O’Reilly, S.Y., Griffin W.L. A global review of Hf-Nd isotopes: new perspectives on the chicken-and-egg problem of ancient mantle signatures. 2022. *Chemical Geology*, **609**, 121039. [DOI](https://doi.org/10.1016/j.chemgeo.2022.121039)
+19.	**Tilhac, R.**, Begg, G.C., O’Reilly, S.Y., Griffin W.L. A global review of Hf-Nd isotopes: new perspectives on the chicken-and-egg problem of ancient mantle signatures. 2022. *Chemical Geology*, **609**, 121039.
+[DOI](https://doi.org/10.1016/j.chemgeo.2022.121039)
+[Link to the PDF]({{ site.github.url }}/articles/Tilhac_et_al._2022)
 
-18.	Ceuleneer, G., Rospabé, M., Chatelin, T., Henry, H., **Tilhac, R.**, Kaczmarek, M.-A., le Sueur, E. 2022. A Rosetta stone linking melt trajectories in the mantle to the stress field and lithological heterogeneities (Trinity ophiolite, California). *Geology*, **50 (10)**, 1192–1196. [DOI](https://doi.org/10.1130/G50083.1)
+18.	Ceuleneer, G., Rospabé, M., Chatelin, T., Henry, H., **Tilhac, R.**, Kaczmarek, M.-A., le Sueur, E. 2022. A Rosetta stone linking melt trajectories in the mantle to the stress field and lithological heterogeneities (Trinity ophiolite, California). *Geology*, **50 (10)**, 1192–1196.
+[DOI](https://doi.org/10.1130/G50083.1)
+[Link to the PDF]({{ site.github.url }}/articles/Ceuleneer_et_al._2022)
 
-17.	Jonnalagadda, M.K., Benoit, M., Harshe, S., **Tilhac, R.**, Duraiswami, A., Grégoire, M., Karmalkar, N.R. 2022. Multi-stage evolution of the Tethyan lithosphere as recorded in the Spontang Ophiolite, South Ladakh ophiolites (NW Himalaya, India). *Geoscience Frontiers*, **13**, 101297. [DOI](https://doi.org/10.1016/j.gsf.2021.101297)
+17.	Jonnalagadda, M.K., Benoit, M., Harshe, S., **Tilhac, R.**, Duraiswami, A., Grégoire, M., Karmalkar, N.R. 2022. Multi-stage evolution of the Tethyan lithosphere as recorded in the Spontang Ophiolite, South Ladakh ophiolites (NW Himalaya, India). *Geoscience Frontiers*, **13**, 101297.
+[DOI](https://doi.org/10.1016/j.gsf.2021.101297)
+[Link to the PDF]({{ site.github.url }}/articles/Jonnalagadda_et_al._2022)
 
 ### 2021
 
-16.	Borisova, A.Y., **Tilhac R. 2021**. Derivation of Hawaiian rejuvenated magmas from deep carbonated mantle sources: A review of experimental and natural constraints. *Earth-Science Reviews*, **222**, 103819. [DOI](https://doi.org/10.1016/j.earscirev.2021.103819)
+16.	Borisova, A.Y., **Tilhac R. 2021**. Derivation of Hawaiian rejuvenated magmas from deep carbonated mantle sources: A review of experimental and natural constraints. *Earth-Science Reviews*, **222**, 103819.
+[DOI](https://doi.org/10.1016/j.earscirev.2021.103819)
+[Link to the PDF]({{ site.github.url }}/articles/Borisova_&_Tilhac_2021)
 
-15.	**Tilhac, R.**, Morishita, T., Hanaue, N., Tamura, A., Guotana, J.M. 2021. Systematic LREE enrichment of mantle harzburgites: The petrogenesis of San Carlos xenoliths revisited. *Lithos*, **396-397**, 106195. [DOI](https://doi.org/10.1016/j.lithos.2021.106195)
+15.	**Tilhac, R.**, Morishita, T., Hanaue, N., Tamura, A., Guotana, J.M. 2021. Systematic LREE enrichment of mantle harzburgites: The petrogenesis of San Carlos xenoliths revisited. *Lithos*, **396-397**, 106195.
+[DOI](https://doi.org/10.1016/j.lithos.2021.106195)
+[Link to the PDF]({{ site.github.url }}/articles/Tilhac_et_al._2021)
 
-14.	Henry, H., Kaczmarek, M.-A., Ceuleneer, G., **Tilhac, R.**, Griffin, W.L., O’Reilly, S.Y., Grégoire, M., Le Sueur, E. 2021. The microstructure of layered ultramafic cumulates: Case study of the Bear Creek intrusion, Trinity ophiolite, California, USA. *Lithos*, **388-389**, 106047. [DOI](https://doi.org/10.1016/j.lithos.2021.106047)
+14.	Henry, H., Kaczmarek, M.-A., Ceuleneer, G., **Tilhac, R.**, Griffin, W.L., O’Reilly, S.Y., Grégoire, M., Le Sueur, E. 2021. The microstructure of layered ultramafic cumulates: Case study of the Bear Creek intrusion, Trinity ophiolite, California, USA. *Lithos*, **388-389**, 106047.
+[DOI](https://doi.org/10.1016/j.lithos.2021.106047)
+[Link to the PDF]({{ site.github.url }}/articles/Henry_et_al._2021)
 
 ### 2020
 
-13.	Moghadam, H.S., Li, Q., Griffin, W.L., Stern R. J., Santos, J.F., Lucci, F., Beyarslan, M., Ghorbani, H., Ravankhah, A., **Tilhac, R.**, O’Reilly, S.Y. 2020. Prolonged magmatism and growth of the Iran-Anatolia Cadomian continental arc segment in Northern Gondwana, *Lithos*, **384-385**, 105940. [DOI](https://doi.org/10.1016/j.lithos.2020.105940)
+13.	Moghadam, H.S., Li, Q., Griffin, W.L., Stern R. J., Santos, J.F., Lucci, F., Beyarslan, M., Ghorbani, H., Ravankhah, A., **Tilhac, R.**, O’Reilly, S.Y. 2020. Prolonged magmatism and growth of the Iran-Anatolia Cadomian continental arc segment in Northern Gondwana, *Lithos*, **384-385**, 105940.
+[DOI](https://doi.org/10.1016/j.lithos.2020.105940)
+[Link to the PDF]({{ site.github.url }}/articles/Moghadam_et_al._2020)
 
-12.	Oliveira, B., Afonso, J.C., **Tilhac, R.** 2020. A disequilibrium reactive transport model for mantle magmatism. *Journal of Petrology*, **61 (9)**, egaa067. [DOI](https://doi.org/10.1093/petrology/egaa067)
+12.	Oliveira, B., Afonso, J.C., **Tilhac, R.** 2020. A disequilibrium reactive transport model for mantle magmatism. *Journal of Petrology*, **61 (9)**, egaa067.
+[DOI](https://doi.org/10.1093/petrology/egaa067)
+[Link to the PDF]({{ site.github.url }}/articles/Oliveira_et_al._2020)
 
-11.	Lu, J., **Tilhac, R.**, Griffin, W.L., Zhen, J.P., Xiong, Q., Oliveira, B., O’Reilly, S.Y. 2020. Lithospheric memory of subduction in mantle pyroxenite xenoliths from rift-related basalts. *Earth and Planetary Science Letters*, **544**, 116365. [DOI](https://doi.org/10.1016/j.epsl.2020.116365)
+11.	Lu, J., **Tilhac, R.**, Griffin, W.L., Zhen, J.P., Xiong, Q., Oliveira, B., O’Reilly, S.Y. 2020. Lithospheric memory of subduction in mantle pyroxenite xenoliths from rift-related basalts. *Earth and Planetary Science Letters*, **544**, 116365.
+[DOI](https://doi.org/10.1016/j.epsl.2020.116365)
+[Link to the PDF]({{ site.github.url }}/articles/Lu_et_al._2020)
 
 10.	**Tilhac, R.**, Oliveira, B., Alard, O., Griffin, W.L., O’Reilly, S.Y., Schaefer, B.F., Alard, O., Ceuleneer, G., Afonso, J.C., Grégoire, M. 2020. Reworking of old continental lithosphere: Unradiogenic Os and decoupled Hf-Nd isotopes in sub-arc mantle pyroxenites. *Lithos*, **354-355**, 105346.
 [DOI](https://doi.org/10.1016/j.lithos.2019.105346)
 [Link to the PDF]({{ site.github.url }}/articles/Tilhac_et_al._2020.pdf)
 
-9.	Zibra, I., Lu, Y., Clos, F., Weinberg, R.F., Peternell, M., Wingate, M.T.D., Prause, M., Schiller, M., **Tilhac, R.** 2020. Regional-scale polydiapirism predating the Neoarchean Yilgarn Orogeny. *Tectonophysics*, **779**, 228375. [DOI](https://doi.org/10.1016/j.tecto.2020.228375)
+9.	Zibra, I., Lu, Y., Clos, F., Weinberg, R.F., Peternell, M., Wingate, M.T.D., Prause, M., Schiller, M., **Tilhac, R.** 2020. Regional-scale polydiapirism predating the Neoarchean Yilgarn Orogeny. *Tectonophysics*, **779**, 228375.
+[DOI](https://doi.org/10.1016/j.tecto.2020.228375)
+[Link to the PDF]({{ site.github.url }}/articles/Zibra_et_al._2020)
 
 ### 2019
 
-8.	Perrin, C., **Tilhac, R.**, Prestimonaco. 2019. Optimizing subsampling strategies for U/Th dating and geochemical proxies in carbonate speleothems. *Sedimentary Geology*, **389**. [DOI](https://doi.org/10.1016/j.sedgeo.2019.06.002)
+8.	Perrin, C., **Tilhac, R.**, Prestimonaco. 2019. Optimizing subsampling strategies for U/Th dating and geochemical proxies in carbonate speleothems. *Sedimentary Geology*, **389**.
+[DOI](https://doi.org/10.1016/j.sedgeo.2019.06.002)
+[Link to the PDF]({{ site.github.url }}/articles/Perrin_et_al._2019)
 
-7.	Kazemi, Z., Ghasemi, H., **Tilhac, R.**, Griffin, W.L., Moghadam, H.S., O’Reilly, S.Y., Mousivand, F. 2019. Late Cretaceous subduction-related magmatism on the northern edge of Lut block, NE Iran. *J. Geological Society*, **176**, 530-552. [DOI](https://doi.org/10.1144/jgs2018-076)
+7.	Kazemi, Z., Ghasemi, H., **Tilhac, R.**, Griffin, W.L., Moghadam, H.S., O’Reilly, S.Y., Mousivand, F. 2019. Late Cretaceous subduction-related magmatism on the northern edge of Lut block, NE Iran. *J. Geological Society*, **176**, 530-552.
+[DOI](https://doi.org/10.1144/jgs2018-076)
+[Link to the PDF]({{ site.github.url }}/articles/Kazemi_et_al._2019)
 
 ### 2018
 
-6.	Lu, J., Griffin, W.L., **Tilhac, R.**, O’Reilly, S.Y., Xiong, X., Zheng, J. 2018. Garnet websterite xenoliths from Southeastern Australia: a link between deep lithospheric events and crustal tectonics. *Journal of Petrology*, **59**, egy049. [DOI](https://doi.org/10.1093/petrology/egy049)
+6.	Lu, J., Griffin, W.L., **Tilhac, R.**, O’Reilly, S.Y., Xiong, X., Zheng, J. 2018. Garnet websterite xenoliths from Southeastern Australia: a link between deep lithospheric events and crustal tectonics. *Journal of Petrology*, **59**, egy049. 
+[DOI](https://doi.org/10.1093/petrology/egy049)
+[Link to the PDF]({{ site.github.url }}/articles/Lu_et_al._2018)
 
 ### 2017
 
@@ -65,7 +95,6 @@ All available on [Google Scholar](https://scholar.google.com/citations?user=CwjY
 [DOI](https://doi.org/10.1016/j.epsl.2017.05.028)
 [Link to the PDF]({{ site.github.url }}/articles/Henry_et_al._2017.pdf)
 
-
 ### 2016
 
 3.	**Tilhac, R.**, Ceuleneer, G., Griffin, W.L., O’Reilly, S.Y., Pearson, N.J., Benoit, M., Henry, H., Girardeau, J., Grégoire, M. 2016. Primitive arc magmatism and delamination: petrology and geochemistry of pyroxenites from the Cabo Ortegal Complex, Spain. *Journal of Petrology*, **57**, 1921-1954.
@@ -74,11 +103,15 @@ All available on [Google Scholar](https://scholar.google.com/citations?user=CwjY
 
 ### 2014
 
-2.	Perrin, C., Prestimonaco, L., Servelle, G., **Tilhac, R.**, Maury, M., Cabrol, P. 2014. Aragonite-calcite speleothems: identifying original and diagenetic features. *Journal of Sedimentary Research*, **84**, 245-269. [DOI](https://doi.org/10.2110/jsr.2014.17)
+2.	Perrin, C., Prestimonaco, L., Servelle, G., **Tilhac, R.**, Maury, M., Cabrol, P. 2014. Aragonite-calcite speleothems: identifying original and diagenetic features. *Journal of Sedimentary Research*, **84**, 245-269.
+[DOI](https://doi.org/10.2110/jsr.2014.17)
+[Link to the PDF]({{ site.github.url }}/articles/Perrin_et_al._2014)
 
 ### 2013
 
-1.	**Tilhac, R.**, Guillaume, D., Odonne, F. 2013. Fluid circulation and deformational gradient in north-Pyrenean flyschs: example from the Saint-Jean-de-Luz basin (France). *Tectonophysics*, **608**, 832-846. [DOI](https://doi.org/10.1016/j.tecto.2013.07.035)
+1.	**Tilhac, R.**, Guillaume, D., Odonne, F. 2013. Fluid circulation and deformational gradient in north-Pyrenean flyschs: example from the Saint-Jean-de-Luz basin (France). *Tectonophysics*, **608**, 832-846.
+[DOI](https://doi.org/10.1016/j.tecto.2013.07.035)
+[Link to the PDF]({{ site.github.url }}/articles/Tilhac_et_al._2013)
 
 ## Conference abstracts
 
