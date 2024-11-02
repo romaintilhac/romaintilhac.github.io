@@ -54,13 +54,13 @@ The mantle section of the Cabo Ortegal Complex was also recently the object of t
 
 **Printed guide**
 
-[https://lherzolite2024.github.io/fieldguide/]({{ site.github.url }}/fieldguide/). 
+[https://lherzolite2024.github.io/fieldguide/](https://lherzolite2024.github.io/fieldguide/). 
 
 [https://romaintilhac.github.io/cabo-ortegal/fieldguide.pdf]({{ site.github.url }}/cabo-ortegal/fieldguide.pdf). 
 
 **Extended version**
 
-[https://lherzolite2024.github.io/fieldguide_extended/]({{ site.github.url }}/fieldguide_extended/)
+[https://lherzolite2024.github.io/fieldguide_extended/]([{{ site.github.url }}/fieldguide_extended/](https://lherzolite2024.github.io/fieldguide_extended/))
 
 [https://romaintilhac.github.io/cabo-ortegal/fieldguide_extended]({{ site.github.url }}/cabo-ortegal/fieldguide_extended)
 
