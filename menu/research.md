@@ -40,8 +40,3 @@ Geochemistry of subduction-related magmatics along the Paleo- and Neo-Tethys sut
 ### Sedimentary basins and carbonate diagenesis
   
 Textural identification of original and diagenetic features in carbonate speleothems and implications for their dating and use as paleo-environmental and paleo-climate proxies. Relationships between fluid circulation and deformation in sedimentary basins.
-
-<div class="image-container">
-  <img src="{{ site.github.url }}/assets/img/guethary.jpg">
-</div>
-*Recumbent fold in the Guéthary flysch.*
