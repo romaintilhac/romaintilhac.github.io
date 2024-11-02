@@ -49,21 +49,6 @@ Analytical applications and modelling of radiogenic isotope systems (mainly Hf-N
 
 ## Previous projects
 
-### Cabo Ortegal Complex pyroxenites
-
-This was my PhD research project, which aimed to contribute to the understanding of the:
-- petrogenesis of pyroxenites in the sub-arc mantle;
-- overprint of subduction-related metasomatism and metamorphism;
-- the variability of source and timing of pyroxenite formation;
-- deformation of pyroxenites in layered mantle domains;
-- seismic properties of pyroxenite-rich mantle via numerical modelling;
-- associated tectonic and geodynamic processes.
-
-<div class="image-container">
-  <img src="{{ site.github.url }}/assets/img/pyroxenites.jpg">
-</div>
-*Dunite-pyroxenite layering in the Herbeira cliffs of the Cabo Ortegal Complex.*
-
 ### Trinity ophiolite
 
 Characterization of melt-peridotite interaction features and mantle-crust relationships in the Trinity ophiolite, California.
