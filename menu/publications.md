@@ -7,6 +7,11 @@ All available on [Google Scholar](https://scholar.google.com/citations?user=CwjY
 
 ## Peer-reviewed articles
 
+### 2025
+
+22. Coltat, R., Debret, B., **Tilhac, R.**, Andreani, M., Patten, C. G. C., Godard, M., & Escartín, J. Multi-isotopic (Fe-Cu-Zn) constraints on the magmato-hydrothermal history during mantle exhumation at slow-spreading centers. 2025. *Geochimica et Cosmochimica Acta*, **388**, 48-60. [DOI](https://doi.org/10.1016/j.gca.2024.11.013)
+[Link to the PDF]({{ site.github.url }}/articles/Coltat_et_al._2025.pdf)
+
 ### 2024
 
 21. Schettino, E., González-Pérez, I., Marchesi, C., González-Jiménez, J.M., Grégoire, M., **Tilhac, R.**, Gervilla, F., Blanco-Quintero, I.F., Corgne, A., Schilling, M.E. Slab melting boosts the mantle wedge contribution to Li-rich magmas. 2024. *Scientific Reports*, **14**, 15168.
