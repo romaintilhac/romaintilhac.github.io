@@ -26,7 +26,7 @@ All available on [Google Scholar](https://scholar.google.com/citations?user=CwjY
 
 ### 2022
 
-19.	**Tilhac, R.**, Begg, G.C., O’Reilly, S.Y., Griffin W.L. A global review of Hf-Nd isotopes: new perspectives on the chicken-and-egg problem of ancient mantle signatures. 2022. *Chemical Geology*, **609**, 121039.
+19.	**Tilhac, R.**, Begg, G.C., O’Reilly, S.Y., Griffin W.L. A global review of Hf-Nd isotopes: new perspectives on the chicken-and-egg problem of ancient mantle signatures. 2022. *Chemical Geology*, **609**, 121039. ***Invited***
 [DOI](https://doi.org/10.1016/j.chemgeo.2022.121039)
 [Link to the PDF]({{ site.github.url }}/articles/Tilhac_et_al._2022.pdf)
 
@@ -58,7 +58,7 @@ All available on [Google Scholar](https://scholar.google.com/citations?user=CwjY
 [DOI](https://doi.org/10.1016/j.lithos.2020.105940)
 [Link to the PDF]({{ site.github.url }}/articles/Moghadam_et_al._2020.pdf)
 
-12.	Oliveira, B., Afonso, J.C., **Tilhac, R.** 2020. A disequilibrium reactive transport model for mantle magmatism. *Journal of Petrology*, **61 (9)**, egaa067.
+12.	Oliveira, B., Afonso, J.C., **Tilhac, R.** 2020. A disequilibrium reactive transport model for mantle magmatism. *Journal of Petrology*, **61 (9)**, egaa067. ***Editor's Choice***
 [DOI](https://doi.org/10.1093/petrology/egaa067)
 [Link to the PDF]({{ site.github.url }}/articles/Oliveira_et_al._2020.pdf)
 
@@ -118,27 +118,31 @@ All available on [Google Scholar](https://scholar.google.com/citations?user=CwjY
 [DOI](https://doi.org/10.1016/j.tecto.2013.07.035)
 [Link to the PDF]({{ site.github.url }}/articles/Tilhac_et_al._2013.pdf)
 
-## Conference abstracts
+## Conference abstracts & invited seminars
 
 ### 2024
 
-26. **Tilhac R.**, Garrido, C.J., König, S., Varas-Reus, M.I. 2024. Chocolate in the marble cake: the fate of eclogite and pyroxenite during mantle convection and melting. *European Geosciences Union (EGU) General Assembly*.
+28. **Tilhac R.** Le rôle de l’eau dans le magmatisme mantellique : modèles de transport réactif et perspectives de géochimie computationnelle. *Institut des Sciences de la Terre de Paris (ISTeP)*. ***Invited***
+
+27. **Tilhac R.**, Garrido, C.J., König, S., Varas-Reus, M.I. 2024. Chocolate in the marble cake: the fate of eclogite and pyroxenite during mantle convection and melting. *European Geosciences Union (EGU) General Assembly*.
 
 ### 2023
 
-25. **Tilhac, R.**, Garrido, C.J., Hidas, K., Oliveira, B. 2023. First natural evidence of kinetic Eu anomalies in the Earth’s mantle:implications for the interpretation of ghost plagioclase signatures in oceanic basalts. *Goldschmidt Conference*.
+26.  **Tilhac, R.**, Garrido, C.J., Hidas, K., Oliveira, B. 2023. First natural evidence of kinetic Eu anomalies in the Earth’s mantle:implications for the interpretation of ghost plagioclase signatures in oceanic basalts. *Goldschmidt Conference*.
 
-24. Coltat, R., Debret, B., **Tilhac, R.**, Andreani, M., Patten, P., Godard, M., Escartin, J. 2023. Fe, Cu and Zn isotopes: proxies to constrain the magmato-hydrothermal history at oceanic core complexes (Mid-Atlantic Ridge Kane area, MARK, 23°N, ODP Leg 153). *Goldschmidt Conference*.
+25.  Coltat, R., Debret, B., **Tilhac, R.**, Andreani, M., Patten, P., Godard, M., Escartin, J. 2023. Fe, Cu and Zn isotopes: proxies to constrain the magmato-hydrothermal history at oceanic core complexes (Mid-Atlantic Ridge Kane area, MARK, 23°N, ODP Leg 153). *Goldschmidt Conference*.
+
+24. **Tilhac, R.**. 2023. Pyroxenites: a key geochemical vector in the mantle. *Goethe University (Geosciences colloquium series)*. ***Invited***
 
 ### 2022
 
-23. **Tilhac, R.**, Begg, G.C., O’Reilly, S.Y., Griffin, W.L. 2022. A global review of Hf-Nd isotopes: new perspectives on the chicken-and-egg debate on ancient mantle signatures. *4th European Mantle Worshop (EMAW)*.
+23.  **Tilhac, R.**, Begg, G.C., O’Reilly, S.Y., Griffin, W.L. 2022. A global review of Hf-Nd isotopes: new perspectives on the chicken-and-egg debate on ancient mantle signatures. *4th European Mantle Worshop (EMAW)*.
 
 ### 2021
 
-22. **Tilhac, R.**, Oliveira, B. 2021. When the mantle hides its (magmatic) sources: disequilibrium, volatiles and other tricks affecting lithosphere composition. *International Symposium Deep Earth Exploration and Practices (DEEP)*.
+22. **Tilhac, R.**, Oliveira, B. 2021. When the mantle hides its (magmatic) sources: disequilibrium, volatiles and other tricks affecting lithosphere composition. *International Symposium Deep Earth Exploration and Practices (DEEP)*. ***Invited***
 
-21. **Tilhac, R.*** 2021. Modélisation des transferts élémentaires entre manteau et croûte. *Formation CNRS en Terre Interne FORSTERITE – « Le couple manteau-croûte : nature et transferts »*. 
+21. **Tilhac, R.*** 2021. Modélisation des transferts élémentaires entre manteau et croûte. *Formation CNRS en Terre Interne FORSTERITE – « Le couple manteau-croûte : nature et transferts »*.  ***Invited***
 
 20. **Tilhac, R.**, Morishita, T., Tamura, A., Guotana, J.M. 2021. Systematic enrichment of mantle harzburgites: new insights from San Carlos xenoliths. *Goldschmidt Conference*.
 
@@ -158,7 +162,7 @@ All available on [Google Scholar](https://scholar.google.com/citations?user=CwjY
 
 ### 2018
 
-14. **Tilhac, R.** 2018. TerraneChron®: case studies and applications for industry (and research). *Geoanalysis – 10th International Conference on the Analysis of Geological and Environmental Materials* – Workshop II: Application of LA-ICPMS/MC-ICPMS to exploration needs.
+14. **Tilhac, R.** 2018. TerraneChron®: case studies and applications for industry (and research). *Geoanalysis – 10th International Conference on the Analysis of Geological and Environmental Materials* – Workshop II: Application of LA-ICPMS/MC-ICPMS to exploration needs. ***Invited***
 
 13. Oliveira, B., Afonso, J.C., **Tilhac, R.** 2018. A Multiphase Multicomponent Reactive Transport Formalism for Disequilibrium Melt-Rock Processes and Geochemical Geodynamics. *American Geophysical Union (AGU) Fall Meeting*. 
 
