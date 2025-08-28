@@ -120,6 +120,12 @@ All available on [Google Scholar](https://scholar.google.com/citations?user=CwjY
 
 ## Conference abstracts & invited seminars
 
+### 2025
+
+30.  **Tilhac, R.**, Garbet, L., König, S., Garrido, C.J. 2025. First Lu-Hf isotope data from the ultramafic-mafic Jijal Complex, Kohistan arc (Pakistan). *5th Earth Mantle Worshop (EMAW)*.***Invited***
+
+29. Muñoz Alfaro, J., König, S., Marchesi, C., Richter, M., **Tilhac, R.**, Padrón-Navarta, J.A., López Sánchez-Vizcaíno, V., Garrido, C.J. 2025. Isótopos de Se evidencian deserpentinización modulada por la infiltración de fluidos reductores procedentes de sedimentos. Sociedad Española de Mineralogía.
+
 ### 2024
 
 28. **Tilhac R.** Le rôle de l’eau dans le magmatisme mantellique : modèles de transport réactif et perspectives de géochimie computationnelle. *Institut des Sciences de la Terre de Paris (ISTeP)*. ***Invited***

@@ -4,7 +4,7 @@ title: Curriculum
 permalink: /curriculum
 ---
 
-ORCID profile [0000-0001-5132-6228](https://orcid.org/0000-0001-5132-6228) (to be updated)
+ORCID profile [0000-0001-5132-6228](https://orcid.org/0000-0001-5132-6228)
 
 ## Education
 
@@ -65,4 +65,3 @@ ORCID profile [0000-0001-5132-6228](https://orcid.org/0000-0001-5132-6228) (to b
 - *July 2021* **Mantle heterogeneity: origins & contribution to magmatism & implications for mantle dynamics** Tilhac, R., Lambart, S., Lissenberg, J., Sanfilippo, A. *Goldschmidt conference 2021 - Session 2e*, Lyon (France, online)
 
 - *June 2020* **Development and recycling of chemical and isotopic heterogeneities in the sub-arc mantle: observations, models and experiments**, Tilhac, R., Garrido, C. *Goldschmidt conference 2020 - Session 3a*, Hawaii (USA, online)
-
