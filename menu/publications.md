@@ -7,6 +7,14 @@ All available on [Google Scholar](https://scholar.google.com/citations?user=CwjY
 
 ## Peer-reviewed articles
 
+### Under review
+
+25. König, S., Varas-Reus, M.I., **Tilhac, R.**, Garrido, C. J. Selenium isotope constraints on sediment–oceanic crust interaction during slab deserpentinization. *Science Advances*.
+
+24. Muñoz Alfaro, J., König, S., Marchesi, S., **Tilhac, R.**, Varas-Reus, M.I., Padrón-Navarta, J.A., López Sánchez-Vizcaíno V., Schoenberg, R. Garrido, C.J. Selenium isotope constraints on sediment–oceanic crust interaction during slab deserpentinization. *Geochemica et Cosmochimica Acta*
+
+23. Mikrut, J., Matusiak-Małek, M., Puziewicz, J., Aulbach, S., Ntaflos, T., Grégoire, M., Johansson, L., Kukuła, A., Buczko, D., **Tilhac, R.** Complex evolution of lithospheric mantle beneath the southern margin of the East European Craton evidenced by heterogeneous peridotitic xenoliths from Scania, S Sweden. *Contributions to Mineralogy and Petrology*.
+
 ### 2025
 
 22. Coltat, R., Debret, B., **Tilhac, R.**, Andreani, M., Patten, C. G. C., Godard, M., & Escartín, J. Multi-isotopic (Fe-Cu-Zn) constraints on the magmato-hydrothermal history during mantle exhumation at slow-spreading centers. 2025. *Geochimica et Cosmochimica Acta*, **388**, 48-60. [DOI](https://doi.org/10.1016/j.gca.2024.11.013)
@@ -118,27 +126,35 @@ All available on [Google Scholar](https://scholar.google.com/citations?user=CwjY
 [DOI](https://doi.org/10.1016/j.tecto.2013.07.035)
 [Link to the PDF]({{ site.github.url }}/articles/Tilhac_et_al._2013.pdf)
 
-## Conference abstracts & invited seminars
+## Conference abstracts & workshops
+
+### 2026
+
+33. Matsuyama, K., Harigane, Y., Natsume, I., **Tilhac, R.**, Ildefonse, B., Michibayashi, K. 2026. Variation in petrological and microstructural characteristics of the Horoman peridotite complex. *General Meeting of the International Mineralogical Association*.
+
+32. Alard, O., Svetlana, T., **Tilhac, R.**, Heckel, C., Griffin, W.L., O'Reilly, S.Y. 2026. Ultra-depleted by orthopyroxene-rich peridotite from Kaapvaal. *Goldschmidt Conference.*
+
+31. Bédard, J.H., Soltanmohammadi, A., Henry, H., **Tilhac, R.**, Paktunc, D., Zagrtdenov, N., Hinchey, A., Guilmette, C. 2026. Spinel-rich feldspathic peridotites formed by hybridization between boninitic sills and tholeiitic host gabbros in the Bay of Islands ophiolite. *GAC-MAC Annual Meeting.*
+
+30. Matsuyama, K., Harigane, Y., Natsume, I., **Tilhac, R.**, Ildefonse, B., Michibayashi, K. 2026. Variation in petrological features and crystal-fabrics in the Horoman peridotite complex: Insights to melt-rock interaction within the uppermost mantle. *JpGU–AGU Joint Meeting 2026*.
 
 ### 2025
 
-30.  **Tilhac, R.**, Garbet, L., König, S., Garrido, C.J. 2025. First Lu-Hf isotope data from the ultramafic-mafic Jijal Complex, Kohistan arc (Pakistan). *5th Earth Mantle Worshop (EMAW)*. ***Invited***
+29. **Tilhac, R.** 2025. Modélisation pétrologique et géochimique du magmatisme océanique. *Formation CNRS en Terre Interne FORSTERITE – « Un état des lieux des connaissances sur la formation de la lithosphère océanique »*.  ***Invited***
 
-29. Muñoz Alfaro, J., König, S., Marchesi, C., Richter, M., **Tilhac, R.**, Padrón-Navarta, J.A., López Sánchez-Vizcaíno, V., Garrido, C.J. 2025. Isótopos de Se evidencian deserpentinización modulada por la infiltración de fluidos reductores procedentes de sedimentos. Sociedad Española de Mineralogía.
+28.  **Tilhac, R.**, Garbet, L., König, S., Garrido, C.J. 2025. First Lu-Hf isotope data from the ultramafic-mafic Jijal Complex, Kohistan arc (Pakistan). *5th Earth Mantle Worshop (EMAW)*. ***Invited***
+
+27. Muñoz Alfaro, J., König, S., Marchesi, C., Richter, M., **Tilhac, R.**, Padrón-Navarta, J.A., López Sánchez-Vizcaíno, V., Garrido, C.J. 2025. Isótopos de Se evidencian deserpentinización modulada por la infiltración de fluidos reductores procedentes de sedimentos. *Sociedad Española de Mineralogía*.
 
 ### 2024
 
-28. **Tilhac R.** Le rôle de l’eau dans le magmatisme mantellique : modèles de transport réactif et perspectives de géochimie computationnelle. *Institut des Sciences de la Terre de Paris (ISTeP)*. ***Invited***
-
-27. **Tilhac R.**, Garrido, C.J., König, S., Varas-Reus, M.I. 2024. Chocolate in the marble cake: the fate of eclogite and pyroxenite during mantle convection and melting. *European Geosciences Union (EGU) General Assembly*.
+26. **Tilhac R.**, Garrido, C.J., König, S., Varas-Reus, M.I. 2024. Chocolate in the marble cake: the fate of eclogite and pyroxenite during mantle convection and melting. *European Geosciences Union (EGU) General Assembly*.
 
 ### 2023
 
-26.  **Tilhac, R.**, Garrido, C.J., Hidas, K., Oliveira, B. 2023. First natural evidence of kinetic Eu anomalies in the Earth’s mantle:implications for the interpretation of ghost plagioclase signatures in oceanic basalts. *Goldschmidt Conference*.
+25.  **Tilhac, R.**, Garrido, C.J., Hidas, K., Oliveira, B. 2023. First natural evidence of kinetic Eu anomalies in the Earth’s mantle:implications for the interpretation of ghost plagioclase signatures in oceanic basalts. *Goldschmidt Conference*.
 
-25.  Coltat, R., Debret, B., **Tilhac, R.**, Andreani, M., Patten, P., Godard, M., Escartin, J. 2023. Fe, Cu and Zn isotopes: proxies to constrain the magmato-hydrothermal history at oceanic core complexes (Mid-Atlantic Ridge Kane area, MARK, 23°N, ODP Leg 153). *Goldschmidt Conference*.
-
-24. **Tilhac, R.**. 2023. Pyroxenites: a key geochemical vector in the mantle. *Goethe University (Geosciences colloquium series)*. ***Invited***
+24.  Coltat, R., Debret, B., **Tilhac, R.**, Andreani, M., Patten, P., Godard, M., Escartin, J. 2023. Fe, Cu and Zn isotopes: proxies to constrain the magmato-hydrothermal history at oceanic core complexes (Mid-Atlantic Ridge Kane area, MARK, 23°N, ODP Leg 153). *Goldschmidt Conference*.
 
 ### 2022
 
@@ -205,3 +221,11 @@ All available on [Google Scholar](https://scholar.google.com/citations?user=CwjY
 ### 2012
 
 1. Perrin, C., Prestimonaco, L., Servelle, G., **Tilhac, R.**, Maury, M. Cabrol, P. 2012. Aragonite-calcite speleothems (Hérault, France): Identifying original and diagenetic features. *29th IAS Meeting of Sedimentology*, 40.
+
+## Invited seminars
+
+3. **Tilhac R.** Le rôle de l’eau dans le magmatisme mantellique : modèles de transport réactif et perspectives de géochimie computationnelle. *Institut des Sciences de la Terre de Paris (ISTeP)*.
+
+2. **Tilhac, R.**. 2023. Pyroxenites: a key geochemical vector in the mantle. *Goethe University (Geosciences colloquium series)*.
+
+1. **Tilhac, R.**. 2019. Open-system melting modelling of San Carlos peridotites. *Tokyo University*
