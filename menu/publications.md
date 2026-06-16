@@ -130,6 +130,8 @@ All available on [Google Scholar](https://scholar.google.com/citations?user=CwjY
 
 ### 2026
 
+34. Matsuyama, K., Harigane, Y., **Tilhac, R.**, Ildefonse, B., Michibayashi, K. 2026. Partial melting and plastic deformation recorded in the Horoman peridotite complex. *Horoman Mantle Drilling Workshop (ICDP)*
+
 33. Matsuyama, K., Harigane, Y., Natsume, I., **Tilhac, R.**, Ildefonse, B., Michibayashi, K. 2026. Variation in petrological and microstructural characteristics of the Horoman peridotite complex. *General Meeting of the International Mineralogical Association*.
 
 32. Alard, O., Svetlana, T., **Tilhac, R.**, Heckel, C., Griffin, W.L., O'Reilly, S.Y. 2026. Ultra-depleted by orthopyroxene-rich peridotite from Kaapvaal. *Goldschmidt Conference.*
