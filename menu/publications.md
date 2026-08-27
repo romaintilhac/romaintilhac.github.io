@@ -11,9 +11,13 @@ All available on [Google Scholar](https://scholar.google.com/citations?user=CwjY
 
 25. König, S., Varas-Reus, M.I., **Tilhac, R.**, Garrido, C. J. Selenium isotope constraints on sediment–oceanic crust interaction during slab deserpentinization. *Science Advances*.
 
-24. Muñoz Alfaro, J., König, S., Marchesi, S., **Tilhac, R.**, Varas-Reus, M.I., Padrón-Navarta, J.A., López Sánchez-Vizcaíno V., Schoenberg, R. Garrido, C.J. Selenium isotope constraints on sediment–oceanic crust interaction during slab deserpentinization. *Geochemica et Cosmochimica Acta*
 
-23. Mikrut, J., Matusiak-Małek, M., Puziewicz, J., Aulbach, S., Ntaflos, T., Grégoire, M., Johansson, L., Kukuła, A., Buczko, D., **Tilhac, R.** Complex evolution of lithospheric mantle beneath the southern margin of the East European Craton evidenced by heterogeneous peridotitic xenoliths from Scania, S Sweden. *Contributions to Mineralogy and Petrology*.
+24. Mikrut, J., Matusiak-Małek, M., Puziewicz, J., Aulbach, S., Ntaflos, T., Grégoire, M., Johansson, L., Kukuła, A., Buczko, D., **Tilhac, R.** Complex evolution of lithospheric mantle beneath the southern margin of the East European Craton evidenced by heterogeneous peridotitic xenoliths from Scania, S Sweden. *Contributions to Mineralogy and Petrology*.
+
+### 2026
+
+23. Muñoz-Alfaro, J., König, S., Marchesi, S., **Tilhac, R.**, Varas-Reus, M.I., Padrón-Navarta, J.A., López Sánchez-Vizcaíno V., Schoenberg, R. Garrido, C.J. Selenium isotope constraints on sediment–oceanic crust interaction during slab deserpentinization. *Geochemica et Cosmochimica Acta*. [DOI](https://doi.org/10.1016/j.gca.2026.07.049)
+[Link to the PDF]({{ site.github.url }}/articles/Muñoz-Alfaro_et_al._2026.pdf)
 
 ### 2025
 
@@ -230,4 +234,4 @@ All available on [Google Scholar](https://scholar.google.com/citations?user=CwjY
 
 2. **Tilhac, R.**. 2023. Pyroxenites: a key geochemical vector in the mantle. *Goethe University (Geosciences colloquium series)*.
 
-1. **Tilhac, R.**. 2019. Open-system melting modelling of San Carlos peridotites. *Tokyo University*
+1. **Tilhac, R.**. 2019. Open-system melting modelling of San Carlos peridotites. *Tokyo University* 
