@@ -104,7 +104,7 @@ All available on [Google Scholar](https://scholar.google.com/citations?user=CwjY
 
 ### 2017
 
-5.	**Tilhac, R.**, Grégoire, M., O’Reilly, S.Y., Griffin, W.L., Henry, H., Ceuleneer, G. 2017. Source and timing of pyroxenite formation in the sub-arc mantle: Casestudy of the Cabo Ortegal Complex, Spain. *Earth and Planetary Science Letters*, **474**, 490-502.
+5.	**Tilhac, R.**, Grégoire, M., O’Reilly, S.Y., Griffin, W.L., Henry, H., Ceuleneer, G. 2017. Source and timing of pyroxenite formation in the sub-arc mantle: Case study of the Cabo Ortegal Complex, Spain. *Earth and Planetary Science Letters*, **474**, 490-502.
 [DOI](https://doi.org/10.1016/j.epsl.2017.07.017)
 [Link to the PDF]({{ site.github.url }}/articles/Tilhac_et_al._2017.pdf)
 
