@@ -64,11 +64,11 @@ All available on [Google Scholar](https://scholar.google.com/citations?user=CwjY
 [DOI](https://doi.org/10.1016/j.lithos.2021.106047)
 [Link to the PDF]({{ site.github.url }}/articles/Henry_et_al._2021.pdf)
 
-### 2020
-
 13.	Moghadam, H.S., Li, Q., Griffin, W.L., Stern R. J., Santos, J.F., Lucci, F., Beyarslan, M., Ghorbani, H., Ravankhah, A., **Tilhac, R.**, O’Reilly, S.Y. 2020. Prolonged magmatism and growth of the Iran-Anatolia Cadomian continental arc segment in Northern Gondwana, *Lithos*, **384-385**, 105940.
 [DOI](https://doi.org/10.1016/j.lithos.2020.105940)
 [Link to the PDF]({{ site.github.url }}/articles/Moghadam_et_al._2020.pdf)
+
+### 2020
 
 12.	Oliveira, B., Afonso, J.C., **Tilhac, R.** 2020. A disequilibrium reactive transport model for mantle magmatism. *Journal of Petrology*, **61 (9)**, egaa067. ***Editor's Choice***
 [DOI](https://doi.org/10.1093/petrology/egaa067)
