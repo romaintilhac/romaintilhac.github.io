@@ -3,7 +3,6 @@ layout: page
 title: Publications
 permalink: /publications
 ---
-All available on [Google Scholar](https://scholar.google.com/citations?user=CwjYbK8AAAAJ&hl=en).
 
 ## Peer-reviewed articles
 

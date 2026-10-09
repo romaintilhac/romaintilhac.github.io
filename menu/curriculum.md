@@ -4,10 +4,6 @@ title: Curriculum
 permalink: /curriculum
 ---
 
-ORCID profile [0000-0001-5132-6228](https://orcid.org/0000-0001-5132-6228)
-
-ResearcherID [Y-5232-2019](https://www.webofscience.com/wos/author/record/Y-5232-2019)
-
 ## Education
 
 - *2013-2016* **PhD in petrology and geochemistry**, Macquarie University, Sydney (Australia). *Thesis ranked in the top 10%*

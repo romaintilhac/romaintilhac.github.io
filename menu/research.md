@@ -9,9 +9,21 @@ permalink: /research
   style="width: 600px; height: 200px; object-fit: cover;"
 />
 
-My research relates to the compositional evolution of the Earth’s mantle through the study of mafic and ultramafic terranes and xenoliths. I use trace-element and isotope geochemistry and petrological modelling to understand the genesis of mantle-derived magmas, their sources and differentiation processes. I am especially interested in elemental mobility and isotopic fractionation in the sub-arc mantle and the role of melt-peridotite interaction during the formation of pyroxenites.
+My research focuses on the role of melt generation and melt-rock interaction in the evolution and dynamics of the Earth’s mantle. I combine analytical and numerical techniques to develop a petrologically consistent approach to computational geochemistry. I am currently working on deep oceanic magmatism and the impact of pyroxene-rich heterogeneities in global geochemical cycles.
 
-Find out more on [ResearchGate](https://www.researchgate.net/profile/Romain-Tilhac).
+[ResearchGate](https://www.researchgate.net/profile/Romain-Tilhac).
+
+[Google Scholar](https://scholar.google.com/citations?user=CwjYbK8AAAAJ&hl=en).
+
+[ORCID 0000-0001-5132-6228](https://orcid.org/0000-0001-5132-6228)
+
+[ResearcherID Y-5232-2019](https://www.webofscience.com/wos/author/record/Y-5232-2019)
+
+[HAL CV](https://cv.hal.science/romain-tilhac)
+
+[LinkedIn](www.linkedin.com/in/romain-tilhac)
+
+[SCOPUS 55845266800](https://www.scopus.com/authid/detail.uri?authorId=55845266800)
 
 ---
 
@@ -21,17 +33,17 @@ Find out more on [ResearchGate](https://www.researchgate.net/profile/Romain-Tilh
 
 Constraining the impact of melting and lithospheric melt-rock interaction processes to identify the signature of recycled lithologies and other source components in primary oceanic basalts, intra-plate volcanics and associated xenoliths.
 
-### Melt-rock interaction in the oceanic lithosphere
-
-
-
 ### Differentiation of arc magmas and subduction-related recycling
 
 Characterizing the nature and composition of magmatic products (and their metamorphic and metasomatic overprints) in the sub-arc mantle and lower crust to constrain:
 - the impact of fluid-melt-rock interaction on the evolution of arc magmas;
 - the impact of their potential recycling on the dynamics and magmatism of the convective mantle.
 
-Studied localities include the [Cabo Ortegal Complex]({{ site.github.url }}/cabo-ortegal) (Galicia, NW Spain) and the Trinity Ophiolite (California, USA).
+Studied localities include the [Cabo Ortegal Complex]({{ site.github.url }}/cabo-ortegal) (Galicia, NW Spain) and the Kohistan arc (Pakistan).
+
+### Melt-rock interaction in the oceanic lithosphere
+
+Studied localities include the Trinity Ophiolite (California, USA) and the Bay of Islands Ophiolite Complex (Newfoundland, Canada).
 
 ---
 
