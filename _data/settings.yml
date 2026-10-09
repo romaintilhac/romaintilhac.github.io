@@ -15,6 +15,7 @@ menu:
 
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
 social:
+- {icon: 'linkedin',     link: 'https://www.linkedin.com/in/romain-tilhac'}
 - {icon: 'github',     link: 'https://www.github.com/romaintilhac'}
 - {icon: 'twitter',    link: 'https://twitter.com/romaintilhac'}
 - {icon: 'instagram',    link: 'https://www.instagram.com/romaintilhac'}

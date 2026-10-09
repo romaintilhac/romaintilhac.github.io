@@ -4,10 +4,14 @@ title: Curriculum
 permalink: /curriculum
 ---
 
-[HAL CV](https://cv.hal.science/romain-tilhac)
-
-[LinkedIn](www.linkedin.com/in/romain-tilhac)
-
+<div style="display: flex; justify-content: flex-end; align-items: center; gap: 15px;">
+  <a href="https://www.webofscience.com/wos/author/record/Y-5232-2019" target="_blank" rel="noopener noreferrer" title="Web of Science">
+  <i class="ai ai-clarivate" style="font-size: 1.6em;"></i>
+</a>
+<a href="https://cv.hal.science/romain-tilhac" target="_blank" rel="noopener noreferrer" title="HAL">
+  <i class="fa fa-book" style="font-size: 1.6em;"></i>
+</a>
+</div>
 
 ## Education
 

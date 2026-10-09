@@ -4,6 +4,15 @@ title: Research
 permalink: /research
 ---
 
+<div style="display: flex; justify-content: flex-end; align-items: center; gap: 15px;">
+  <a href="https://www.researchgate.net/profile/Romain-Tilhac" target="_blank" rel="noopener noreferrer" title="ResearchGate">
+    <i class="ai ai-researchgate" style="font-size: 1.6em;"></i>
+  </a>
+  <a href="https://orcid.org/0000-0001-5132-6228" target="_blank" rel="noopener noreferrer" title="ORCID">
+    <i class="ai ai-orcid" style="font-size: 1.6em;"></i>
+  </a>
+</div>
+
 <img
   src="{{ site.github.url }}/assets/img/terrain.jpg"
   style="width: 600px; height: 200px; object-fit: cover;"
@@ -12,8 +21,6 @@ permalink: /research
 My research focuses on the role of melt generation and melt-rock interaction in the evolution and dynamics of the Earth’s mantle. I combine analytical and numerical techniques to develop a petrologically consistent approach to computational geochemistry. I am currently working on deep oceanic magmatism and the impact of pyroxene-rich heterogeneities in global geochemical cycles.
 
 I also founded The MANTLE NETWORK Initiative ([mantlenetwork.org](https://mantlenetwork.org)), an international collective of scientists studying the Earth’s mantle.
-
-[ResearchGate](https://www.researchgate.net/profile/Romain-Tilhac).
 
 ---
 

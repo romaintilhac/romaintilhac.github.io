@@ -4,14 +4,14 @@ title: Publications
 permalink: /publications
 ---
 
-[Google Scholar](https://scholar.google.com/citations?user=CwjYbK8AAAAJ&hl=en).
-
-[ORCID 0000-0001-5132-6228](https://orcid.org/0000-0001-5132-6228)
-
-[ResearcherID Y-5232-2019](https://www.webofscience.com/wos/author/record/Y-5232-2019)
-
-[SCOPUS 55845266800](https://www.scopus.com/authid/detail.uri?authorId=55845266800)
-
+<div style="display: flex; justify-content: flex-end; align-items: center; gap: 15px;">
+  <a href="https://scholar.google.com/citations?user=CwjYbK8AAAAJ&amp;hl=en" target="_blank" rel="noopener noreferrer" title="Google Scholar">
+    <i class="ai ai-google-scholar" style="font-size: 1.6em;"></i>
+  </a>
+  <a href="https://www.scopus.com/authid/detail.uri?authorId=55845266800" target="_blank" rel="noopener noreferrer" title="Scopus">
+    <i class="ai ai-scopus" style="font-size: 1.6em;"></i>
+  </a>
+</div>
 
 ## Peer-reviewed articles
 
