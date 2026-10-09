@@ -4,6 +4,11 @@ title: Curriculum
 permalink: /curriculum
 ---
 
+[HAL CV](https://cv.hal.science/romain-tilhac)
+
+[LinkedIn](www.linkedin.com/in/romain-tilhac)
+
+
 ## Education
 
 - *2013-2016* **PhD in petrology and geochemistry**, Macquarie University, Sydney (Australia). *Thesis ranked in the top 10%*

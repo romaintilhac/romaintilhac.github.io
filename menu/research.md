@@ -13,18 +13,6 @@ My research focuses on the role of melt generation and melt-rock interaction in 
 
 [ResearchGate](https://www.researchgate.net/profile/Romain-Tilhac).
 
-[Google Scholar](https://scholar.google.com/citations?user=CwjYbK8AAAAJ&hl=en).
-
-[ORCID 0000-0001-5132-6228](https://orcid.org/0000-0001-5132-6228)
-
-[ResearcherID Y-5232-2019](https://www.webofscience.com/wos/author/record/Y-5232-2019)
-
-[HAL CV](https://cv.hal.science/romain-tilhac)
-
-[LinkedIn](www.linkedin.com/in/romain-tilhac)
-
-[SCOPUS 55845266800](https://www.scopus.com/authid/detail.uri?authorId=55845266800)
-
 ---
 
 ## Current projects
