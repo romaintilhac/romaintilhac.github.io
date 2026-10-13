@@ -14,7 +14,7 @@ image: trinity.jpg
   </a>
 </div>
 
-My scientific productions include 23 peer-review articles published or co-authored to date, as well as > 30 contributions to international conferences. I am also a frequent reviewers for high-rank journals such as Geology, Journal of Petrology, Earth-Science Reviews, CMP, Chemical Geology, Scientific Reports.
+My scientific productions include 23 peer-review articles and > 30 contributions to international conferences. I am also a frequent reviewer for high-rank journals such as Geology, Journal of Petrology, Earth-Science Reviews, CMP, Chemical Geology, Scientific Reports.
 
 <nav class="index">
   <ul>
