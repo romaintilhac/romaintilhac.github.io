@@ -2,6 +2,7 @@
 layout: page
 title: Publications
 permalink: /publications
+image: trinity.jpg
 ---
 
 <div style="display: flex; justify-content: flex-end; align-items: center; gap: 15px;">
@@ -13,12 +14,24 @@ permalink: /publications
   </a>
 </div>
 
-## Peer-reviewed articles
+My scientific productions include 23 peer-review articles published or co-authored to date, as well as > 30 contributions to international conferences. I am also a frequent reviewers for high-rank journals such as Geology, Journal of Petrology, Earth-Science Reviews, CMP, Chemical Geology, Scientific Reports.
+
+<nav class="index">
+  <ul>
+    <li><a href="#peer-reviewed-articles">Peer-reviewed articles</a></li>
+    <li><a href="#conference-abstracts">Conference abstracts</a></li>
+    <li><a href="#invited-lectures">Invited lectures</a></li>
+    <li><a href="#invited-seminars">Invited seminars</a></li>
+  </ul>
+</nav>
+
+---
+
+## Peer-reviewed articles {#peer-reviewed-articles}
 
 ### Under review
 
 25. König, S., Varas-Reus, M.I., **Tilhac, R.**, Garrido, C. J. Selenium isotope constraints on sediment–oceanic crust interaction during slab deserpentinization. *Science Advances*.
-
 
 24. Mikrut, J., Matusiak-Małek, M., Puziewicz, J., Aulbach, S., Ntaflos, T., Grégoire, M., Johansson, L., Kukuła, A., Buczko, D., **Tilhac, R.** Complex evolution of lithospheric mantle beneath the southern margin of the East European Craton evidenced by heterogeneous peridotitic xenoliths from Scania, S Sweden. *Contributions to Mineralogy and Petrology*.
 
@@ -138,108 +151,114 @@ permalink: /publications
 [DOI](https://doi.org/10.1016/j.tecto.2013.07.035)
 [Link to the PDF]({{ site.github.url }}/articles/Tilhac_et_al._2013.pdf)
 
-## Conference abstracts & workshops
+## Conference abstracts {#conference-abstracts}
 
 ### 2026
 
-34. Matsuyama, K., Harigane, Y., **Tilhac, R.**, Ildefonse, B., Michibayashi, K. 2026. Partial melting and plastic deformation recorded in the Horoman peridotite complex. *Horoman Mantle Drilling Workshop (ICDP)*
+30. Matsuyama, K., Harigane, Y., **Tilhac, R.**, Ildefonse, B., Michibayashi, K. 2026. Partial melting and plastic deformation recorded in the Horoman peridotite complex. *Horoman Mantle Drilling Workshop (ICDP)*, Hokkaido (Japan).
 
-33. Matsuyama, K., Harigane, Y., Natsume, I., **Tilhac, R.**, Ildefonse, B., Michibayashi, K. 2026. Variation in petrological and microstructural characteristics of the Horoman peridotite complex. *General Meeting of the International Mineralogical Association*.
+29. Matsuyama, K., Harigane, Y., Natsume, I., **Tilhac, R.**, Ildefonse, B., Michibayashi, K. 2026. Variation in petrological and microstructural characteristics of the Horoman peridotite complex. *General Meeting of the International Mineralogical Association*, Nanjing (China).
 
-32. Alard, O., Svetlana, T., **Tilhac, R.**, Heckel, C., Griffin, W.L., O'Reilly, S.Y. 2026. Ultra-depleted by orthopyroxene-rich peridotite from Kaapvaal. *Goldschmidt Conference.*
+36. Alard, O., Svetlana, T., **Tilhac, R.**, Heckel, C., Griffin, W.L., O'Reilly, S.Y. 2026. Ultra-depleted by orthopyroxene-rich peridotite from Kaapvaal. *Goldschmidt Conference*, Montréal (Canada).
 
-31. Bédard, J.H., Soltanmohammadi, A., Henry, H., **Tilhac, R.**, Paktunc, D., Zagrtdenov, N., Hinchey, A., Guilmette, C. 2026. Spinel-rich feldspathic peridotites formed by hybridization between boninitic sills and tholeiitic host gabbros in the Bay of Islands ophiolite. *GAC-MAC Annual Meeting.*
+37. Bédard, J.H., Soltanmohammadi, A., Henry, H., **Tilhac, R.**, Paktunc, D., Zagrtdenov, N., Hinchey, A., Guilmette, C. 2026. Spinel-rich feldspathic peridotites formed by hybridization between boninitic sills and tholeiitic host gabbros in the Bay of Islands ophiolite. *GAC-MAC Annual Meeting*, Saint John’s (Canada).
 
-30. Matsuyama, K., Harigane, Y., Natsume, I., **Tilhac, R.**, Ildefonse, B., Michibayashi, K. 2026. Variation in petrological features and crystal-fabrics in the Horoman peridotite complex: Insights to melt-rock interaction within the uppermost mantle. *JpGU–AGU Joint Meeting 2026*.
+38. Matsuyama, K., Harigane, Y., Natsume, I., **Tilhac, R.**, Ildefonse, B., Michibayashi, K. 2026. Variation in petrological features and crystal-fabrics in the Horoman peridotite complex: Insights to melt-rock interaction within the uppermost mantle. *Japan Geoscience Union (JpGU)–AGU Joint Meeting 2026*, China (Japan).
 
 ### 2025
 
-29. **Tilhac, R.** 2025. Modélisation pétrologique et géochimique du magmatisme océanique. *Formation CNRS en Terre Interne FORSTERITE – « Un état des lieux des connaissances sur la formation de la lithosphère océanique »*.  ***Invited***
+25.  **Tilhac, R.**, Garbet, L., König, S., Garrido, C.J. 2025. First Lu-Hf isotope data from the ultramafic-mafic Jijal Complex, Kohistan arc (Pakistan). *5th Earth Mantle Worshop (EMAW)*, Vienna (Austria). ***Invited.***
 
-28.  **Tilhac, R.**, Garbet, L., König, S., Garrido, C.J. 2025. First Lu-Hf isotope data from the ultramafic-mafic Jijal Complex, Kohistan arc (Pakistan). *5th Earth Mantle Worshop (EMAW)*. ***Invited***
-
-27. Muñoz Alfaro, J., König, S., Marchesi, C., Richter, M., **Tilhac, R.**, Padrón-Navarta, J.A., López Sánchez-Vizcaíno, V., Garrido, C.J. 2025. Isótopos de Se evidencian deserpentinización modulada por la infiltración de fluidos reductores procedentes de sedimentos. *Sociedad Española de Mineralogía*.
+24. Muñoz Alfaro, J., König, S., Marchesi, C., Richter, M., **Tilhac, R.**, Padrón-Navarta, J.A., López Sánchez-Vizcaíno, V., Garrido, C.J. 2025. Isótopos de Se evidencian deserpentinización modulada por la infiltración de fluidos reductores procedentes de sedimentos. *Sociedad Española de Mineralogía*, Sevilla (Spain).
 
 ### 2024
 
-26. **Tilhac R.**, Garrido, C.J., König, S., Varas-Reus, M.I. 2024. Chocolate in the marble cake: the fate of eclogite and pyroxenite during mantle convection and melting. *European Geosciences Union (EGU) General Assembly*.
+23. **Tilhac R.**, Garrido, C.J., König, S., Varas-Reus, M.I. 2024. Chocolate in the marble cake: the fate of eclogite and pyroxenite during mantle convection and melting. *European Geosciences Union (EGU) General Assembly*, Vienna (Austria).
 
 ### 2023
 
-25.  **Tilhac, R.**, Garrido, C.J., Hidas, K., Oliveira, B. 2023. First natural evidence of kinetic Eu anomalies in the Earth’s mantle:implications for the interpretation of ghost plagioclase signatures in oceanic basalts. *Goldschmidt Conference*.
+22.  **Tilhac, R.**, Garrido, C.J., Hidas, K., Oliveira, B. 2023. First natural evidence of kinetic Eu anomalies in the Earth’s mantle:implications for the interpretation of ghost plagioclase signatures in oceanic basalts. *Goldschmidt Conference*, Lyon (France).
 
-24.  Coltat, R., Debret, B., **Tilhac, R.**, Andreani, M., Patten, P., Godard, M., Escartin, J. 2023. Fe, Cu and Zn isotopes: proxies to constrain the magmato-hydrothermal history at oceanic core complexes (Mid-Atlantic Ridge Kane area, MARK, 23°N, ODP Leg 153). *Goldschmidt Conference*.
+21.  Coltat, R., Debret, B., **Tilhac, R.**, Andreani, M., Patten, P., Godard, M., Escartin, J. 2023. Fe, Cu and Zn isotopes: proxies to constrain the magmato-hydrothermal history at oceanic core complexes (Mid-Atlantic Ridge Kane area, MARK, 23°N, ODP Leg 153). *Goldschmidt Conference*, Lyon (France).
 
 ### 2022
 
-23.  **Tilhac, R.**, Begg, G.C., O’Reilly, S.Y., Griffin, W.L. 2022. A global review of Hf-Nd isotopes: new perspectives on the chicken-and-egg debate on ancient mantle signatures. *4th European Mantle Worshop (EMAW)*.
+20.  **Tilhac, R.**, Begg, G.C., O’Reilly, S.Y., Griffin, W.L. 2022. A global review of Hf-Nd isotopes: new perspectives on the chicken-and-egg debate on ancient mantle signatures. *4th European Mantle Worshop (EMAW)*, Toulouse (France).
 
 ### 2021
 
-22. **Tilhac, R.**, Oliveira, B. 2021. When the mantle hides its (magmatic) sources: disequilibrium, volatiles and other tricks affecting lithosphere composition. *International Symposium Deep Earth Exploration and Practices (DEEP)*. ***Invited***
+1.  **Tilhac, R.**, Oliveira, B. 2021. When the mantle hides its (magmatic) sources: disequilibrium, volatiles and other tricks affecting lithosphere composition. *International Symposium Deep Earth Exploration and Practices (DEEP)*, Nanjing (China, online). ***Invited.***
 
-21. **Tilhac, R.*** 2021. Modélisation des transferts élémentaires entre manteau et croûte. *Formation CNRS en Terre Interne FORSTERITE – « Le couple manteau-croûte : nature et transferts »*.  ***Invited***
+2.  **Tilhac, R.**, Morishita, T., Tamura, A., Guotana, J.M. 2021. Systematic enrichment of mantle harzburgites: new insights from San Carlos xenoliths. *Goldschmidt Conference*, Lyon (France, online)
 
-20. **Tilhac, R.**, Morishita, T., Tamura, A., Guotana, J.M. 2021. Systematic enrichment of mantle harzburgites: new insights from San Carlos xenoliths. *Goldschmidt Conference*.
-
-19. **Tilhac, R.**, Garrido, C.J., Hidas, K., Oliveira, B. 2021. Kinetic fractionation and extreme mineral-scale heterogeneity in the Earth’s mantle. *Goldschmidt Conference*.
+3.  **Tilhac, R.**, Garrido, C.J., Hidas, K., Oliveira, B. 2021. Kinetic fractionation and extreme mineral-scale heterogeneity in the Earth’s mantle. *Goldschmidt Conference*, Lyon (France, online)
 
 ### 2020
 
-18. **Tilhac, R.**, Begg, G.C., O’Reilly, S.Y., Griffin, W.L. 2020. Hf-Nd decoupling in the mantle: a brief review and new geodynamic perspectives. *Goldschmidt Conference*.
+17. **Tilhac, R.**, Begg, G.C., O’Reilly, S.Y., Griffin, W.L. 2020. Hf-Nd decoupling in the mantle: a brief review and new geodynamic perspectives. *Goldschmidt Conference*, Honolulu (United States, online)
 
-17. Oliveira, B., Afonso, J.C., Klöcking, M., **Tilhac, R.** 2020. A disequilibrium reactive transport model for mantle magmatism. *Goldschmidt Conference*.
+16. Oliveira, B., Afonso, J.C., Klöcking, M., **Tilhac, R.** 2020. A disequilibrium reactive transport model for mantle magmatism. *Goldschmidt Conference*, Honolulu (United States, online)
 
 ### 2019
 
-16. **Tilhac, R.**, Schaefer, B.F., Ceuleneer, G., Oliveira, B., Griffin, W.L., O’Reilly, S.Y., Grégoire, M. 2019. Metasomatic Re addition overprints unradiogenic Os in sub-arc mantle. *Goldschmidt Conference*.
+15. **Tilhac, R.**, Schaefer, B.F., Ceuleneer, G., Oliveira, B., Griffin, W.L., O’Reilly, S.Y., Grégoire, M. 2019. Metasomatic Re addition overprints unradiogenic Os in sub-arc mantle. *Goldschmidt Conference*, Barcelona (Spain).
 
-15. Oliveira, B., Afonso, J.C., **Tilhac, R.** 2019. Multiphase Multicomponent Reactive Transport: Disequilibrium melt-rock processes and geochemical geodynamics. *Goldschmidt Conference*.
+14. Oliveira, B., Afonso, J.C., **Tilhac, R.** 2019. Multiphase Multicomponent Reactive Transport: Disequilibrium melt-rock processes and geochemical geodynamics. *Goldschmidt Conference*, Barcelona (Spain).
 
 ### 2018
 
-14. **Tilhac, R.** 2018. TerraneChron®: case studies and applications for industry (and research). *Geoanalysis – 10th International Conference on the Analysis of Geological and Environmental Materials* – Workshop II: Application of LA-ICPMS/MC-ICPMS to exploration needs. ***Invited***
+13. Oliveira, B., Afonso, J.C., **Tilhac, R.** 2018. A Multiphase Multicomponent Reactive Transport Formalism for Disequilibrium Melt-Rock Processes and Geochemical Geodynamics. *American Geophysical Union (AGU) Fall Meeting*, Washington (United States).
 
-13. Oliveira, B., Afonso, J.C., **Tilhac, R.** 2018. A Multiphase Multicomponent Reactive Transport Formalism for Disequilibrium Melt-Rock Processes and Geochemical Geodynamics. *American Geophysical Union (AGU) Fall Meeting*. 
+12. **Tilhac, R.**, Griffin, W.L., O’Reilly, S.Y., Schaefer, B.F., Ceuleneer, G., Grégoire, M. 2018. Hafnium-neodymium isotopic decoupling during the formation of arc pyroxenites (Cabo Ortegal Complex, Spain). *3rd European Mantle Workshop (EMAW)*, Pavia (Italy).
 
-12. **Tilhac, R.**, Griffin, W.L., O’Reilly, S.Y., Schaefer, B.F., Ceuleneer, G., Grégoire, M. 2018. Hafnium-neodymium isotopic decoupling during the formation of arc pyroxenites (Cabo Ortegal Complex, Spain). *3rd European Mantle Workshop (EMAW)*.
+11. Oliveira, O., **Tilhac, R.**, Afonso, J.C. 2018. A diffusion-controlled trace-element disequilibrium model for two-phase reactive transport in mafic-ultramafic systems. *3rd European Mantle Workshop (EMAW)*, Pavia (Italy).
 
-11. Oliveira, O., **Tilhac, R.**, Afonso, J.C. 2018. A diffusion-controlled trace-element disequilibrium model for two-phase reactive transport in mafic-ultramafic systems. *3rd European Mantle Workshop (EMAW)*.
-
-10. Henry H., Ceuleneer G., O’Reilly S.Y., Griffin W. L., Kaczmarek M. A., Gregoire M., **Tilhac R.** 2018. Microstructure of layered ultramafic cumulates: case study of the bear creek intrusion, Trinity ophiolite, California, USA. *3rd European Mantle Workshop (EMAW)*.
+10. Henry H., Ceuleneer G., O’Reilly S.Y., Griffin W. L., Kaczmarek M. A., Gregoire M., **Tilhac R.** 2018. Microstructure of layered ultramafic cumulates: case study of the bear creek intrusion, Trinity ophiolite, California, USA. *3rd European Mantle Workshop (EMAW)*, Pavia (Italy).
 
 ### 2017
 
-9. **Tilhac, R.**, Griffin, W.L., O’Reilly, S.Y., Ceuleneer, G., Schaefer, B., Henry, H., Grégoire, M. 2017. Radiogenic isotope geochemistry of Cabo Ortegal pyroxenites: origin and age of a sub-arc mantle domain. *Goldschmidt Conference*.
+9. **Tilhac, R.**, Griffin, W.L., O’Reilly, S.Y., Ceuleneer, G., Schaefer, B., Henry, H., Grégoire, M. 2017. Radiogenic isotope geochemistry of Cabo Ortegal pyroxenites: origin and age of a sub-arc mantle domain. *Goldschmidt Conference*, Paris (France).
 
-8. Oliveira, B., Afonso, J.C., **Tilhac, R.** 2017. Numerical Modelling of Multi-Phase Multi-Component Reactive Transport in the Earth’s interior. *Goldschmidt Conference*.
+8. Oliveira, B., Afonso, J.C., **Tilhac, R.** 2017. Numerical Modelling of Multi-Phase Multi-Component Reactive Transport in the Earth’s interior. *Goldschmidt Conference*, Paris (France).
 
-7. Henry, H., Afonso, J.C., Satsukawa, T., Griffin, W.L., O’Reilly, S.Y., Kaczmarek, M.-A., **Tilhac, R.**, Grégoire, M., Ceuleneer, G. 2017. The unexplored potential impact of pyroxenitic layering on upper mantle seismic properties. *Goldschmidt Conference*.
+7. Henry, H., Afonso, J.C., Satsukawa, T., Griffin, W.L., O’Reilly, S.Y., Kaczmarek, M.-A., **Tilhac, R.**, Grégoire, M., Ceuleneer, G. 2017. The unexplored potential impact of pyroxenitic layering on upper mantle seismic properties. *Goldschmidt Conference*, Paris (France).
 
-6. Oliveira, B., Afonso, J.C., Zlotnik, S., **Tilhac, R.** 2017. Numerical Modelling of Multi-Phase Multi-Component Reactive Transport in the Earth’s interior. 2017. *European Geosciences Union (EGU) General Assembly*, 19, 18307.
+6. Oliveira, B., Afonso, J.C., Zlotnik, S., **Tilhac, R.** 2017. Numerical Modelling of Multi-Phase Multi-Component Reactive Transport in the Earth’s interior. 2017. *European Geosciences Union (EGU) General Assembly*, 19, 18307, Vienna (Austria).
 
 ### 2015
 
-5. **Tilhac, R.**, Grégoire, M., Ceuleneer, G., O’Reilly, S.Y., Griffin, W.L., Pearson, N.J. 2015. Metasomatized segregates of high-Ca boninites: Cabo Ortegal pyroxenites. *Goldschmidt Conference*, 3133.
+5. **Tilhac, R.**, Grégoire, M., Ceuleneer, G., O’Reilly, S.Y., Griffin, W.L., Pearson, N.J. 2015. Metasomatized segregates of high-Ca boninites: Cabo Ortegal pyroxenites. *Goldschmidt Conference*, 3133, Prague (Czech Republic)
 
-4. **Tilhac, R.**, O’Reilly, S.Y., Griffin, W.L., Pearson, N.J., Ceuleneer, G., Grégoire, M. 2015. Multi-stage supra-subduction metasomatism in the Cabo Ortegal Complex, Spain. *European Geosciences Union (EGU) General Assembly*, 17, 454.
+4. **Tilhac, R.**, O’Reilly, S.Y., Griffin, W.L., Pearson, N.J., Ceuleneer, G., Grégoire, M. 2015. Multi-stage supra-subduction metasomatism in the Cabo Ortegal Complex, Spain. *European Geosciences Union (EGU) General Assembly*, 17, 454, Vienna (Austria)
 
 ### 2014
 
-3. **Tilhac, R.**, O’Reilly, S.Y., Griffin, W.L., Pearson, N.J., Ceuleneer, G., González-Jiménez, J.M., Grégoire, M. 2014. How mantle heterogeneities control supra-subduction metasomatism: constraints from the Cabo Ortegal Complex, Spain. Geological Society of Australia, Abstracts, 110, *AESC, 22nd Australian Geological Convention*, 301.
+3. **Tilhac, R.**, O’Reilly, S.Y., Griffin, W.L., Pearson, N.J., Ceuleneer, G., González-Jiménez, J.M., Grégoire, M. 2014. How mantle heterogeneities control supra-subduction metasomatism: constraints from the Cabo Ortegal Complex, Spain. Geological Society of Australia, Abstracts, 110, *AESC, 22nd Australian Geological Convention*, 301, Newcastle (Australia).
 
 ### 2013
 
-2. Perrin, C., Prestimonaco, L., Servelle, G., **Tilhac, R.**, Maury, M., Cabrol, P. 2013. Growth and diagenetic history of aragonite-calcite speleothems, implications for environmental studies. *16th ICS Proceedings*, 2, 447-449.
+2. Perrin, C., Prestimonaco, L., Servelle, G., **Tilhac, R.**, Maury, M., Cabrol, P. 2013. Growth and diagenetic history of aragonite-calcite speleothems, implications for environmental studies. *16th ICS Proceedings*, 2, 447-449, Schladming (Austria)
 
 ### 2012
 
 1. Perrin, C., Prestimonaco, L., Servelle, G., **Tilhac, R.**, Maury, M. Cabrol, P. 2012. Aragonite-calcite speleothems (Hérault, France): Identifying original and diagenetic features. *29th IAS Meeting of Sedimentology*, 40.
 
-## Invited seminars
+## Invited lectures {#invited-lectures}
 
-3. **Tilhac R.** Le rôle de l’eau dans le magmatisme mantellique : modèles de transport réactif et perspectives de géochimie computationnelle. *Institut des Sciences de la Terre de Paris (ISTeP)*.
+4. **Tilhac, R.** 2026. New geochemical perspectives on mantle magmatism: from field observations to numerical models. *MEREMA 3*, Volterra (Italy).
 
-2. **Tilhac, R.**. 2023. Pyroxenites: a key geochemical vector in the mantle. *Goethe University (Geosciences colloquium series)*.
+3. **Tilhac, R.** 2025. Modélisation pétrologique et géochimique du magmatisme océanique. *Formation CNRS en Terre Interne FORSTERITE – « Un état des lieux des connaissances sur la formation de la lithosphère océanique »*, Auzat (France).
 
-1. **Tilhac, R.**. 2019. Open-system melting modelling of San Carlos peridotites. *Tokyo University* 
+2. **Tilhac, R.*** 2021. Modélisation des transferts élémentaires entre manteau et croûte. *Formation CNRS en Terre Interne FORSTERITE – « Le couple manteau-croûte : nature et transferts »*. Auzat (France).
+
+1. **Tilhac, R.** 2018. TerraneChron®: case studies and applications for industry (and research). *Geoanalysis – 10th International Conference on the Analysis of Geological and Environmental Materials* – Workshop II: Application of LA-ICPMS/MC-ICPMS to exploration needs, Sydney (Australia).
+
+## Invited seminars {#invited-seminars}
+
+4. **Tilhac, R.** 2026. Magmatisme mantellique : exemples de terrain et perspectives de géochimie computationnelle. *Laboratoire Magmas et Volcans (LMV)*, Clermont-Ferrand (France).
+
+3. **Tilhac R.** 2024. Le rôle de l’eau dans le magmatisme mantellique : modèles de transport réactif et perspectives de géochimie computationnelle. *Institut des Sciences de la Terre de Paris (ISTeP)*, Paris (France)
+
+2. **Tilhac, R.**. 2023. Pyroxenites: a key geochemical vector in the mantle. *Goethe University (Geosciences colloquium series)*, Frankfurt (Germany).
+
+1. **Tilhac, R.**. 2019. Open-system melting modelling of San Carlos peridotites. *Tokyo University*, Tokyo (Japan).

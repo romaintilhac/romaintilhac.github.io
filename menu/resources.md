@@ -3,7 +3,16 @@ layout: page
 title: Resources
 permalink: /resources
 ---
-All available on my [Github](https://github.com/romaintilhac) page.
+
+<div style="display: flex; justify-content: flex-end; align-items: center; gap: 15px;">
+  <a href="https://github.com/romaintilhac"
+     target="_blank"
+     rel="noopener noreferrer"
+     title="GitHub"
+     aria-label="GitHub">
+    <i class="fa fa-github" style="font-size: 1.6em;"></i>
+  </a>
+</div>
 
 ## Percolation-diffusion model
 
@@ -15,6 +24,7 @@ Available [here](https://github.com/romaintilhac/percolation-diffusion.git) and 
   src="{{ site.github.url }}/assets/img/kinetic3D.png"
   style="width: 600px; height: 300px; object-fit: contain;"
 />
+
 *Model of kinetic Eu anomaly developed in clinopyroxene by diffusion.*
 
 

@@ -1,0 +1,27 @@
+---
+layout: default
+---
+
+<h1>{{ page.title }}</h1>
+
+{% assign index_marker = '<!-- INDEX -->' %}
+{% assign index_parts = content | split: '<!-- END INDEX -->' %}
+
+{% if index_parts.size > 1 %}
+  {% assign index_block = index_parts[0] | split: index_marker | last %}
+  {{ index_block }}
+  {% assign page_content = index_parts[1] %}
+{% else %}
+  {% assign page_content = content %}
+{% endif %}
+
+{% if page.image %}
+<div class="thumbnail-container">
+  <img src="{{ '/assets/img/' | append: page.image | relative_url }}"
+       alt="{{ page.title | escape }}">
+</div>
+{% endif %}
+
+<article>
+  {{ page_content }}
+</article>

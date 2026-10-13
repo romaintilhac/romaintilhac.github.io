@@ -1,29 +1,21 @@
-# Site Build Settings
+lang: en-US
+title: 'Romain Tilhac'
+description: 'Personal webpage'
 
-# Jekyll-paginate-v2 configuration
-#  pagination:
-#   enabled: true
-#   per_page: 5
-#   permalink: '/page/:num/'
-#   title: ':title - page :num of :max'
-#   limit: 0
-#   sort_field: 'date'
-#   sort_reverse: true
+author: Romain Tilhac
+email: romain.tilhac@umontpellier.fr
 
-# jekyll-paginate configuration
-paginate:            5
+baseurl: ""
+url: "https://romaintilhac.github.io"
 
-# Build settings
 markdown:            kramdown
 highlighter:         rouge
 permalink:           /:title
-plugins:             [jekyll-paginate, jekyll-sitemap, jekyll-feed, jekyll-seo-tag, jekyll-toc]
+plugins: 
+ - jekyll-paginate
+ - jekyll-sitemap
+ - jekyll-feed
+ - jekyll-seo-tag
+ - jekyll-toc
 
-# Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
-title:		           'Romain Tilhac'
-description:	       'Personal webpage'
-author:              'Romain Tilhac'
-
-# RSS 2.0 can be used instead of Atom by uncommenting following two lines
-#feed:
-#  path: rss-feed.xml
+paginate:            5
