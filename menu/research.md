@@ -40,7 +40,7 @@ My research focuses on the evolution and dynamics of the Earth’s mantle throug
 
 **Oceanic basalts provide a key record of mantle composition and dynamics. However, melting and mixing processes can obscure the signatures of recycled lithologies and other source components.**
 
-This is the line of research I am currently initiating, combining geochemical and isotopic constraints with numerical models to investigate processes controlling basalt compositions, hence our interpretation of mantle heterogeneity. I have developed the [Mixed-Source Melting model (MSM3)]({{ site.baseurl }}/resources/#mixed-source-melting) to investigate melting of lithologically heterogeneous mantle sources. The model integrates thermodynamic constraints on pyroxenite melting to invert basalt compositions and estimate the contribution of recycled oceanic lithologies. I am applying this stochastic approach to multiple geochemical proxies, including radiogenic and stable isotope systems (*e.g.,* for selenium; König *et al.*, under review).
+This is the line of research I am currently initiating, combining geochemical and isotopic constraints with numerical models to investigate processes controlling basalt compositions, hence our interpretation of mantle heterogeneity. I have developed the [Mixed-Source Melting model (MSM3)]({{ '/resources/#mixed-source-melting' | relative_url }}) to investigate melting of lithologically heterogeneous mantle sources. The model integrates thermodynamic constraints on pyroxenite melting to invert basalt compositions and estimate the contribution of recycled oceanic lithologies. I am applying this stochastic approach to multiple geochemical proxies, including radiogenic and stable isotope systems (*e.g.,* for selenium; König *et al.*, under review).
 
 Related publications:
 - [Borisova & Tilhac, 2021 — Derivation of Hawaiian rejuvenated magmas from deep carbonated mantle sources: A review of experimental and natural constraints](https://doi.org/10.1016/j.earscirev.2021.103819).
@@ -57,7 +57,7 @@ My ongoing research investigates how these processes influence geochemical signa
   <p class="image-caption">Nearby Mount Shasta (4,322 m), viewed from the Trinity ophiolite, California.</p>
 </div>
 
-A related research direction focuses on [**kinetic fractionation**]({{ site.baseurl }}/resources/#percolation-diffusion) during melt–rock interaction and its implications for interpreting geochemical signatures. In particular, I demonstrated that kinetic fractionation of europium can generate anomalies traditionally attributed to the involvement of plagioclase, highlighting how disequilibrium processes can produce signatures that are not uniquely diagnostic of mineral assemblages ([Tilhac *et al.*, 2023](https://doi.org/10.1038/s41467-023-36753-0)).
+A related research direction focuses on [**kinetic fractionation**]({{site.baseurl}}/resources/#percolation-diffusion) during melt–rock interaction and its implications for interpreting geochemical signatures. In particular, I demonstrated that kinetic fractionation of europium can generate anomalies traditionally attributed to the involvement of plagioclase, highlighting how disequilibrium processes can produce signatures that are not uniquely diagnostic of mineral assemblages ([Tilhac *et al.*, 2023](https://doi.org/10.1038/s41467-023-36753-0)).
 
 Related publications:
 
