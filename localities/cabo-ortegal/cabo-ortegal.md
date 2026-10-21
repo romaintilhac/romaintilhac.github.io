@@ -2,12 +2,8 @@
 layout: page
 title: Cabo Ortegal Complex
 permalink: /cabo-ortegal
+image: pyroxenites.jpg
 ---
-
-<img
-  src="{{ site.github.url }}/assets/img/pyroxenites.jpg"
-  style="width: 600px; height: 200px; object-fit: cover;"
-/>
 
 The Cabo Ortegal Complex is known to the mantle community for its ultramafic massifs that preserve some of the best outcrops of pyroxenite among orogenic massifs worldwide. The *Herbeira* massif of the Cabo Ortegal Complex preserves abundant primitive pyroxenites that intruded into mantle peridotites. It is a unique example of a delaminated arc root exhumed through a subduction zone. 
 
