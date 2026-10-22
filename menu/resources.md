@@ -1,7 +1,8 @@
 ---
-layout: page-with-index
+layout: page
 title: Resources
 permalink: /resources
+image: pyroxenites.jpg
 ---
 
 <div style="display: flex; justify-content: flex-end; align-items: center; gap: 15px;">
